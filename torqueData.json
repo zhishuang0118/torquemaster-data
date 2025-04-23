@@ -1,7 +1,7 @@
 {
-  "Acura": {
-    "Cl": {
-      "1998": [
+  "1998": {
+    "Acura": {
+      "Cl": [
         {
           "trim": "2.3L COUPE",
           "torque_ftlb": 80
@@ -11,7 +11,45 @@
           "torque_ftlb": 80
         }
       ],
-      "1999": [
+      "Tl": [
+        {
+          "trim": "2.5L SEDAN",
+          "torque_ftlb": 80
+        },
+        {
+          "trim": "3.2L SEDAN",
+          "torque_ftlb": 80
+        }
+      ],
+      "3.5Rl": [
+        {
+          "trim": "ALL / SEDAN",
+          "torque_ftlb": 80
+        }
+      ],
+      "Integra": [
+        {
+          "trim": "CPE/SDN / LS/GS",
+          "torque_ftlb": 80
+        }
+      ],
+      "Nsx": [
+        {
+          "trim": "COUPE / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "Slx": [
+        {
+          "trim": "4 DOOR / SUV",
+          "torque_ftlb": 90
+        }
+      ]
+    }
+  },
+  "1999": {
+    "Acura": {
+      "Cl": [
         {
           "trim": "2.3L COUPE",
           "torque_ftlb": 80
@@ -21,39 +59,257 @@
           "torque_ftlb": 80
         }
       ],
-      "1997": [
+      "Tl": [
+        {
+          "trim": "3.2L SEDAN",
+          "torque_ftlb": 80
+        }
+      ],
+      "3.5Rl": [
+        {
+          "trim": "ALL / SEDAN",
+          "torque_ftlb": 80
+        }
+      ],
+      "Integra": [
+        {
+          "trim": "CPE/SDN / LS/GS",
+          "torque_ftlb": 80
+        }
+      ],
+      "Nsx": [
+        {
+          "trim": "COUPE / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "Slx": [
+        {
+          "trim": "4 DOOR / SUV",
+          "torque_ftlb": 90
+        }
+      ]
+    }
+  },
+  "1997": {
+    "Acura": {
+      "Cl": [
         {
           "trim": "3.0L COUPE",
           "torque_ftlb": 80
         }
       ],
-      "2000": [
+      "Tl": [
+        {
+          "trim": "2.5L SEDAN",
+          "torque_ftlb": 80
+        },
+        {
+          "trim": "3.2L SEDAN",
+          "torque_ftlb": 80
+        }
+      ],
+      "3.5Rl": [
+        {
+          "trim": "ALL / SEDAN",
+          "torque_ftlb": 80
+        }
+      ],
+      "Integra": [
+        {
+          "trim": "CPE/SDN / LS/GS",
+          "torque_ftlb": 80
+        }
+      ],
+      "Nsx": [
+        {
+          "trim": "COUPE / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "Slx": [
+        {
+          "trim": "4 DOOR / SUV",
+          "torque_ftlb": 90
+        }
+      ]
+    }
+  },
+  "2000": {
+    "Acura": {
+      "Cl": [
         {
           "trim": "3.0L COUPE",
           "torque_ftlb": 80
         }
       ],
-      "2001": [
+      "Tl": [
         {
-          "trim": "3.2L COUPE",
+          "trim": "3.2L SEDAN",
           "torque_ftlb": 80
         }
       ],
-      "2002": [
+      "3.5Rl": [
         {
-          "trim": "3.2L COUPE",
+          "trim": "ALL / SEDAN",
           "torque_ftlb": 80
         }
       ],
-      "2003": [
+      "Integra": [
         {
-          "trim": "3.2L COUPE",
+          "trim": "CPE/SDN / LS/GS",
+          "torque_ftlb": 80
+        }
+      ],
+      "Nsx": [
+        {
+          "trim": "COUPE / ALL",
           "torque_ftlb": 80
         }
       ]
-    },
-    "Tl": {
-      "1996": [
+    }
+  },
+  "2001": {
+    "Acura": {
+      "Cl": [
+        {
+          "trim": "3.2L COUPE",
+          "torque_ftlb": 80
+        }
+      ],
+      "Tl": [
+        {
+          "trim": "3.2L SEDAN",
+          "torque_ftlb": 80
+        }
+      ],
+      "3.2Tl-S": [
+        {
+          "trim": "ALL / SEDAN",
+          "torque_ftlb": 80
+        }
+      ],
+      "3.5Rl": [
+        {
+          "trim": "ALL / SEDAN",
+          "torque_ftlb": 80
+        }
+      ],
+      "Integra": [
+        {
+          "trim": "CPE/SDN / LS/GS",
+          "torque_ftlb": 80
+        }
+      ],
+      "Mdx": [
+        {
+          "trim": "4WD- / SUV",
+          "torque_ftlb": 80
+        }
+      ],
+      "Nsx": [
+        {
+          "trim": "COUPE / ALL",
+          "torque_ftlb": 80
+        }
+      ]
+    }
+  },
+  "2002": {
+    "Acura": {
+      "Cl": [
+        {
+          "trim": "3.2L COUPE",
+          "torque_ftlb": 80
+        }
+      ],
+      "Tl": [
+        {
+          "trim": "3.2L SEDAN",
+          "torque_ftlb": 80
+        }
+      ],
+      "3.2Tl-S": [
+        {
+          "trim": "ALL / SEDAN",
+          "torque_ftlb": 80
+        }
+      ],
+      "3.5Rl": [
+        {
+          "trim": "ALL / SEDAN",
+          "torque_ftlb": 80
+        }
+      ],
+      "Mdx": [
+        {
+          "trim": "4WD- / SUV",
+          "torque_ftlb": 80
+        }
+      ],
+      "Nsx": [
+        {
+          "trim": "COUPE / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "Rsx": [
+        {
+          "trim": "17-INCH / BASE/TYP S",
+          "torque_ftlb": 80
+        }
+      ]
+    }
+  },
+  "2003": {
+    "Acura": {
+      "Cl": [
+        {
+          "trim": "3.2L COUPE",
+          "torque_ftlb": 80
+        }
+      ],
+      "Tl": [
+        {
+          "trim": "3.2L SEDAN",
+          "torque_ftlb": 80
+        }
+      ],
+      "3.2Tl-S": [
+        {
+          "trim": "ALL / SEDAN",
+          "torque_ftlb": 80
+        }
+      ],
+      "3.5Rl": [
+        {
+          "trim": "ALL / SEDAN",
+          "torque_ftlb": 80
+        }
+      ],
+      "Mdx": [
+        {
+          "trim": "4WD- / SUV",
+          "torque_ftlb": 80
+        }
+      ],
+      "Nsx": [
+        {
+          "trim": "COUPE / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "Rsx": [
+        {
+          "trim": "17-INCH / BASE/TYP S",
+          "torque_ftlb": 80
+        }
+      ]
+    }
+  },
+  "1996": {
+    "Acura": {
+      "Tl": [
         {
           "trim": "2.5L SEDAN",
           "torque_ftlb": 80
@@ -63,545 +319,599 @@
           "torque_ftlb": 80
         }
       ],
-      "1997": [
+      "3.5Rl": [
         {
-          "trim": "2.5L SEDAN",
-          "torque_ftlb": 80
-        },
-        {
-          "trim": "3.2L SEDAN",
+          "trim": "ALL / SEDAN",
           "torque_ftlb": 80
         }
       ],
-      "1998": [
+      "Integra": [
         {
-          "trim": "2.5L SEDAN",
-          "torque_ftlb": 80
-        },
-        {
-          "trim": "3.2L SEDAN",
+          "trim": "CPE/SDN / LS/GS",
           "torque_ftlb": 80
         }
       ],
-      "1999": [
+      "Nsx": [
         {
-          "trim": "3.2L SEDAN",
+          "trim": "COUPE / ALL",
           "torque_ftlb": 80
         }
       ],
-      "2000": [
+      "Slx": [
         {
-          "trim": "3.2L SEDAN",
-          "torque_ftlb": 80
-        }
-      ],
-      "2001": [
-        {
-          "trim": "3.2L SEDAN",
-          "torque_ftlb": 80
-        }
-      ],
-      "2002": [
-        {
-          "trim": "3.2L SEDAN",
-          "torque_ftlb": 80
-        }
-      ],
-      "2003": [
-        {
-          "trim": "3.2L SEDAN",
-          "torque_ftlb": 80
-        }
-      ],
-      "2004": [
-        {
-          "trim": "17\"BASE / BASE SEDAN",
-          "torque_ftlb": 80
-        }
-      ],
-      "2005": [
-        {
-          "trim": "17\"BASE / BASE SEDAN",
-          "torque_ftlb": 80
-        }
-      ],
-      "2006": [
-        {
-          "trim": "17\"BASE / BASE SEDAN",
-          "torque_ftlb": 80
-        }
-      ],
-      "2007": [
-        {
-          "trim": "17\"BASE / BASE SEDAN",
-          "torque_ftlb": 80
-        }
-      ],
-      "2008": [
-        {
-          "trim": "17\"BASE / BASE SEDAN",
-          "torque_ftlb": 80
-        }
-      ],
-      "2009": [
-        {
-          "trim": "17\"BASE / BASE",
-          "torque_ftlb": 95
-        }
-      ],
-      "2010": [
-        {
-          "trim": "17\"BASE / BASE",
-          "torque_ftlb": 95
-        }
-      ],
-      "2011": [
-        {
-          "trim": "17\"BASE / BASE",
-          "torque_ftlb": 95
-        }
-      ],
-      "2012": [
-        {
-          "trim": "17\"BASE / BASE",
-          "torque_ftlb": 95
-        }
-      ],
-      "2013": [
-        {
-          "trim": "17\"BASE / BASE",
-          "torque_ftlb": 95
-        }
-      ],
-      "2014": [
-        {
-          "trim": "17\"BASE / BASE",
-          "torque_ftlb": 95
+          "trim": "4 DOOR / SUV",
+          "torque_ftlb": 90
         }
       ]
-    },
-    "3.2Tl-S": {
-      "2001": [
+    }
+  },
+  "2004": {
+    "Acura": {
+      "Tl": [
+        {
+          "trim": "17\"BASE / BASE SEDAN",
+          "torque_ftlb": 80
+        }
+      ],
+      "3.5Rl": [
         {
           "trim": "ALL / SEDAN",
           "torque_ftlb": 80
         }
       ],
-      "2002": [
+      "Mdx": [
         {
-          "trim": "ALL / SEDAN",
+          "trim": "4WD- / SUV",
           "torque_ftlb": 80
         }
       ],
-      "2003": [
+      "Nsx": [
+        {
+          "trim": "COUPE / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "Rsx": [
+        {
+          "trim": "17-INCH / BASE/TYP S",
+          "torque_ftlb": 80
+        }
+      ],
+      "Tsx": [
         {
           "trim": "ALL / SEDAN",
-          "torque_ftlb": 80
+          "torque_ftlb": 90
         }
       ]
-    },
-    "3.5Rl": {
-      "1996": [
+    }
+  },
+  "2005": {
+    "Acura": {
+      "Tl": [
         {
-          "trim": "ALL / SEDAN",
+          "trim": "17\"BASE / BASE SEDAN",
           "torque_ftlb": 80
         }
       ],
-      "1997": [
+      "Mdx": [
         {
-          "trim": "ALL / SEDAN",
+          "trim": "4WD- / SUV",
           "torque_ftlb": 80
         }
       ],
-      "1998": [
+      "Nsx": [
         {
-          "trim": "ALL / SEDAN",
+          "trim": "COUPE / ALL",
           "torque_ftlb": 80
         }
       ],
-      "1999": [
+      "Rl": [
         {
-          "trim": "ALL / SEDAN",
+          "trim": "18\"BASE / ALL",
+          "torque_ftlb": 95
+        }
+      ],
+      "Rsx": [
+        {
+          "trim": "17-INCH / BASE/TYP S",
           "torque_ftlb": 80
         }
       ],
-      "2000": [
+      "Tsx": [
         {
           "trim": "ALL / SEDAN",
+          "torque_ftlb": 90
+        }
+      ]
+    }
+  },
+  "2006": {
+    "Acura": {
+      "Tl": [
+        {
+          "trim": "17\"BASE / BASE SEDAN",
           "torque_ftlb": 80
         }
       ],
-      "2001": [
+      "Mdx": [
         {
-          "trim": "ALL / SEDAN",
+          "trim": "4WD- / SUV",
           "torque_ftlb": 80
         }
       ],
-      "2002": [
+      "Rl": [
         {
-          "trim": "ALL / SEDAN",
+          "trim": "18\"BASE / ALL",
+          "torque_ftlb": 95
+        }
+      ],
+      "Rsx": [
+        {
+          "trim": "17-INCH / BASE/TYP S",
           "torque_ftlb": 80
         }
       ],
-      "2003": [
+      "Tsx": [
         {
           "trim": "ALL / SEDAN",
+          "torque_ftlb": 90
+        }
+      ]
+    }
+  },
+  "2007": {
+    "Acura": {
+      "Tl": [
+        {
+          "trim": "17\"BASE / BASE SEDAN",
           "torque_ftlb": 80
         }
       ],
-      "2004": [
+      "Mdx": [
         {
-          "trim": "ALL / SEDAN",
+          "trim": "18\"BASE / ALL",
+          "torque_ftlb": 95
+        }
+      ],
+      "Rdx": [
+        {
+          "trim": "18\"BASE / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "Rl": [
+        {
+          "trim": "18\"BASE / ALL",
+          "torque_ftlb": 95
+        }
+      ],
+      "Tsx": [
+        {
+          "trim": "17\"BASE / SPRT WAGON",
           "torque_ftlb": 80
         }
       ]
-    },
-    "Ilx": {
-      "2013": [
+    }
+  },
+  "2008": {
+    "Acura": {
+      "Tl": [
+        {
+          "trim": "17\"BASE / BASE SEDAN",
+          "torque_ftlb": 80
+        }
+      ],
+      "Mdx": [
+        {
+          "trim": "18\"BASE / ALL",
+          "torque_ftlb": 95
+        }
+      ],
+      "Rdx": [
+        {
+          "trim": "18\"BASE / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "Rl": [
+        {
+          "trim": "18\"BASE / ALL",
+          "torque_ftlb": 95
+        }
+      ],
+      "Tsx": [
+        {
+          "trim": "17\"BASE / SPRT WAGON",
+          "torque_ftlb": 80
+        }
+      ]
+    }
+  },
+  "2009": {
+    "Acura": {
+      "Tl": [
+        {
+          "trim": "17\"BASE / BASE",
+          "torque_ftlb": 95
+        }
+      ],
+      "Mdx": [
+        {
+          "trim": "18\"BASE / ALL",
+          "torque_ftlb": 95
+        }
+      ],
+      "Rdx": [
+        {
+          "trim": "18\"BASE / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "Rl": [
+        {
+          "trim": "18\"BASE / ALL",
+          "torque_ftlb": 95
+        }
+      ],
+      "Tsx": [
+        {
+          "trim": "17\"BASE / SPRT WAGON",
+          "torque_ftlb": 80
+        }
+      ]
+    }
+  },
+  "2010": {
+    "Acura": {
+      "Tl": [
+        {
+          "trim": "17\"BASE / BASE",
+          "torque_ftlb": 95
+        }
+      ],
+      "Mdx": [
+        {
+          "trim": "18\"BASE / ALL",
+          "torque_ftlb": 95
+        }
+      ],
+      "Rdx": [
+        {
+          "trim": "18\"BASE / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "Rl": [
+        {
+          "trim": "18\"BASE / ALL",
+          "torque_ftlb": 95
+        }
+      ],
+      "Tsx": [
+        {
+          "trim": "17\"BASE / SPRT WAGON",
+          "torque_ftlb": 80
+        }
+      ],
+      "Zdx": [
+        {
+          "trim": "19\"BASE / ALL",
+          "torque_ftlb": 90
+        }
+      ]
+    }
+  },
+  "2011": {
+    "Acura": {
+      "Tl": [
+        {
+          "trim": "17\"BASE / BASE",
+          "torque_ftlb": 95
+        }
+      ],
+      "Mdx": [
+        {
+          "trim": "18\"BASE / ALL",
+          "torque_ftlb": 95
+        }
+      ],
+      "Rdx": [
+        {
+          "trim": "18\"BASE / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "Rl": [
+        {
+          "trim": "18\"BASE / ALL",
+          "torque_ftlb": 95
+        }
+      ],
+      "Tsx": [
+        {
+          "trim": "17\"BASE / SPRT WAGON",
+          "torque_ftlb": 95
+        }
+      ],
+      "Zdx": [
+        {
+          "trim": "19\"BASE / ALL",
+          "torque_ftlb": 90
+        }
+      ]
+    }
+  },
+  "2012": {
+    "Acura": {
+      "Tl": [
+        {
+          "trim": "17\"BASE / BASE",
+          "torque_ftlb": 95
+        }
+      ],
+      "Mdx": [
+        {
+          "trim": "18\"BASE / ALL",
+          "torque_ftlb": 95
+        }
+      ],
+      "Rdx": [
+        {
+          "trim": "18\"BASE / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "Rl": [
+        {
+          "trim": "18\"BASE / ALL",
+          "torque_ftlb": 95
+        }
+      ],
+      "Tsx": [
+        {
+          "trim": "17\"BASE / SPRT WAGON",
+          "torque_ftlb": 95
+        }
+      ],
+      "Zdx": [
+        {
+          "trim": "19\"BASE / ALL",
+          "torque_ftlb": 90
+        }
+      ]
+    }
+  },
+  "2013": {
+    "Acura": {
+      "Tl": [
+        {
+          "trim": "17\"BASE / BASE",
+          "torque_ftlb": 95
+        }
+      ],
+      "Ilx": [
         {
           "trim": "17\"BASE /2.4L",
           "torque_ftlb": 80
         }
       ],
-      "2014": [
+      "Mdx": [
+        {
+          "trim": "18\"BASE / ALL",
+          "torque_ftlb": 95
+        }
+      ],
+      "Rdx": [
+        {
+          "trim": "18\"BASE / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "Tsx": [
+        {
+          "trim": "17\"BASE / SPRT WAGON",
+          "torque_ftlb": 95
+        }
+      ],
+      "Zdx": [
+        {
+          "trim": "19\"BASE / ALL",
+          "torque_ftlb": 90
+        }
+      ]
+    }
+  },
+  "2014": {
+    "Acura": {
+      "Tl": [
+        {
+          "trim": "17\"BASE / BASE",
+          "torque_ftlb": 95
+        }
+      ],
+      "Ilx": [
         {
           "trim": "17\"BASE / 2.4L",
           "torque_ftlb": 80
         }
       ],
-      "2015": [
+      "Mdx": [
+        {
+          "trim": "18\"BASE / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "Rdx": [
+        {
+          "trim": "18\"BASE / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "Rlx": [
+        {
+          "trim": "19\"BASE / BASE",
+          "torque_ftlb": 95
+        }
+      ],
+      "Tsx": [
+        {
+          "trim": "17\"BASE / SPRT WAGON",
+          "torque_ftlb": 95
+        }
+      ]
+    }
+  },
+  "2015": {
+    "Acura": {
+      "Ilx": [
         {
           "trim": "17\"BASE / 2.4L",
           "torque_ftlb": 80
         }
       ],
-      "2016": [
+      "Mdx": [
+        {
+          "trim": "18\"BASE / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "Rdx": [
+        {
+          "trim": "18\"BASE / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "Rlx": [
+        {
+          "trim": "19\"BASE / BASE",
+          "torque_ftlb": 95
+        }
+      ]
+    }
+  },
+  "2016": {
+    "Acura": {
+      "Ilx": [
         {
           "trim": "17\"BASE / 2.4L",
           "torque_ftlb": 80
         }
       ],
-      "2017": [
+      "Mdx": [
+        {
+          "trim": "18\"BASE / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "Nsx": [
+        {
+          "trim": "ALL / COUPE",
+          "torque_ftlb": 120
+        }
+      ],
+      "Rdx": [
+        {
+          "trim": "18\"BASE / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "Rlx": [
+        {
+          "trim": "19\"BASE / BASE",
+          "torque_ftlb": 95
+        }
+      ],
+      "Tlx": [
+        {
+          "trim": "17\"BASE / 2.4",
+          "torque_ftlb": 80
+        }
+      ]
+    }
+  },
+  "2017": {
+    "Acura": {
+      "Ilx": [
         {
           "trim": "17\"BASE / 2.4L",
           "torque_ftlb": 80
         }
       ],
-      "2018": [
+      "Nsx": [
+        {
+          "trim": "ALL / COUPE",
+          "torque_ftlb": 120
+        }
+      ],
+      "Rdx": [
+        {
+          "trim": "18\"BASE / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "Rlx": [
+        {
+          "trim": "19\"BASE / BASE",
+          "torque_ftlb": 95
+        }
+      ],
+      "Tlx": [
+        {
+          "trim": "17\"BASE / 2.4",
+          "torque_ftlb": 80
+        }
+      ]
+    }
+  },
+  "2018": {
+    "Acura": {
+      "Ilx": [
         {
           "trim": "17\"BASE / 2.4L",
           "torque_ftlb": 80
         }
       ],
-      "2020": [
+      "Mdx": [
+        {
+          "trim": "18\"BASE / ALL",
+          "torque_ftlb": 95
+        }
+      ],
+      "Nsx": [
+        {
+          "trim": "ALL / COUPE",
+          "torque_ftlb": 120
+        }
+      ],
+      "Rdx": [
+        {
+          "trim": "18\"BASE / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "Rlx": [
+        {
+          "trim": "19\"BASE / BASE",
+          "torque_ftlb": 95
+        }
+      ],
+      "Tlx": [
+        {
+          "trim": "17\"BASE / 2.4",
+          "torque_ftlb": 80
+        }
+      ]
+    }
+  },
+  "2020": {
+    "Acura": {
+      "Ilx": [
         {
           "trim": "2.4L",
           "torque_ftlb": 80
         }
       ],
-      "2021": [
-        {
-          "trim": "A-SPEC",
-          "torque_ftlb": 80
-        },
-        {
-          "trim": "PREMIUM",
-          "torque_ftlb": 80
-        },
-        {
-          "trim": "STANDARD",
-          "torque_ftlb": 80
-        }
-      ],
-      "2022": [
-        {
-          "trim": "A-SPEC",
-          "torque_ftlb": 80
-        },
-        {
-          "trim": "PREMIUM",
-          "torque_ftlb": 80
-        },
-        {
-          "trim": "STANDARD",
-          "torque_ftlb": 80
-        }
-      ]
-    },
-    "Integra": {
-      "1986": [
-        {
-          "trim": "CPE/SDN / LS/GS",
-          "torque_ftlb": 80
-        }
-      ],
-      "1987": [
-        {
-          "trim": "CPE/SDN / LS/GS",
-          "torque_ftlb": 80
-        }
-      ],
-      "1988": [
-        {
-          "trim": "CPE/SDN / LS/GS",
-          "torque_ftlb": 80
-        }
-      ],
-      "1989": [
-        {
-          "trim": "CPE/SDN / LS/GS",
-          "torque_ftlb": 80
-        }
-      ],
-      "1990": [
-        {
-          "trim": "CPE/SDN / LS/GS",
-          "torque_ftlb": 80
-        }
-      ],
-      "1991": [
-        {
-          "trim": "CPE/SDN / LS/GS",
-          "torque_ftlb": 80
-        }
-      ],
-      "1992": [
-        {
-          "trim": "CPE/SDN / LS/GS",
-          "torque_ftlb": 80
-        }
-      ],
-      "1993": [
-        {
-          "trim": "CPE/SDN / LS/GS",
-          "torque_ftlb": 80
-        }
-      ],
-      "1994": [
-        {
-          "trim": "CPE/SDN / LS/GS",
-          "torque_ftlb": 80
-        }
-      ],
-      "1995": [
-        {
-          "trim": "CPE/SDN / LS/GS",
-          "torque_ftlb": 80
-        }
-      ],
-      "1996": [
-        {
-          "trim": "CPE/SDN / LS/GS",
-          "torque_ftlb": 80
-        }
-      ],
-      "1997": [
-        {
-          "trim": "CPE/SDN / LS/GS",
-          "torque_ftlb": 80
-        }
-      ],
-      "1998": [
-        {
-          "trim": "CPE/SDN / LS/GS",
-          "torque_ftlb": 80
-        }
-      ],
-      "1999": [
-        {
-          "trim": "CPE/SDN / LS/GS",
-          "torque_ftlb": 80
-        }
-      ],
-      "2000": [
-        {
-          "trim": "CPE/SDN / LS/GS",
-          "torque_ftlb": 80
-        }
-      ],
-      "2001": [
-        {
-          "trim": "CPE/SDN / LS/GS",
-          "torque_ftlb": 80
-        }
-      ],
-      "2023": [
-        {
-          "trim": "A-SPEC",
-          "torque_ftlb": 80
-        },
-        {
-          "trim": "BASE",
-          "torque_ftlb": 80
-        }
-      ]
-    },
-    "Legend": {
-      "1986": [
-        {
-          "trim": "LS COUPE / GS SEDAN",
-          "torque_ftlb": 80
-        }
-      ],
-      "1987": [
-        {
-          "trim": "LS COUPE / GS SEDAN",
-          "torque_ftlb": 80
-        }
-      ],
-      "1988": [
-        {
-          "trim": "LS COUPE / GS SEDAN",
-          "torque_ftlb": 80
-        }
-      ],
-      "1989": [
-        {
-          "trim": "LS COUPE / GS SEDAN",
-          "torque_ftlb": 80
-        }
-      ],
-      "1990": [
-        {
-          "trim": "LS COUPE / GS SEDAN",
-          "torque_ftlb": 80
-        }
-      ],
-      "1991": [
-        {
-          "trim": "LS COUPE / GS SEDAN",
-          "torque_ftlb": 80
-        }
-      ],
-      "1992": [
-        {
-          "trim": "LS COUPE / GS SEDAN",
-          "torque_ftlb": 80
-        }
-      ],
-      "1993": [
-        {
-          "trim": "LS COUPE / GS SEDAN",
-          "torque_ftlb": 80
-        }
-      ],
-      "1994": [
-        {
-          "trim": "LS COUPE / GS SEDAN",
-          "torque_ftlb": 80
-        }
-      ],
-      "1995": [
-        {
-          "trim": "LS COUPE / GS SEDAN",
-          "torque_ftlb": 80
-        }
-      ]
-    },
-    "Mdx": {
-      "2001": [
-        {
-          "trim": "4WD- / SUV",
-          "torque_ftlb": 80
-        }
-      ],
-      "2002": [
-        {
-          "trim": "4WD- / SUV",
-          "torque_ftlb": 80
-        }
-      ],
-      "2003": [
-        {
-          "trim": "4WD- / SUV",
-          "torque_ftlb": 80
-        }
-      ],
-      "2004": [
-        {
-          "trim": "4WD- / SUV",
-          "torque_ftlb": 80
-        }
-      ],
-      "2005": [
-        {
-          "trim": "4WD- / SUV",
-          "torque_ftlb": 80
-        }
-      ],
-      "2006": [
-        {
-          "trim": "4WD- / SUV",
-          "torque_ftlb": 80
-        }
-      ],
-      "2007": [
-        {
-          "trim": "18\"BASE / ALL",
-          "torque_ftlb": 95
-        }
-      ],
-      "2008": [
-        {
-          "trim": "18\"BASE / ALL",
-          "torque_ftlb": 95
-        }
-      ],
-      "2009": [
-        {
-          "trim": "18\"BASE / ALL",
-          "torque_ftlb": 95
-        }
-      ],
-      "2010": [
-        {
-          "trim": "18\"BASE / ALL",
-          "torque_ftlb": 95
-        }
-      ],
-      "2011": [
-        {
-          "trim": "18\"BASE / ALL",
-          "torque_ftlb": 95
-        }
-      ],
-      "2012": [
-        {
-          "trim": "18\"BASE / ALL",
-          "torque_ftlb": 95
-        }
-      ],
-      "2013": [
-        {
-          "trim": "18\"BASE / ALL",
-          "torque_ftlb": 95
-        }
-      ],
-      "2014": [
-        {
-          "trim": "18\"BASE / ALL",
-          "torque_ftlb": 80
-        }
-      ],
-      "2015": [
-        {
-          "trim": "18\"BASE / ALL",
-          "torque_ftlb": 80
-        }
-      ],
-      "2016": [
-        {
-          "trim": "18\"BASE / ALL",
-          "torque_ftlb": 80
-        }
-      ],
-      "2018": [
-        {
-          "trim": "18\"BASE / ALL",
-          "torque_ftlb": 95
-        }
-      ],
-      "2020": [
+      "Mdx": [
         {
           "trim": "A-SPEC SH-AWD",
           "torque_ftlb": 95
@@ -615,261 +925,13 @@
           "torque_ftlb": 95
         }
       ],
-      "2022": [
-        {
-          "trim": "A-SPEC FWD",
-          "torque_ftlb": 95
-        },
-        {
-          "trim": "A-SPEC SH-AWD",
-          "torque_ftlb": 95
-        },
-        {
-          "trim": "BASE FWD",
-          "torque_ftlb": 95
-        },
-        {
-          "trim": "BASE SH-AWD",
-          "torque_ftlb": 95
-        },
-        {
-          "trim": "TYPE-S SH-AWD",
-          "torque_ftlb": 95
-        }
-      ],
-      "2023": [
-        {
-          "trim": "A-SPEC FWD",
-          "torque_ftlb": 95
-        },
-        {
-          "trim": "A-SPEC SH-AWD",
-          "torque_ftlb": 95
-        },
-        {
-          "trim": "BASE FWD",
-          "torque_ftlb": 95
-        },
-        {
-          "trim": "BASE SH-AWD",
-          "torque_ftlb": 95
-        },
-        {
-          "trim": "TYPE-S SH-AWD",
-          "torque_ftlb": 95
-        }
-      ]
-    },
-    "Nsx": {
-      "1991": [
-        {
-          "trim": "COUPE / ALL",
-          "torque_ftlb": 80
-        }
-      ],
-      "1992": [
-        {
-          "trim": "COUPE / ALL",
-          "torque_ftlb": 80
-        }
-      ],
-      "1993": [
-        {
-          "trim": "COUPE / ALL",
-          "torque_ftlb": 80
-        }
-      ],
-      "1994": [
-        {
-          "trim": "COUPE / ALL",
-          "torque_ftlb": 80
-        }
-      ],
-      "1995": [
-        {
-          "trim": "COUPE / ALL",
-          "torque_ftlb": 80
-        }
-      ],
-      "1996": [
-        {
-          "trim": "COUPE / ALL",
-          "torque_ftlb": 80
-        }
-      ],
-      "1997": [
-        {
-          "trim": "COUPE / ALL",
-          "torque_ftlb": 80
-        }
-      ],
-      "1998": [
-        {
-          "trim": "COUPE / ALL",
-          "torque_ftlb": 80
-        }
-      ],
-      "1999": [
-        {
-          "trim": "COUPE / ALL",
-          "torque_ftlb": 80
-        }
-      ],
-      "2000": [
-        {
-          "trim": "COUPE / ALL",
-          "torque_ftlb": 80
-        }
-      ],
-      "2001": [
-        {
-          "trim": "COUPE / ALL",
-          "torque_ftlb": 80
-        }
-      ],
-      "2002": [
-        {
-          "trim": "COUPE / ALL",
-          "torque_ftlb": 80
-        }
-      ],
-      "2003": [
-        {
-          "trim": "COUPE / ALL",
-          "torque_ftlb": 80
-        }
-      ],
-      "2004": [
-        {
-          "trim": "COUPE / ALL",
-          "torque_ftlb": 80
-        }
-      ],
-      "2005": [
-        {
-          "trim": "COUPE / ALL",
-          "torque_ftlb": 80
-        }
-      ],
-      "2016": [
-        {
-          "trim": "ALL / COUPE",
-          "torque_ftlb": 120
-        }
-      ],
-      "2017": [
-        {
-          "trim": "ALL / COUPE",
-          "torque_ftlb": 120
-        }
-      ],
-      "2018": [
-        {
-          "trim": "ALL / COUPE",
-          "torque_ftlb": 120
-        }
-      ],
-      "2020": [
+      "Nsx": [
         {
           "trim": "COUPE",
           "torque_ftlb": 120
         }
       ],
-      "2021": [
-        {
-          "trim": "COUPE",
-          "torque_ftlb": 120
-        },
-        {
-          "trim": "COUPE W/ CARBON CERAMIC BRAKE",
-          "torque_ftlb": 120
-        }
-      ],
-      "2022": [
-        {
-          "trim": "COUPE",
-          "torque_ftlb": 120
-        },
-        {
-          "trim": "COUPE W/ CARBON CERAMIC BRAKE",
-          "torque_ftlb": 120
-        }
-      ]
-    },
-    "Rdx": {
-      "2007": [
-        {
-          "trim": "18\"BASE / ALL",
-          "torque_ftlb": 80
-        }
-      ],
-      "2008": [
-        {
-          "trim": "18\"BASE / ALL",
-          "torque_ftlb": 80
-        }
-      ],
-      "2009": [
-        {
-          "trim": "18\"BASE / ALL",
-          "torque_ftlb": 80
-        }
-      ],
-      "2010": [
-        {
-          "trim": "18\"BASE / ALL",
-          "torque_ftlb": 80
-        }
-      ],
-      "2011": [
-        {
-          "trim": "18\"BASE / ALL",
-          "torque_ftlb": 80
-        }
-      ],
-      "2012": [
-        {
-          "trim": "18\"BASE / ALL",
-          "torque_ftlb": 80
-        }
-      ],
-      "2013": [
-        {
-          "trim": "18\"BASE / ALL",
-          "torque_ftlb": 80
-        }
-      ],
-      "2014": [
-        {
-          "trim": "18\"BASE / ALL",
-          "torque_ftlb": 80
-        }
-      ],
-      "2015": [
-        {
-          "trim": "18\"BASE / ALL",
-          "torque_ftlb": 80
-        }
-      ],
-      "2016": [
-        {
-          "trim": "18\"BASE / ALL",
-          "torque_ftlb": 80
-        }
-      ],
-      "2017": [
-        {
-          "trim": "18\"BASE / ALL",
-          "torque_ftlb": 80
-        }
-      ],
-      "2018": [
-        {
-          "trim": "18\"BASE / ALL",
-          "torque_ftlb": 80
-        }
-      ],
-      "2020": [
+      "Rdx": [
         {
           "trim": "2.0 A-SPEC FWD",
           "torque_ftlb": 80
@@ -887,109 +949,7 @@
           "torque_ftlb": 80
         }
       ],
-      "2021": [
-        {
-          "trim": "2.0 FWD",
-          "torque_ftlb": 80
-        },
-        {
-          "trim": "2.0 SH-AWD",
-          "torque_ftlb": 80
-        }
-      ],
-      "2022": [
-        {
-          "trim": "2.0 FWD",
-          "torque_ftlb": 80
-        },
-        {
-          "trim": "2.0 SH-AWD",
-          "torque_ftlb": 80
-        }
-      ]
-    },
-    "Rl": {
-      "2005": [
-        {
-          "trim": "18\"BASE / ALL",
-          "torque_ftlb": 95
-        }
-      ],
-      "2006": [
-        {
-          "trim": "18\"BASE / ALL",
-          "torque_ftlb": 95
-        }
-      ],
-      "2007": [
-        {
-          "trim": "18\"BASE / ALL",
-          "torque_ftlb": 95
-        }
-      ],
-      "2008": [
-        {
-          "trim": "18\"BASE / ALL",
-          "torque_ftlb": 95
-        }
-      ],
-      "2009": [
-        {
-          "trim": "18\"BASE / ALL",
-          "torque_ftlb": 95
-        }
-      ],
-      "2010": [
-        {
-          "trim": "18\"BASE / ALL",
-          "torque_ftlb": 95
-        }
-      ],
-      "2011": [
-        {
-          "trim": "18\"BASE / ALL",
-          "torque_ftlb": 95
-        }
-      ],
-      "2012": [
-        {
-          "trim": "18\"BASE / ALL",
-          "torque_ftlb": 95
-        }
-      ]
-    },
-    "Rlx": {
-      "2014": [
-        {
-          "trim": "19\"BASE / BASE",
-          "torque_ftlb": 95
-        }
-      ],
-      "2015": [
-        {
-          "trim": "19\"BASE / BASE",
-          "torque_ftlb": 95
-        }
-      ],
-      "2016": [
-        {
-          "trim": "19\"BASE / BASE",
-          "torque_ftlb": 95
-        }
-      ],
-      "2017": [
-        {
-          "trim": "19\"BASE / BASE",
-          "torque_ftlb": 95
-        }
-      ],
-      "2018": [
-        {
-          "trim": "19\"BASE / BASE",
-          "torque_ftlb": 95
-        }
-      ],
-      "2020": [
+      "Rlx": [
         {
           "trim": "BASE FWD",
           "torque_ftlb": 95
@@ -998,92 +958,8 @@
           "trim": "SPORT HYBRID SH-AWD",
           "torque_ftlb": 95
         }
-      ]
-    },
-    "Rsx": {
-      "2002": [
-        {
-          "trim": "17-INCH / BASE/TYP S",
-          "torque_ftlb": 80
-        }
       ],
-      "2003": [
-        {
-          "trim": "17-INCH / BASE/TYP S",
-          "torque_ftlb": 80
-        }
-      ],
-      "2004": [
-        {
-          "trim": "17-INCH / BASE/TYP S",
-          "torque_ftlb": 80
-        }
-      ],
-      "2005": [
-        {
-          "trim": "17-INCH / BASE/TYP S",
-          "torque_ftlb": 80
-        }
-      ],
-      "2006": [
-        {
-          "trim": "17-INCH / BASE/TYP S",
-          "torque_ftlb": 80
-        }
-      ]
-    },
-    "Slx": {
-      "1996": [
-        {
-          "trim": "4 DOOR / SUV",
-          "torque_ftlb": 90
-        }
-      ],
-      "1997": [
-        {
-          "trim": "4 DOOR / SUV",
-          "torque_ftlb": 90
-        }
-      ],
-      "1998": [
-        {
-          "trim": "4 DOOR / SUV",
-          "torque_ftlb": 90
-        }
-      ],
-      "1999": [
-        {
-          "trim": "4 DOOR / SUV",
-          "torque_ftlb": 90
-        }
-      ]
-    },
-    "Tlx": {
-      "2016": [
-        {
-          "trim": "17\"BASE / 2.4",
-          "torque_ftlb": 80
-        }
-      ],
-      "2017": [
-        {
-          "trim": "17\"BASE / 2.4",
-          "torque_ftlb": 80
-        }
-      ],
-      "2018": [
-        {
-          "trim": "17\"BASE / 2.4",
-          "torque_ftlb": 80
-        }
-      ],
-      "2019": [
-        {
-          "trim": "17\"BASE / 2.4",
-          "torque_ftlb": 80
-        }
-      ],
-      "2020": [
+      "Tlx": [
         {
           "trim": "2.4 A-SPEC FWD",
           "torque_ftlb": 80
@@ -1108,8 +984,46 @@
           "trim": "3.5 SH-AWD",
           "torque_ftlb": 80
         }
+      ]
+    }
+  },
+  "2021": {
+    "Acura": {
+      "Ilx": [
+        {
+          "trim": "A-SPEC",
+          "torque_ftlb": 80
+        },
+        {
+          "trim": "PREMIUM",
+          "torque_ftlb": 80
+        },
+        {
+          "trim": "STANDARD",
+          "torque_ftlb": 80
+        }
       ],
-      "2021": [
+      "Nsx": [
+        {
+          "trim": "COUPE",
+          "torque_ftlb": 120
+        },
+        {
+          "trim": "COUPE W/ CARBON CERAMIC BRAKE",
+          "torque_ftlb": 120
+        }
+      ],
+      "Rdx": [
+        {
+          "trim": "2.0 FWD",
+          "torque_ftlb": 80
+        },
+        {
+          "trim": "2.0 SH-AWD",
+          "torque_ftlb": 80
+        }
+      ],
+      "Tlx": [
         {
           "trim": "A-SPEC AWD",
           "torque_ftlb": 95
@@ -1146,8 +1060,68 @@
           "trim": "TYPE-S AWD",
           "torque_ftlb": 95
         }
+      ]
+    }
+  },
+  "2022": {
+    "Acura": {
+      "Ilx": [
+        {
+          "trim": "A-SPEC",
+          "torque_ftlb": 80
+        },
+        {
+          "trim": "PREMIUM",
+          "torque_ftlb": 80
+        },
+        {
+          "trim": "STANDARD",
+          "torque_ftlb": 80
+        }
       ],
-      "2022": [
+      "Mdx": [
+        {
+          "trim": "A-SPEC FWD",
+          "torque_ftlb": 95
+        },
+        {
+          "trim": "A-SPEC SH-AWD",
+          "torque_ftlb": 95
+        },
+        {
+          "trim": "BASE FWD",
+          "torque_ftlb": 95
+        },
+        {
+          "trim": "BASE SH-AWD",
+          "torque_ftlb": 95
+        },
+        {
+          "trim": "TYPE-S SH-AWD",
+          "torque_ftlb": 95
+        }
+      ],
+      "Nsx": [
+        {
+          "trim": "COUPE",
+          "torque_ftlb": 120
+        },
+        {
+          "trim": "COUPE W/ CARBON CERAMIC BRAKE",
+          "torque_ftlb": 120
+        }
+      ],
+      "Rdx": [
+        {
+          "trim": "2.0 FWD",
+          "torque_ftlb": 80
+        },
+        {
+          "trim": "2.0 SH-AWD",
+          "torque_ftlb": 80
+        }
+      ],
+      "Tlx": [
         {
           "trim": "A-SPEC AWD",
           "torque_ftlb": 95
@@ -1181,118 +1155,258 @@
           "torque_ftlb": 95
         }
       ]
-    },
-    "Tsx": {
-      "2004": [
+    }
+  },
+  "1986": {
+    "Acura": {
+      "Integra": [
         {
-          "trim": "ALL / SEDAN",
-          "torque_ftlb": 90
-        }
-      ],
-      "2005": [
-        {
-          "trim": "ALL / SEDAN",
-          "torque_ftlb": 90
-        }
-      ],
-      "2006": [
-        {
-          "trim": "ALL / SEDAN",
-          "torque_ftlb": 90
-        }
-      ],
-      "2007": [
-        {
-          "trim": "17\"BASE / SPRT WAGON",
+          "trim": "CPE/SDN / LS/GS",
           "torque_ftlb": 80
         }
       ],
-      "2008": [
+      "Legend": [
         {
-          "trim": "17\"BASE / SPRT WAGON",
-          "torque_ftlb": 80
-        }
-      ],
-      "2009": [
-        {
-          "trim": "17\"BASE / SPRT WAGON",
-          "torque_ftlb": 80
-        }
-      ],
-      "2010": [
-        {
-          "trim": "17\"BASE / SPRT WAGON",
-          "torque_ftlb": 80
-        }
-      ],
-      "2011": [
-        {
-          "trim": "17\"BASE / SPRT WAGON",
-          "torque_ftlb": 95
-        }
-      ],
-      "2012": [
-        {
-          "trim": "17\"BASE / SPRT WAGON",
-          "torque_ftlb": 95
-        }
-      ],
-      "2013": [
-        {
-          "trim": "17\"BASE / SPRT WAGON",
-          "torque_ftlb": 95
-        }
-      ],
-      "2014": [
-        {
-          "trim": "17\"BASE / SPRT WAGON",
-          "torque_ftlb": 95
-        }
-      ]
-    },
-    "Vigor": {
-      "1992": [
-        {
-          "trim": "CPE/SDN / ALL",
-          "torque_ftlb": 80
-        }
-      ],
-      "1993": [
-        {
-          "trim": "CPE/SDN / ALL",
-          "torque_ftlb": 80
-        }
-      ],
-      "1994": [
-        {
-          "trim": "CPE/SDN / ALL",
+          "trim": "LS COUPE / GS SEDAN",
           "torque_ftlb": 80
         }
       ]
-    },
-    "Zdx": {
-      "2010": [
+    }
+  },
+  "1987": {
+    "Acura": {
+      "Integra": [
         {
-          "trim": "19\"BASE / ALL",
-          "torque_ftlb": 90
+          "trim": "CPE/SDN / LS/GS",
+          "torque_ftlb": 80
         }
       ],
-      "2011": [
+      "Legend": [
         {
-          "trim": "19\"BASE / ALL",
-          "torque_ftlb": 90
+          "trim": "LS COUPE / GS SEDAN",
+          "torque_ftlb": 80
+        }
+      ]
+    }
+  },
+  "1988": {
+    "Acura": {
+      "Integra": [
+        {
+          "trim": "CPE/SDN / LS/GS",
+          "torque_ftlb": 80
         }
       ],
-      "2012": [
+      "Legend": [
         {
-          "trim": "19\"BASE / ALL",
-          "torque_ftlb": 90
+          "trim": "LS COUPE / GS SEDAN",
+          "torque_ftlb": 80
+        }
+      ]
+    }
+  },
+  "1989": {
+    "Acura": {
+      "Integra": [
+        {
+          "trim": "CPE/SDN / LS/GS",
+          "torque_ftlb": 80
         }
       ],
-      "2013": [
+      "Legend": [
         {
-          "trim": "19\"BASE / ALL",
-          "torque_ftlb": 90
+          "trim": "LS COUPE / GS SEDAN",
+          "torque_ftlb": 80
+        }
+      ]
+    }
+  },
+  "1990": {
+    "Acura": {
+      "Integra": [
+        {
+          "trim": "CPE/SDN / LS/GS",
+          "torque_ftlb": 80
+        }
+      ],
+      "Legend": [
+        {
+          "trim": "LS COUPE / GS SEDAN",
+          "torque_ftlb": 80
+        }
+      ]
+    }
+  },
+  "1991": {
+    "Acura": {
+      "Integra": [
+        {
+          "trim": "CPE/SDN / LS/GS",
+          "torque_ftlb": 80
+        }
+      ],
+      "Legend": [
+        {
+          "trim": "LS COUPE / GS SEDAN",
+          "torque_ftlb": 80
+        }
+      ],
+      "Nsx": [
+        {
+          "trim": "COUPE / ALL",
+          "torque_ftlb": 80
+        }
+      ]
+    }
+  },
+  "1992": {
+    "Acura": {
+      "Integra": [
+        {
+          "trim": "CPE/SDN / LS/GS",
+          "torque_ftlb": 80
+        }
+      ],
+      "Legend": [
+        {
+          "trim": "LS COUPE / GS SEDAN",
+          "torque_ftlb": 80
+        }
+      ],
+      "Nsx": [
+        {
+          "trim": "COUPE / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "Vigor": [
+        {
+          "trim": "CPE/SDN / ALL",
+          "torque_ftlb": 80
+        }
+      ]
+    }
+  },
+  "1993": {
+    "Acura": {
+      "Integra": [
+        {
+          "trim": "CPE/SDN / LS/GS",
+          "torque_ftlb": 80
+        }
+      ],
+      "Legend": [
+        {
+          "trim": "LS COUPE / GS SEDAN",
+          "torque_ftlb": 80
+        }
+      ],
+      "Nsx": [
+        {
+          "trim": "COUPE / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "Vigor": [
+        {
+          "trim": "CPE/SDN / ALL",
+          "torque_ftlb": 80
+        }
+      ]
+    }
+  },
+  "1994": {
+    "Acura": {
+      "Integra": [
+        {
+          "trim": "CPE/SDN / LS/GS",
+          "torque_ftlb": 80
+        }
+      ],
+      "Legend": [
+        {
+          "trim": "LS COUPE / GS SEDAN",
+          "torque_ftlb": 80
+        }
+      ],
+      "Nsx": [
+        {
+          "trim": "COUPE / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "Vigor": [
+        {
+          "trim": "CPE/SDN / ALL",
+          "torque_ftlb": 80
+        }
+      ]
+    }
+  },
+  "1995": {
+    "Acura": {
+      "Integra": [
+        {
+          "trim": "CPE/SDN / LS/GS",
+          "torque_ftlb": 80
+        }
+      ],
+      "Legend": [
+        {
+          "trim": "LS COUPE / GS SEDAN",
+          "torque_ftlb": 80
+        }
+      ],
+      "Nsx": [
+        {
+          "trim": "COUPE / ALL",
+          "torque_ftlb": 80
+        }
+      ]
+    }
+  },
+  "2023": {
+    "Acura": {
+      "Integra": [
+        {
+          "trim": "A-SPEC",
+          "torque_ftlb": 80
+        },
+        {
+          "trim": "BASE",
+          "torque_ftlb": 80
+        }
+      ],
+      "Mdx": [
+        {
+          "trim": "A-SPEC FWD",
+          "torque_ftlb": 95
+        },
+        {
+          "trim": "A-SPEC SH-AWD",
+          "torque_ftlb": 95
+        },
+        {
+          "trim": "BASE FWD",
+          "torque_ftlb": 95
+        },
+        {
+          "trim": "BASE SH-AWD",
+          "torque_ftlb": 95
+        },
+        {
+          "trim": "TYPE-S SH-AWD",
+          "torque_ftlb": 95
+        }
+      ]
+    }
+  },
+  "2019": {
+    "Acura": {
+      "Tlx": [
+        {
+          "trim": "17\"BASE / 2.4",
+          "torque_ftlb": 80
         }
       ]
     }
