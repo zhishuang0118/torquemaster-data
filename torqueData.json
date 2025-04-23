@@ -1,16 +1,6 @@
 {
   "Acura": {
     "Cl": {
-      "1997": [
-        {
-          "trim": "2.2L COUPE",
-          "torque_ftlb": 80
-        },
-        {
-          "trim": "3.0L COUPE",
-          "torque_ftlb": 80
-        }
-      ],
       "1998": [
         {
           "trim": "2.3L COUPE",
@@ -26,6 +16,12 @@
           "trim": "2.3L COUPE",
           "torque_ftlb": 80
         },
+        {
+          "trim": "3.0L COUPE",
+          "torque_ftlb": 80
+        }
+      ],
+      "1997": [
         {
           "trim": "3.0L COUPE",
           "torque_ftlb": 80
@@ -116,6 +112,72 @@
           "trim": "3.2L SEDAN",
           "torque_ftlb": 80
         }
+      ],
+      "2004": [
+        {
+          "trim": "17\"BASE / BASE SEDAN",
+          "torque_ftlb": 80
+        }
+      ],
+      "2005": [
+        {
+          "trim": "17\"BASE / BASE SEDAN",
+          "torque_ftlb": 80
+        }
+      ],
+      "2006": [
+        {
+          "trim": "17\"BASE / BASE SEDAN",
+          "torque_ftlb": 80
+        }
+      ],
+      "2007": [
+        {
+          "trim": "17\"BASE / BASE SEDAN",
+          "torque_ftlb": 80
+        }
+      ],
+      "2008": [
+        {
+          "trim": "17\"BASE / BASE SEDAN",
+          "torque_ftlb": 80
+        }
+      ],
+      "2009": [
+        {
+          "trim": "17\"BASE / BASE",
+          "torque_ftlb": 95
+        }
+      ],
+      "2010": [
+        {
+          "trim": "17\"BASE / BASE",
+          "torque_ftlb": 95
+        }
+      ],
+      "2011": [
+        {
+          "trim": "17\"BASE / BASE",
+          "torque_ftlb": 95
+        }
+      ],
+      "2012": [
+        {
+          "trim": "17\"BASE / BASE",
+          "torque_ftlb": 95
+        }
+      ],
+      "2013": [
+        {
+          "trim": "17\"BASE / BASE",
+          "torque_ftlb": 95
+        }
+      ],
+      "2014": [
+        {
+          "trim": "17\"BASE / BASE",
+          "torque_ftlb": 95
+        }
       ]
     },
     "3.2Tl-S": {
@@ -191,6 +253,1046 @@
         {
           "trim": "ALL / SEDAN",
           "torque_ftlb": 80
+        }
+      ]
+    },
+    "Ilx": {
+      "2013": [
+        {
+          "trim": "17\"BASE /2.4L",
+          "torque_ftlb": 80
+        }
+      ],
+      "2014": [
+        {
+          "trim": "17\"BASE / 2.4L",
+          "torque_ftlb": 80
+        }
+      ],
+      "2015": [
+        {
+          "trim": "17\"BASE / 2.4L",
+          "torque_ftlb": 80
+        }
+      ],
+      "2016": [
+        {
+          "trim": "17\"BASE / 2.4L",
+          "torque_ftlb": 80
+        }
+      ],
+      "2017": [
+        {
+          "trim": "17\"BASE / 2.4L",
+          "torque_ftlb": 80
+        }
+      ],
+      "2018": [
+        {
+          "trim": "17\"BASE / 2.4L",
+          "torque_ftlb": 80
+        }
+      ],
+      "2020": [
+        {
+          "trim": "2.4L",
+          "torque_ftlb": 80
+        }
+      ],
+      "2021": [
+        {
+          "trim": "A-SPEC",
+          "torque_ftlb": 80
+        },
+        {
+          "trim": "PREMIUM",
+          "torque_ftlb": 80
+        },
+        {
+          "trim": "STANDARD",
+          "torque_ftlb": 80
+        }
+      ],
+      "2022": [
+        {
+          "trim": "A-SPEC",
+          "torque_ftlb": 80
+        },
+        {
+          "trim": "PREMIUM",
+          "torque_ftlb": 80
+        },
+        {
+          "trim": "STANDARD",
+          "torque_ftlb": 80
+        }
+      ]
+    },
+    "Integra": {
+      "1986": [
+        {
+          "trim": "CPE/SDN / LS/GS",
+          "torque_ftlb": 80
+        }
+      ],
+      "1987": [
+        {
+          "trim": "CPE/SDN / LS/GS",
+          "torque_ftlb": 80
+        }
+      ],
+      "1988": [
+        {
+          "trim": "CPE/SDN / LS/GS",
+          "torque_ftlb": 80
+        }
+      ],
+      "1989": [
+        {
+          "trim": "CPE/SDN / LS/GS",
+          "torque_ftlb": 80
+        }
+      ],
+      "1990": [
+        {
+          "trim": "CPE/SDN / LS/GS",
+          "torque_ftlb": 80
+        }
+      ],
+      "1991": [
+        {
+          "trim": "CPE/SDN / LS/GS",
+          "torque_ftlb": 80
+        }
+      ],
+      "1992": [
+        {
+          "trim": "CPE/SDN / LS/GS",
+          "torque_ftlb": 80
+        }
+      ],
+      "1993": [
+        {
+          "trim": "CPE/SDN / LS/GS",
+          "torque_ftlb": 80
+        }
+      ],
+      "1994": [
+        {
+          "trim": "CPE/SDN / LS/GS",
+          "torque_ftlb": 80
+        }
+      ],
+      "1995": [
+        {
+          "trim": "CPE/SDN / LS/GS",
+          "torque_ftlb": 80
+        }
+      ],
+      "1996": [
+        {
+          "trim": "CPE/SDN / LS/GS",
+          "torque_ftlb": 80
+        }
+      ],
+      "1997": [
+        {
+          "trim": "CPE/SDN / LS/GS",
+          "torque_ftlb": 80
+        }
+      ],
+      "1998": [
+        {
+          "trim": "CPE/SDN / LS/GS",
+          "torque_ftlb": 80
+        }
+      ],
+      "1999": [
+        {
+          "trim": "CPE/SDN / LS/GS",
+          "torque_ftlb": 80
+        }
+      ],
+      "2000": [
+        {
+          "trim": "CPE/SDN / LS/GS",
+          "torque_ftlb": 80
+        }
+      ],
+      "2001": [
+        {
+          "trim": "CPE/SDN / LS/GS",
+          "torque_ftlb": 80
+        }
+      ],
+      "2023": [
+        {
+          "trim": "A-SPEC",
+          "torque_ftlb": 80
+        },
+        {
+          "trim": "BASE",
+          "torque_ftlb": 80
+        }
+      ]
+    },
+    "Legend": {
+      "1986": [
+        {
+          "trim": "LS COUPE / GS SEDAN",
+          "torque_ftlb": 80
+        }
+      ],
+      "1987": [
+        {
+          "trim": "LS COUPE / GS SEDAN",
+          "torque_ftlb": 80
+        }
+      ],
+      "1988": [
+        {
+          "trim": "LS COUPE / GS SEDAN",
+          "torque_ftlb": 80
+        }
+      ],
+      "1989": [
+        {
+          "trim": "LS COUPE / GS SEDAN",
+          "torque_ftlb": 80
+        }
+      ],
+      "1990": [
+        {
+          "trim": "LS COUPE / GS SEDAN",
+          "torque_ftlb": 80
+        }
+      ],
+      "1991": [
+        {
+          "trim": "LS COUPE / GS SEDAN",
+          "torque_ftlb": 80
+        }
+      ],
+      "1992": [
+        {
+          "trim": "LS COUPE / GS SEDAN",
+          "torque_ftlb": 80
+        }
+      ],
+      "1993": [
+        {
+          "trim": "LS COUPE / GS SEDAN",
+          "torque_ftlb": 80
+        }
+      ],
+      "1994": [
+        {
+          "trim": "LS COUPE / GS SEDAN",
+          "torque_ftlb": 80
+        }
+      ],
+      "1995": [
+        {
+          "trim": "LS COUPE / GS SEDAN",
+          "torque_ftlb": 80
+        }
+      ]
+    },
+    "Mdx": {
+      "2001": [
+        {
+          "trim": "4WD- / SUV",
+          "torque_ftlb": 80
+        }
+      ],
+      "2002": [
+        {
+          "trim": "4WD- / SUV",
+          "torque_ftlb": 80
+        }
+      ],
+      "2003": [
+        {
+          "trim": "4WD- / SUV",
+          "torque_ftlb": 80
+        }
+      ],
+      "2004": [
+        {
+          "trim": "4WD- / SUV",
+          "torque_ftlb": 80
+        }
+      ],
+      "2005": [
+        {
+          "trim": "4WD- / SUV",
+          "torque_ftlb": 80
+        }
+      ],
+      "2006": [
+        {
+          "trim": "4WD- / SUV",
+          "torque_ftlb": 80
+        }
+      ],
+      "2007": [
+        {
+          "trim": "18\"BASE / ALL",
+          "torque_ftlb": 95
+        }
+      ],
+      "2008": [
+        {
+          "trim": "18\"BASE / ALL",
+          "torque_ftlb": 95
+        }
+      ],
+      "2009": [
+        {
+          "trim": "18\"BASE / ALL",
+          "torque_ftlb": 95
+        }
+      ],
+      "2010": [
+        {
+          "trim": "18\"BASE / ALL",
+          "torque_ftlb": 95
+        }
+      ],
+      "2011": [
+        {
+          "trim": "18\"BASE / ALL",
+          "torque_ftlb": 95
+        }
+      ],
+      "2012": [
+        {
+          "trim": "18\"BASE / ALL",
+          "torque_ftlb": 95
+        }
+      ],
+      "2013": [
+        {
+          "trim": "18\"BASE / ALL",
+          "torque_ftlb": 95
+        }
+      ],
+      "2014": [
+        {
+          "trim": "18\"BASE / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "2015": [
+        {
+          "trim": "18\"BASE / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "2016": [
+        {
+          "trim": "18\"BASE / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "2018": [
+        {
+          "trim": "18\"BASE / ALL",
+          "torque_ftlb": 95
+        }
+      ],
+      "2020": [
+        {
+          "trim": "A-SPEC SH-AWD",
+          "torque_ftlb": 95
+        },
+        {
+          "trim": "BASE FWD",
+          "torque_ftlb": 95
+        },
+        {
+          "trim": "BASE SH-AWD",
+          "torque_ftlb": 95
+        }
+      ],
+      "2022": [
+        {
+          "trim": "A-SPEC FWD",
+          "torque_ftlb": 95
+        },
+        {
+          "trim": "A-SPEC SH-AWD",
+          "torque_ftlb": 95
+        },
+        {
+          "trim": "BASE FWD",
+          "torque_ftlb": 95
+        },
+        {
+          "trim": "BASE SH-AWD",
+          "torque_ftlb": 95
+        },
+        {
+          "trim": "TYPE-S SH-AWD",
+          "torque_ftlb": 95
+        }
+      ],
+      "2023": [
+        {
+          "trim": "A-SPEC FWD",
+          "torque_ftlb": 95
+        },
+        {
+          "trim": "A-SPEC SH-AWD",
+          "torque_ftlb": 95
+        },
+        {
+          "trim": "BASE FWD",
+          "torque_ftlb": 95
+        },
+        {
+          "trim": "BASE SH-AWD",
+          "torque_ftlb": 95
+        },
+        {
+          "trim": "TYPE-S SH-AWD",
+          "torque_ftlb": 95
+        }
+      ]
+    },
+    "Nsx": {
+      "1991": [
+        {
+          "trim": "COUPE / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "1992": [
+        {
+          "trim": "COUPE / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "1993": [
+        {
+          "trim": "COUPE / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "1994": [
+        {
+          "trim": "COUPE / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "1995": [
+        {
+          "trim": "COUPE / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "1996": [
+        {
+          "trim": "COUPE / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "1997": [
+        {
+          "trim": "COUPE / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "1998": [
+        {
+          "trim": "COUPE / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "1999": [
+        {
+          "trim": "COUPE / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "2000": [
+        {
+          "trim": "COUPE / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "2001": [
+        {
+          "trim": "COUPE / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "2002": [
+        {
+          "trim": "COUPE / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "2003": [
+        {
+          "trim": "COUPE / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "2004": [
+        {
+          "trim": "COUPE / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "2005": [
+        {
+          "trim": "COUPE / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "2016": [
+        {
+          "trim": "ALL / COUPE",
+          "torque_ftlb": 120
+        }
+      ],
+      "2017": [
+        {
+          "trim": "ALL / COUPE",
+          "torque_ftlb": 120
+        }
+      ],
+      "2018": [
+        {
+          "trim": "ALL / COUPE",
+          "torque_ftlb": 120
+        }
+      ],
+      "2020": [
+        {
+          "trim": "COUPE",
+          "torque_ftlb": 120
+        }
+      ],
+      "2021": [
+        {
+          "trim": "COUPE",
+          "torque_ftlb": 120
+        },
+        {
+          "trim": "COUPE W/ CARBON CERAMIC BRAKE",
+          "torque_ftlb": 120
+        }
+      ],
+      "2022": [
+        {
+          "trim": "COUPE",
+          "torque_ftlb": 120
+        },
+        {
+          "trim": "COUPE W/ CARBON CERAMIC BRAKE",
+          "torque_ftlb": 120
+        }
+      ]
+    },
+    "Rdx": {
+      "2007": [
+        {
+          "trim": "18\"BASE / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "2008": [
+        {
+          "trim": "18\"BASE / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "2009": [
+        {
+          "trim": "18\"BASE / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "2010": [
+        {
+          "trim": "18\"BASE / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "2011": [
+        {
+          "trim": "18\"BASE / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "2012": [
+        {
+          "trim": "18\"BASE / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "2013": [
+        {
+          "trim": "18\"BASE / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "2014": [
+        {
+          "trim": "18\"BASE / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "2015": [
+        {
+          "trim": "18\"BASE / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "2016": [
+        {
+          "trim": "18\"BASE / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "2017": [
+        {
+          "trim": "18\"BASE / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "2018": [
+        {
+          "trim": "18\"BASE / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "2020": [
+        {
+          "trim": "2.0 A-SPEC FWD",
+          "torque_ftlb": 80
+        },
+        {
+          "trim": "2.0 A-SPEC SH-AWD",
+          "torque_ftlb": 80
+        },
+        {
+          "trim": "2.0 FWD",
+          "torque_ftlb": 80
+        },
+        {
+          "trim": "2.0 SH-AWD",
+          "torque_ftlb": 80
+        }
+      ],
+      "2021": [
+        {
+          "trim": "2.0 FWD",
+          "torque_ftlb": 80
+        },
+        {
+          "trim": "2.0 SH-AWD",
+          "torque_ftlb": 80
+        }
+      ],
+      "2022": [
+        {
+          "trim": "2.0 FWD",
+          "torque_ftlb": 80
+        },
+        {
+          "trim": "2.0 SH-AWD",
+          "torque_ftlb": 80
+        }
+      ]
+    },
+    "Rl": {
+      "2005": [
+        {
+          "trim": "18\"BASE / ALL",
+          "torque_ftlb": 95
+        }
+      ],
+      "2006": [
+        {
+          "trim": "18\"BASE / ALL",
+          "torque_ftlb": 95
+        }
+      ],
+      "2007": [
+        {
+          "trim": "18\"BASE / ALL",
+          "torque_ftlb": 95
+        }
+      ],
+      "2008": [
+        {
+          "trim": "18\"BASE / ALL",
+          "torque_ftlb": 95
+        }
+      ],
+      "2009": [
+        {
+          "trim": "18\"BASE / ALL",
+          "torque_ftlb": 95
+        }
+      ],
+      "2010": [
+        {
+          "trim": "18\"BASE / ALL",
+          "torque_ftlb": 95
+        }
+      ],
+      "2011": [
+        {
+          "trim": "18\"BASE / ALL",
+          "torque_ftlb": 95
+        }
+      ],
+      "2012": [
+        {
+          "trim": "18\"BASE / ALL",
+          "torque_ftlb": 95
+        }
+      ]
+    },
+    "Rlx": {
+      "2014": [
+        {
+          "trim": "19\"BASE / BASE",
+          "torque_ftlb": 95
+        }
+      ],
+      "2015": [
+        {
+          "trim": "19\"BASE / BASE",
+          "torque_ftlb": 95
+        }
+      ],
+      "2016": [
+        {
+          "trim": "19\"BASE / BASE",
+          "torque_ftlb": 95
+        }
+      ],
+      "2017": [
+        {
+          "trim": "19\"BASE / BASE",
+          "torque_ftlb": 95
+        }
+      ],
+      "2018": [
+        {
+          "trim": "19\"BASE / BASE",
+          "torque_ftlb": 95
+        }
+      ],
+      "2020": [
+        {
+          "trim": "BASE FWD",
+          "torque_ftlb": 95
+        },
+        {
+          "trim": "SPORT HYBRID SH-AWD",
+          "torque_ftlb": 95
+        }
+      ]
+    },
+    "Rsx": {
+      "2002": [
+        {
+          "trim": "17-INCH / BASE/TYP S",
+          "torque_ftlb": 80
+        }
+      ],
+      "2003": [
+        {
+          "trim": "17-INCH / BASE/TYP S",
+          "torque_ftlb": 80
+        }
+      ],
+      "2004": [
+        {
+          "trim": "17-INCH / BASE/TYP S",
+          "torque_ftlb": 80
+        }
+      ],
+      "2005": [
+        {
+          "trim": "17-INCH / BASE/TYP S",
+          "torque_ftlb": 80
+        }
+      ],
+      "2006": [
+        {
+          "trim": "17-INCH / BASE/TYP S",
+          "torque_ftlb": 80
+        }
+      ]
+    },
+    "Slx": {
+      "1996": [
+        {
+          "trim": "4 DOOR / SUV",
+          "torque_ftlb": 90
+        }
+      ],
+      "1997": [
+        {
+          "trim": "4 DOOR / SUV",
+          "torque_ftlb": 90
+        }
+      ],
+      "1998": [
+        {
+          "trim": "4 DOOR / SUV",
+          "torque_ftlb": 90
+        }
+      ],
+      "1999": [
+        {
+          "trim": "4 DOOR / SUV",
+          "torque_ftlb": 90
+        }
+      ]
+    },
+    "Tlx": {
+      "2016": [
+        {
+          "trim": "17\"BASE / 2.4",
+          "torque_ftlb": 80
+        }
+      ],
+      "2017": [
+        {
+          "trim": "17\"BASE / 2.4",
+          "torque_ftlb": 80
+        }
+      ],
+      "2018": [
+        {
+          "trim": "17\"BASE / 2.4",
+          "torque_ftlb": 80
+        }
+      ],
+      "2019": [
+        {
+          "trim": "17\"BASE / 2.4",
+          "torque_ftlb": 80
+        }
+      ],
+      "2020": [
+        {
+          "trim": "2.4 A-SPEC FWD",
+          "torque_ftlb": 80
+        },
+        {
+          "trim": "2.4 FWD",
+          "torque_ftlb": 80
+        },
+        {
+          "trim": "3.5 A-SPEC FWD",
+          "torque_ftlb": 80
+        },
+        {
+          "trim": "3.5 A-SPEC SH-AWD",
+          "torque_ftlb": 80
+        },
+        {
+          "trim": "3.5 FWD",
+          "torque_ftlb": 80
+        },
+        {
+          "trim": "3.5 SH-AWD",
+          "torque_ftlb": 80
+        }
+      ],
+      "2021": [
+        {
+          "trim": "A-SPEC AWD",
+          "torque_ftlb": 95
+        },
+        {
+          "trim": "A-SPEC FWD",
+          "torque_ftlb": 95
+        },
+        {
+          "trim": "ADVANCE PACKAGE AWD",
+          "torque_ftlb": 95
+        },
+        {
+          "trim": "ADVANCE PACKAGE FWD",
+          "torque_ftlb": 95
+        },
+        {
+          "trim": "STANDARD AWD",
+          "torque_ftlb": 95
+        },
+        {
+          "trim": "STANDARD FWD",
+          "torque_ftlb": 95
+        },
+        {
+          "trim": "TECHNOLOGY PACKAGE AWD",
+          "torque_ftlb": 95
+        },
+        {
+          "trim": "TECHNOLOGY PACKAGE FWD",
+          "torque_ftlb": 95
+        },
+        {
+          "trim": "TYPE-S AWD",
+          "torque_ftlb": 95
+        }
+      ],
+      "2022": [
+        {
+          "trim": "A-SPEC AWD",
+          "torque_ftlb": 95
+        },
+        {
+          "trim": "A-SPEC FWD",
+          "torque_ftlb": 95
+        },
+        {
+          "trim": "ADVANCE PACKAGE AWD",
+          "torque_ftlb": 95
+        },
+        {
+          "trim": "STANDARD AWD",
+          "torque_ftlb": 95
+        },
+        {
+          "trim": "STANDARD FWD",
+          "torque_ftlb": 95
+        },
+        {
+          "trim": "TECHNOLOGY PACKAGE AWD",
+          "torque_ftlb": 95
+        },
+        {
+          "trim": "TECHNOLOGY PACKAGE FWD",
+          "torque_ftlb": 95
+        },
+        {
+          "trim": "TYPE-S AWD",
+          "torque_ftlb": 95
+        }
+      ]
+    },
+    "Tsx": {
+      "2004": [
+        {
+          "trim": "ALL / SEDAN",
+          "torque_ftlb": 90
+        }
+      ],
+      "2005": [
+        {
+          "trim": "ALL / SEDAN",
+          "torque_ftlb": 90
+        }
+      ],
+      "2006": [
+        {
+          "trim": "ALL / SEDAN",
+          "torque_ftlb": 90
+        }
+      ],
+      "2007": [
+        {
+          "trim": "17\"BASE / SPRT WAGON",
+          "torque_ftlb": 80
+        }
+      ],
+      "2008": [
+        {
+          "trim": "17\"BASE / SPRT WAGON",
+          "torque_ftlb": 80
+        }
+      ],
+      "2009": [
+        {
+          "trim": "17\"BASE / SPRT WAGON",
+          "torque_ftlb": 80
+        }
+      ],
+      "2010": [
+        {
+          "trim": "17\"BASE / SPRT WAGON",
+          "torque_ftlb": 80
+        }
+      ],
+      "2011": [
+        {
+          "trim": "17\"BASE / SPRT WAGON",
+          "torque_ftlb": 95
+        }
+      ],
+      "2012": [
+        {
+          "trim": "17\"BASE / SPRT WAGON",
+          "torque_ftlb": 95
+        }
+      ],
+      "2013": [
+        {
+          "trim": "17\"BASE / SPRT WAGON",
+          "torque_ftlb": 95
+        }
+      ],
+      "2014": [
+        {
+          "trim": "17\"BASE / SPRT WAGON",
+          "torque_ftlb": 95
+        }
+      ]
+    },
+    "Vigor": {
+      "1992": [
+        {
+          "trim": "CPE/SDN / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "1993": [
+        {
+          "trim": "CPE/SDN / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "1994": [
+        {
+          "trim": "CPE/SDN / ALL",
+          "torque_ftlb": 80
+        }
+      ]
+    },
+    "Zdx": {
+      "2010": [
+        {
+          "trim": "19\"BASE / ALL",
+          "torque_ftlb": 90
+        }
+      ],
+      "2011": [
+        {
+          "trim": "19\"BASE / ALL",
+          "torque_ftlb": 90
+        }
+      ],
+      "2012": [
+        {
+          "trim": "19\"BASE / ALL",
+          "torque_ftlb": 90
+        }
+      ],
+      "2013": [
+        {
+          "trim": "19\"BASE / ALL",
+          "torque_ftlb": 90
         }
       ]
     }
