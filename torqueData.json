@@ -21,6 +21,12 @@
           "torque_ftlb": 80
         }
       ],
+      "3.5RL": [
+        {
+          "trim": "ALL / SEDAN",
+          "torque_ftlb": 80
+        }
+      ],
       "INTEGRA": [
         {
           "trim": "CPE/SDN / LS/GS",
@@ -36,6 +42,58 @@
       "SLX": [
         {
           "trim": "4 DOOR / SUV",
+          "torque_ftlb": 90
+        }
+      ]
+    },
+    "ASTON MARTIN": {
+      "DB7": [
+        {
+          "trim": "2 DOOR / COUPE",
+          "torque_ftlb": 80
+        }
+      ],
+      "DB7VOLANTE": [
+        {
+          "trim": "2 DOOR / CONVERTBLE",
+          "torque_ftlb": 80
+        }
+      ]
+    },
+    "AUDI": {
+      "A4": [
+        {
+          "trim": "18'BASE / SEDAN",
+          "torque_ftlb": 90
+        }
+      ],
+      "A6 QUATTRO": [
+        {
+          "trim": "16-INCH / WAGON",
+          "torque_ftlb": 90
+        }
+      ],
+      "A8": [
+        {
+          "trim": "18\"BASE / QUATTRO",
+          "torque_ftlb": 90
+        }
+      ],
+      "CABRIOLET": [
+        {
+          "trim": "ALL / 195/65R15",
+          "torque_ftlb": 90
+        }
+      ],
+      "S4": [
+        {
+          "trim": "18\"BASE / 3",
+          "torque_ftlb": 90
+        }
+      ],
+      "S6": [
+        {
+          "trim": "19\"BASE / 4",
           "torque_ftlb": 90
         }
       ]
@@ -189,6 +247,12 @@
           "torque_ftlb": 80
         }
       ],
+      "3.5RL": [
+        {
+          "trim": "ALL / SEDAN",
+          "torque_ftlb": 80
+        }
+      ],
       "INTEGRA": [
         {
           "trim": "CPE/SDN / LS/GS",
@@ -204,6 +268,58 @@
       "SLX": [
         {
           "trim": "4 DOOR / SUV",
+          "torque_ftlb": 90
+        }
+      ]
+    },
+    "ASTON MARTIN": {
+      "DB7": [
+        {
+          "trim": "2 DOOR / COUPE",
+          "torque_ftlb": 80
+        }
+      ]
+    },
+    "AUDI": {
+      "A4": [
+        {
+          "trim": "18'BASE / SEDAN",
+          "torque_ftlb": 90
+        }
+      ],
+      "A6 FWD": [
+        {
+          "trim": "16-INCH / ALL",
+          "torque_ftlb": 90
+        }
+      ],
+      "A6 QUATTRO": [
+        {
+          "trim": "16-INCH / WAGON",
+          "torque_ftlb": 90
+        }
+      ],
+      "A8": [
+        {
+          "trim": "18\"BASE / QUATTRO",
+          "torque_ftlb": 90
+        }
+      ],
+      "CABRIOLET": [
+        {
+          "trim": "ALL / 195/65R15",
+          "torque_ftlb": 90
+        }
+      ],
+      "S4": [
+        {
+          "trim": "18\"BASE / 3",
+          "torque_ftlb": 90
+        }
+      ],
+      "S6": [
+        {
+          "trim": "19\"BASE / 4",
           "torque_ftlb": 90
         }
       ]
@@ -359,6 +475,12 @@
           "torque_ftlb": 80
         }
       ],
+      "3.5RL": [
+        {
+          "trim": "ALL / SEDAN",
+          "torque_ftlb": 80
+        }
+      ],
       "INTEGRA": [
         {
           "trim": "CPE/SDN / LS/GS",
@@ -374,6 +496,58 @@
       "SLX": [
         {
           "trim": "4 DOOR / SUV",
+          "torque_ftlb": 90
+        }
+      ]
+    },
+    "ASTON MARTIN": {
+      "DB7": [
+        {
+          "trim": "2 DOOR / COUPE",
+          "torque_ftlb": 80
+        }
+      ]
+    },
+    "AUDI": {
+      "A4": [
+        {
+          "trim": "18'BASE / SEDAN",
+          "torque_ftlb": 90
+        }
+      ],
+      "A6 FWD": [
+        {
+          "trim": "16-INCH / ALL",
+          "torque_ftlb": 90
+        }
+      ],
+      "A6 QUATTRO": [
+        {
+          "trim": "16-INCH / WAGON",
+          "torque_ftlb": 90
+        }
+      ],
+      "A8": [
+        {
+          "trim": "18\"BASE / QUATTRO",
+          "torque_ftlb": 90
+        }
+      ],
+      "S4": [
+        {
+          "trim": "18\"BASE / 3",
+          "torque_ftlb": 90
+        }
+      ],
+      "S6": [
+        {
+          "trim": "19\"BASE / 4",
+          "torque_ftlb": 90
+        }
+      ],
+      "TT - ALL": [
+        {
+          "trim": "19\"BASE / RS",
           "torque_ftlb": 90
         }
       ]
@@ -511,6 +685,12 @@
           "torque_ftlb": 80
         }
       ],
+      "3.5RL": [
+        {
+          "trim": "ALL / SEDAN",
+          "torque_ftlb": 80
+        }
+      ],
       "INTEGRA": [
         {
           "trim": "CPE/SDN / LS/GS",
@@ -526,6 +706,52 @@
       "SLX": [
         {
           "trim": "4 DOOR / SUV",
+          "torque_ftlb": 90
+        }
+      ]
+    },
+    "ASTON MARTIN": {
+      "DB7": [
+        {
+          "trim": "2 DOOR / COUPE",
+          "torque_ftlb": 80
+        }
+      ],
+      "DB7VOLANTE": [
+        {
+          "trim": "2 DOOR / CONVERTBLE",
+          "torque_ftlb": 80
+        }
+      ]
+    },
+    "AUDI": {
+      "A4": [
+        {
+          "trim": "18'BASE / SEDAN",
+          "torque_ftlb": 90
+        }
+      ],
+      "A6 QUATTRO": [
+        {
+          "trim": "16-INCH / WAGON",
+          "torque_ftlb": 90
+        }
+      ],
+      "CABRIOLET": [
+        {
+          "trim": "ALL / 195/65R15",
+          "torque_ftlb": 90
+        }
+      ],
+      "S4": [
+        {
+          "trim": "18\"BASE / 3",
+          "torque_ftlb": 90
+        }
+      ],
+      "S6": [
+        {
+          "trim": "19\"BASE / 4",
           "torque_ftlb": 90
         }
       ]
@@ -671,6 +897,12 @@
           "torque_ftlb": 80
         }
       ],
+      "3.5RL": [
+        {
+          "trim": "ALL / SEDAN",
+          "torque_ftlb": 80
+        }
+      ],
       "INTEGRA": [
         {
           "trim": "CPE/SDN / LS/GS",
@@ -681,6 +913,68 @@
         {
           "trim": "COUPE / ALL",
           "torque_ftlb": 80
+        }
+      ]
+    },
+    "AUDI": {
+      "A4": [
+        {
+          "trim": "18'BASE / SEDAN",
+          "torque_ftlb": 90
+        }
+      ],
+      "A6 2.7T QUATTRO": [
+        {
+          "trim": "17-INCH / SEDAN",
+          "torque_ftlb": 90
+        }
+      ],
+      "A6 2.8": [
+        {
+          "trim": "16-INCH / SEDAN",
+          "torque_ftlb": 85
+        }
+      ],
+      "A6 2.8 QUATTRO": [
+        {
+          "trim": "16-INCH / SEDAN",
+          "torque_ftlb": 85
+        }
+      ],
+      "A6 4.2 QUATTRO": [
+        {
+          "trim": "17-INCH- / SEDAN",
+          "torque_ftlb": 90
+        }
+      ],
+      "A6 QUATTRO": [
+        {
+          "trim": "16-INCH / WAGON",
+          "torque_ftlb": 90
+        }
+      ],
+      "A8": [
+        {
+          "trim": "18\"BASE / QUATTRO",
+          "torque_ftlb": 90
+        }
+      ],
+      "S4": [
+        {
+          "trim": "18\"BASE / 3",
+          "torque_ftlb": 90
+        }
+      ],
+      "S6": [
+        {
+          "trim": "19\"BASE / 4",
+          "torque_ftlb": 90
+        }
+      ],
+      "TT - ALL": [
+        {
+          "trim": "19\"BASE / RS",
+          "torque_ftlb": 90
         }
       ]
     },
@@ -819,6 +1113,18 @@
           "torque_ftlb": 80
         }
       ],
+      "3.2TL-S": [
+        {
+          "trim": "ALL / SEDAN",
+          "torque_ftlb": 80
+        }
+      ],
+      "3.5RL": [
+        {
+          "trim": "ALL / SEDAN",
+          "torque_ftlb": 80
+        }
+      ],
       "INTEGRA": [
         {
           "trim": "CPE/SDN / LS/GS",
@@ -835,6 +1141,104 @@
         {
           "trim": "COUPE / ALL",
           "torque_ftlb": 80
+        }
+      ]
+    },
+    "AUDI": {
+      "A4": [
+        {
+          "trim": "18'BASE / SEDAN",
+          "torque_ftlb": 90
+        }
+      ],
+      "A4 1.8T - ALL": [
+        {
+          "trim": "17-INCH- / CABRIOLET",
+          "torque_ftlb": 90
+        }
+      ],
+      "A4 2.8 - ALL": [
+        {
+          "trim": "16-INCH / SEDAN/WGN",
+          "torque_ftlb": 90
+        }
+      ],
+      "A6 2.7T QUATTRO": [
+        {
+          "trim": "17-INCH / SEDAN",
+          "torque_ftlb": 90
+        }
+      ],
+      "A6 2.8": [
+        {
+          "trim": "16-INCH / SEDAN",
+          "torque_ftlb": 85
+        }
+      ],
+      "A6 2.8 QUATTRO": [
+        {
+          "trim": "16-INCH / SEDAN",
+          "torque_ftlb": 85
+        }
+      ],
+      "A6 4.2": [
+        {
+          "trim": "18\"BASE / PRESTIGE",
+          "torque_ftlb": 90
+        }
+      ],
+      "A6 4.2 QUATTRO": [
+        {
+          "trim": "17-INCH- / SEDAN",
+          "torque_ftlb": 90
+        }
+      ],
+      "A6 QUATTRO": [
+        {
+          "trim": "16-INCH / WAGON",
+          "torque_ftlb": 90
+        }
+      ],
+      "A8": [
+        {
+          "trim": "18\"BASE / QUATTRO",
+          "torque_ftlb": 90
+        }
+      ],
+      "A8L": [
+        {
+          "trim": "19\"BASE / 3",
+          "torque_ftlb": 90
+        }
+      ],
+      "ALLROAD": [
+        {
+          "trim": "18\"BASE / 2",
+          "torque_ftlb": 90
+        }
+      ],
+      "S4": [
+        {
+          "trim": "18\"BASE / 3",
+          "torque_ftlb": 90
+        }
+      ],
+      "S6": [
+        {
+          "trim": "19\"BASE / 4",
+          "torque_ftlb": 90
+        }
+      ],
+      "S8": [
+        {
+          "trim": "21\"BASE / 4",
+          "torque_ftlb": 90
+        }
+      ],
+      "TT - ALL": [
+        {
+          "trim": "19\"BASE / RS",
+          "torque_ftlb": 90
         }
       ]
     },
@@ -931,9 +1335,9 @@
           "torque_ftlb": 90
         }
       ],
-      "Z8": [
+      "Z8 /E52": [
         {
-          "trim": "/E52\tALL / COUPE",
+          "trim": "ALL / COUPE",
           "torque_ftlb": 90
         }
       ]
@@ -991,6 +1395,18 @@
           "torque_ftlb": 80
         }
       ],
+      "3.2TL-S": [
+        {
+          "trim": "ALL / SEDAN",
+          "torque_ftlb": 80
+        }
+      ],
+      "3.5RL": [
+        {
+          "trim": "ALL / SEDAN",
+          "torque_ftlb": 80
+        }
+      ],
       "MDX": [
         {
           "trim": "4WD- / SUV",
@@ -1007,6 +1423,118 @@
         {
           "trim": "17-INCH / BASE/TYP S",
           "torque_ftlb": 80
+        }
+      ]
+    },
+    "ASTON MARTIN": {
+      "VANQUISH": [
+        {
+          "trim": "COUPE / BASE/S",
+          "torque_ftlb": 95
+        }
+      ],
+      "VANTAGE": [
+        {
+          "trim": "COUPE / 18-INCH",
+          "torque_ftlb": 80
+        }
+      ]
+    },
+    "AUDI": {
+      "A4": [
+        {
+          "trim": "18'BASE / SEDAN",
+          "torque_ftlb": 90
+        }
+      ],
+      "A4 1.8T - ALL": [
+        {
+          "trim": "17-INCH- / CABRIOLET",
+          "torque_ftlb": 90
+        }
+      ],
+      "A4 3.0 - ALL": [
+        {
+          "trim": "18-INCH / SEDAN",
+          "torque_ftlb": 90
+        }
+      ],
+      "A6 2.7T QUATTRO": [
+        {
+          "trim": "17-INCH / SEDAN",
+          "torque_ftlb": 90
+        }
+      ],
+      "A6 3.0": [
+        {
+          "trim": "16-INCH / SEDAN",
+          "torque_ftlb": 90
+        }
+      ],
+      "A6 3.0 QUATTRO": [
+        {
+          "trim": "16-INCH / SEDAN",
+          "torque_ftlb": 90
+        }
+      ],
+      "A6 4.2": [
+        {
+          "trim": "18\"BASE / PRESTIGE",
+          "torque_ftlb": 90
+        }
+      ],
+      "A6 4.2 QUATTRO": [
+        {
+          "trim": "17-INCH- / SEDAN",
+          "torque_ftlb": 90
+        }
+      ],
+      "A6 QUATTRO": [
+        {
+          "trim": "16-INCH / WAGON",
+          "torque_ftlb": 90
+        }
+      ],
+      "A8": [
+        {
+          "trim": "18\"BASE / QUATTRO",
+          "torque_ftlb": 90
+        }
+      ],
+      "A8L": [
+        {
+          "trim": "19\"BASE / 3",
+          "torque_ftlb": 90
+        }
+      ],
+      "ALLROAD": [
+        {
+          "trim": "18\"BASE / 2",
+          "torque_ftlb": 90
+        }
+      ],
+      "S4": [
+        {
+          "trim": "18\"BASE / 3",
+          "torque_ftlb": 90
+        }
+      ],
+      "S6": [
+        {
+          "trim": "19\"BASE / 4",
+          "torque_ftlb": 90
+        }
+      ],
+      "S8": [
+        {
+          "trim": "21\"BASE / 4",
+          "torque_ftlb": 90
+        }
+      ],
+      "TT - ALL": [
+        {
+          "trim": "19\"BASE / RS",
+          "torque_ftlb": 90
         }
       ]
     },
@@ -1103,9 +1631,9 @@
           "torque_ftlb": 90
         }
       ],
-      "Z8": [
+      "Z8 /E52": [
         {
-          "trim": "/E52\tALL / COUPE",
+          "trim": "ALL / COUPE",
           "torque_ftlb": 90
         }
       ]
@@ -1157,6 +1685,18 @@
           "torque_ftlb": 80
         }
       ],
+      "3.2TL-S": [
+        {
+          "trim": "ALL / SEDAN",
+          "torque_ftlb": 80
+        }
+      ],
+      "3.5RL": [
+        {
+          "trim": "ALL / SEDAN",
+          "torque_ftlb": 80
+        }
+      ],
       "MDX": [
         {
           "trim": "4WD- / SUV",
@@ -1173,6 +1713,124 @@
         {
           "trim": "17-INCH / BASE/TYP S",
           "torque_ftlb": 80
+        }
+      ]
+    },
+    "ASTON MARTIN": {
+      "VANQUISH": [
+        {
+          "trim": "COUPE / BASE/S",
+          "torque_ftlb": 95
+        }
+      ],
+      "VANTAGE": [
+        {
+          "trim": "COUPE / 18-INCH",
+          "torque_ftlb": 80
+        }
+      ]
+    },
+    "AUDI": {
+      "A4": [
+        {
+          "trim": "18'BASE / SEDAN",
+          "torque_ftlb": 90
+        }
+      ],
+      "A4 1.8T - ALL": [
+        {
+          "trim": "17-INCH- / CABRIOLET",
+          "torque_ftlb": 90
+        }
+      ],
+      "A4 3.0 - ALL": [
+        {
+          "trim": "18-INCH / SEDAN",
+          "torque_ftlb": 90
+        }
+      ],
+      "A6 2.7T QUATTRO": [
+        {
+          "trim": "17-INCH / SEDAN",
+          "torque_ftlb": 90
+        }
+      ],
+      "A6 3.0": [
+        {
+          "trim": "16-INCH / SEDAN",
+          "torque_ftlb": 90
+        }
+      ],
+      "A6 3.0 QUATTRO": [
+        {
+          "trim": "16-INCH / SEDAN",
+          "torque_ftlb": 90
+        }
+      ],
+      "A6 4.2": [
+        {
+          "trim": "18\"BASE / PRESTIGE",
+          "torque_ftlb": 90
+        }
+      ],
+      "A6 4.2 QUATTRO": [
+        {
+          "trim": "17-INCH- / SEDAN",
+          "torque_ftlb": 90
+        }
+      ],
+      "A6 QUATTRO": [
+        {
+          "trim": "16-INCH / WAGON",
+          "torque_ftlb": 90
+        }
+      ],
+      "A8": [
+        {
+          "trim": "18\"BASE / QUATTRO",
+          "torque_ftlb": 90
+        }
+      ],
+      "A8L": [
+        {
+          "trim": "19\"BASE / 3",
+          "torque_ftlb": 90
+        }
+      ],
+      "ALLROAD": [
+        {
+          "trim": "18\"BASE / 2",
+          "torque_ftlb": 90
+        }
+      ],
+      "RS6": [
+        {
+          "trim": "ALL / SEDAN",
+          "torque_ftlb": 90
+        }
+      ],
+      "S4": [
+        {
+          "trim": "18\"BASE / 3",
+          "torque_ftlb": 90
+        }
+      ],
+      "S6": [
+        {
+          "trim": "19\"BASE / 4",
+          "torque_ftlb": 90
+        }
+      ],
+      "S8": [
+        {
+          "trim": "21\"BASE / 4",
+          "torque_ftlb": 90
+        }
+      ],
+      "TT - ALL": [
+        {
+          "trim": "19\"BASE / RS",
+          "torque_ftlb": 90
         }
       ]
     },
@@ -1263,9 +1921,9 @@
           "torque_ftlb": 90
         }
       ],
-      "Z8": [
+      "Z8 /E52": [
         {
-          "trim": "/E52\tALL / COUPE",
+          "trim": "ALL / COUPE",
           "torque_ftlb": 90
         }
       ]
@@ -1309,6 +1967,326 @@
       ]
     }
   },
+  "2004": {
+    "ACURA": {
+      "3.5RL": [
+        {
+          "trim": "ALL / SEDAN",
+          "torque_ftlb": 80
+        }
+      ],
+      "MDX": [
+        {
+          "trim": "4WD- / SUV",
+          "torque_ftlb": 80
+        }
+      ],
+      "NSX": [
+        {
+          "trim": "COUPE / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "RSX": [
+        {
+          "trim": "17-INCH / BASE/TYP S",
+          "torque_ftlb": 80
+        }
+      ],
+      "TL": [
+        {
+          "trim": "17\"BASE / BASE SEDAN",
+          "torque_ftlb": 80
+        }
+      ],
+      "TSX": [
+        {
+          "trim": "ALL / SEDAN",
+          "torque_ftlb": 90
+        }
+      ]
+    },
+    "ASTON MARTIN": {
+      "VANQUISH": [
+        {
+          "trim": "COUPE / BASE/S",
+          "torque_ftlb": 95
+        }
+      ],
+      "VOLANTE": [
+        {
+          "trim": "COUPE / DB9",
+          "torque_ftlb": 80
+        }
+      ]
+    },
+    "AUDI": {
+      "A4": [
+        {
+          "trim": "18'BASE / SEDAN",
+          "torque_ftlb": 90
+        }
+      ],
+      "A4 1.8T - ALL": [
+        {
+          "trim": "17-INCH- / CABRIOLET",
+          "torque_ftlb": 90
+        }
+      ],
+      "A4 3.0 - ALL": [
+        {
+          "trim": "18-INCH / SEDAN",
+          "torque_ftlb": 90
+        }
+      ],
+      "A6 2.7T QUATTRO": [
+        {
+          "trim": "17-INCH / SEDAN",
+          "torque_ftlb": 90
+        }
+      ],
+      "A6 3.0": [
+        {
+          "trim": "16-INCH / SEDAN",
+          "torque_ftlb": 90
+        }
+      ],
+      "A6 3.0 QUATTRO": [
+        {
+          "trim": "16-INCH / SEDAN",
+          "torque_ftlb": 90
+        }
+      ],
+      "A6 4.2": [
+        {
+          "trim": "18\"BASE / PRESTIGE",
+          "torque_ftlb": 90
+        }
+      ],
+      "A6 4.2 QUATTRO": [
+        {
+          "trim": "17-INCH- / SEDAN",
+          "torque_ftlb": 90
+        }
+      ],
+      "A6 QUATTRO": [
+        {
+          "trim": "16-INCH / WAGON",
+          "torque_ftlb": 90
+        }
+      ],
+      "A8": [
+        {
+          "trim": "18\"BASE / QUATTRO",
+          "torque_ftlb": 90
+        }
+      ],
+      "A8L": [
+        {
+          "trim": "19\"BASE / 3",
+          "torque_ftlb": 90
+        }
+      ],
+      "ALLROAD": [
+        {
+          "trim": "18\"BASE / 2",
+          "torque_ftlb": 90
+        }
+      ],
+      "RS6": [
+        {
+          "trim": "ALL / SEDAN",
+          "torque_ftlb": 90
+        }
+      ],
+      "S4": [
+        {
+          "trim": "18\"BASE / 3",
+          "torque_ftlb": 90
+        }
+      ],
+      "S4 4.2 QUATTRO": [
+        {
+          "trim": "18-INCH / CABRIOLET",
+          "torque_ftlb": 90
+        }
+      ],
+      "S6": [
+        {
+          "trim": "19\"BASE / 4",
+          "torque_ftlb": 90
+        }
+      ],
+      "S8": [
+        {
+          "trim": "21\"BASE / 4",
+          "torque_ftlb": 90
+        }
+      ],
+      "TT - ALL": [
+        {
+          "trim": "19\"BASE / RS",
+          "torque_ftlb": 90
+        }
+      ]
+    },
+    "BENTLEY": {
+      "ARNAGE - ALL": [
+        {
+          "trim": "FINAL / SEDAN",
+          "torque_ftlb": 75
+        }
+      ],
+      "AZURE": [
+        {
+          "trim": "CONVRT / 255/50R18",
+          "torque_ftlb": 50
+        }
+      ],
+      "CONTINENTAL": [
+        {
+          "trim": "2 DOOR / 255/55R17",
+          "torque_ftlb": 50
+        }
+      ]
+    },
+    "BMW": {
+      "325 - ALL": [
+        {
+          "trim": "16\"BASE / E46",
+          "torque_ftlb": 90
+        }
+      ],
+      "328 - ALL": [
+        {
+          "trim": "ALL / E36",
+          "torque_ftlb": 90
+        }
+      ],
+      "330 - ALL": [
+        {
+          "trim": "17\"BASE / E90",
+          "torque_ftlb": 90
+        }
+      ],
+      "525 - ALL": [
+        {
+          "trim": "4 DOOR / TOURING",
+          "torque_ftlb": 90
+        }
+      ],
+      "528I - ALL": [
+        {
+          "trim": "15-INCH / CPE/SDN",
+          "torque_ftlb": 90
+        }
+      ],
+      "530I - ALL": [
+        {
+          "trim": "ALL / TOURING",
+          "torque_ftlb": 90
+        }
+      ],
+      "550I /E60": [
+        {
+          "trim": "17\"BASE / SEDAN",
+          "torque_ftlb": 90
+        }
+      ],
+      "ALPINA V8": [
+        {
+          "trim": "2DR/ E52 / ROADSTER",
+          "torque_ftlb": 90
+        }
+      ],
+      "M3 CONVERTIBLE": [
+        {
+          "trim": "18\" BASE / E93",
+          "torque_ftlb": 90
+        }
+      ],
+      "M3 SEDAN": [
+        {
+          "trim": "18'BASE / F80",
+          "torque_ftlb": 90
+        }
+      ],
+      "M5": [
+        {
+          "trim": "19-INCH- / E60",
+          "torque_ftlb": 90
+        }
+      ],
+      "X3 /E83": [
+        {
+          "trim": "17\"BASE / 30I",
+          "torque_ftlb": 90
+        }
+      ],
+      "X5 - ALL": [
+        {
+          "trim": "18\"BASE / F15 35I",
+          "torque_ftlb": 105
+        }
+      ],
+      "Z4 - ALL": [
+        {
+          "trim": "18-STGGR / M COUPE",
+          "torque_ftlb": 90
+        }
+      ]
+    },
+    "BUICK": {
+      "CENTURY": [
+        {
+          "trim": "4 DOOR / CUSTM/LMTD",
+          "torque_ftlb": 100
+        }
+      ],
+      "LESABRE": [
+        {
+          "trim": "BASE / BESTSELLER",
+          "torque_ftlb": 100
+        }
+      ],
+      "PARK AVE": [
+        {
+          "trim": "BSEDAN / BASE/PREST",
+          "torque_ftlb": 100
+        }
+      ],
+      "RAINIER": [
+        {
+          "trim": "2WD / CXL",
+          "torque_ftlb": 100
+        }
+      ],
+      "REGAL": [
+        {
+          "trim": "ALL / GS",
+          "torque_ftlb": 100
+        }
+      ],
+      "RENDEZVOUS": [
+        {
+          "trim": "4WD / CX+/CXL+",
+          "torque_ftlb": 100
+        }
+      ],
+      "CTS": [
+        {
+          "trim": "16-INCH / BASE",
+          "torque_ftlb": 100
+        }
+      ],
+      "CTS-V": [
+        {
+          "trim": "SEDAN / V8",
+          "torque_ftlb": 95
+        }
+      ]
+    }
+  },
   "2013": {
     "ACURA": {
       "ILX": [
@@ -1348,6 +2326,154 @@
         }
       ]
     },
+    "ASTON MARTIN": {
+      "DB9": [
+        {
+          "trim": "20\"BASE / ALL",
+          "torque_ftlb": 135
+        }
+      ],
+      "RAPIDE": [
+        {
+          "trim": "20\"BASE / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "VANTAGE": [
+        {
+          "trim": "19\"BASE / GT",
+          "torque_ftlb": 80
+        }
+      ],
+      "VANTAGE V12": [
+        {
+          "trim": "19\"BASE / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "VANTAGE V8": [
+        {
+          "trim": "19\"BASE / BASE",
+          "torque_ftlb": 80
+        }
+      ]
+    },
+    "AUDI": {
+      "A4": [
+        {
+          "trim": "18'BASE / SEDAN",
+          "torque_ftlb": 90
+        }
+      ],
+      "A4 2.0T - ALL": [
+        {
+          "trim": "17\"BASE / SEDAN FWD",
+          "torque_ftlb": 90
+        }
+      ],
+      "A5 CONVERTIBLE": [
+        {
+          "trim": "18\"BASE / 2",
+          "torque_ftlb": 90
+        }
+      ],
+      "A5 COUPE": [
+        {
+          "trim": "18\"BASE / 2",
+          "torque_ftlb": 90
+        }
+      ],
+      "A6": [
+        {
+          "trim": "18\"BASE / 2.0T",
+          "torque_ftlb": 90
+        }
+      ],
+      "A7": [
+        {
+          "trim": "19'BASE / 3.0T",
+          "torque_ftlb": 90
+        }
+      ],
+      "A8": [
+        {
+          "trim": "19\"BASE / 4",
+          "torque_ftlb": 90
+        }
+      ],
+      "A8L": [
+        {
+          "trim": "19\"BASE / 3",
+          "torque_ftlb": 90
+        }
+      ],
+      "ALLROAD": [
+        {
+          "trim": "18\"BASE / 2",
+          "torque_ftlb": 90
+        }
+      ],
+      "Q5 - ALL": [
+        {
+          "trim": "18\"BASE / 2",
+          "torque_ftlb": 100
+        }
+      ],
+      "Q7 - ALL": [
+        {
+          "trim": "20\"BASE / PREMIUM",
+          "torque_ftlb": 120
+        }
+      ],
+      "R8": [
+        {
+          "trim": "20\"BASE / BASE",
+          "torque_ftlb": 90
+        }
+      ],
+      "RS5": [
+        {
+          "trim": "19\"BASE / COUPE/CONV",
+          "torque_ftlb": 90
+        }
+      ],
+      "S4": [
+        {
+          "trim": "18\"BASE / 3",
+          "torque_ftlb": 90
+        }
+      ],
+      "S5": [
+        {
+          "trim": "18\"BASE / CONVERTBLE",
+          "torque_ftlb": 90
+        }
+      ],
+      "S6": [
+        {
+          "trim": "19\"BASE / 4",
+          "torque_ftlb": 90
+        }
+      ],
+      "S7": [
+        {
+          "trim": "21\"BASE / 4.0 TFSI",
+          "torque_ftlb": 90
+        }
+      ],
+      "S8": [
+        {
+          "trim": "21\"BASE / 4",
+          "torque_ftlb": 90
+        }
+      ],
+      "TT - ALL": [
+        {
+          "trim": "19\"BASE / RS",
+          "torque_ftlb": 90
+        }
+      ]
+    },
     "BENTLEY": {
       "CONTINENTAL - ALL": [
         {
@@ -1363,19 +2489,21 @@
       ]
     },
     "BMW": {
-      "135I": [
+      "135I /E88": [
         {
-          "trim": "/E88\t17\"OPT / CONVRTIBLE",
+          "trim": "17\"OPT / CONVRTIBLE",
           "torque_ftlb": 90
         }
       ],
-      "135IS": [
+      "135IS /E82": [
         {
-          "trim": "/E82\t18\"BASE / COUPE",
+          "trim": "18\"BASE / COUPE",
           "torque_ftlb": 90
-        },
+        }
+      ],
+      "135IS /E88": [
         {
-          "trim": "/E88\t18\"BASE / CONVRTIBLE",
+          "trim": "18\"BASE / CONVRTIBLE",
           "torque_ftlb": 90
         }
       ],
@@ -1415,9 +2543,9 @@
           "torque_ftlb": 90
         }
       ],
-      "550I": [
+      "550I / IX": [
         {
-          "trim": "/ IX\t18\"BASE / SEDAN",
+          "trim": "18\"BASE / SEDAN",
           "torque_ftlb": 90
         }
       ],
@@ -1481,9 +2609,9 @@
           "torque_ftlb": 90
         }
       ],
-      "X3": [
+      "X3 /F25": [
         {
-          "trim": "/F25\t18\"BASE / 28I",
+          "trim": "18\"BASE / 28I",
           "torque_ftlb": 105
         }
       ],
@@ -1596,6 +2724,172 @@
         }
       ]
     },
+    "ASTON MARTIN": {
+      "DB9": [
+        {
+          "trim": "20\"BASE / ALL",
+          "torque_ftlb": 135
+        }
+      ],
+      "RAPIDE S": [
+        {
+          "trim": "20\"BASE / ALL",
+          "torque_ftlb": 135
+        }
+      ],
+      "VANQUISH": [
+        {
+          "trim": "20\"BASE / ALL",
+          "torque_ftlb": 133
+        }
+      ],
+      "VANTAGE": [
+        {
+          "trim": "19\"BASE / GT",
+          "torque_ftlb": 80
+        }
+      ],
+      "VANTAGE S V12": [
+        {
+          "trim": "19\"BASE / ALL",
+          "torque_ftlb": 135
+        }
+      ],
+      "VANTAGE V12": [
+        {
+          "trim": "19\"BASE / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "VANTAGE V8": [
+        {
+          "trim": "19\"BASE / BASE",
+          "torque_ftlb": 80
+        }
+      ]
+    },
+    "AUDI": {
+      "A4": [
+        {
+          "trim": "18'BASE / SEDAN",
+          "torque_ftlb": 90
+        }
+      ],
+      "A5 CONVERTIBLE": [
+        {
+          "trim": "18\"BASE / 2",
+          "torque_ftlb": 90
+        }
+      ],
+      "A5 COUPE": [
+        {
+          "trim": "18\"BASE / 2",
+          "torque_ftlb": 90
+        }
+      ],
+      "A6": [
+        {
+          "trim": "18\"BASE / 2.0T",
+          "torque_ftlb": 90
+        }
+      ],
+      "A7": [
+        {
+          "trim": "19'BASE / 3.0T",
+          "torque_ftlb": 90
+        }
+      ],
+      "A8": [
+        {
+          "trim": "19\"BASE / 4",
+          "torque_ftlb": 90
+        }
+      ],
+      "A8L": [
+        {
+          "trim": "19\"BASE / 3",
+          "torque_ftlb": 90
+        }
+      ],
+      "ALLROAD": [
+        {
+          "trim": "18\"BASE / 2",
+          "torque_ftlb": 90
+        }
+      ],
+      "Q5 - ALL": [
+        {
+          "trim": "18\"BASE / 2",
+          "torque_ftlb": 100
+        }
+      ],
+      "Q7 - ALL": [
+        {
+          "trim": "20\"BASE / PREMIUM",
+          "torque_ftlb": 120
+        }
+      ],
+      "R8": [
+        {
+          "trim": "20\"BASE / BASE",
+          "torque_ftlb": 90
+        }
+      ],
+      "RS5": [
+        {
+          "trim": "19\"BASE / COUPE/CONV",
+          "torque_ftlb": 90
+        }
+      ],
+      "RS7": [
+        {
+          "trim": "20\"BASE / 4.0 TFSI",
+          "torque_ftlb": 90
+        }
+      ],
+      "S4": [
+        {
+          "trim": "18\"BASE / 3",
+          "torque_ftlb": 90
+        }
+      ],
+      "S5": [
+        {
+          "trim": "18\"BASE / CONVERTBLE",
+          "torque_ftlb": 90
+        }
+      ],
+      "S6": [
+        {
+          "trim": "19\"BASE / 4",
+          "torque_ftlb": 90
+        }
+      ],
+      "S7": [
+        {
+          "trim": "21\"BASE / 4.0 TFSI",
+          "torque_ftlb": 90
+        }
+      ],
+      "S8": [
+        {
+          "trim": "21\"BASE / 4",
+          "torque_ftlb": 90
+        }
+      ],
+      "SQ5": [
+        {
+          "trim": "20\"BASE / PREM/PRSTG",
+          "torque_ftlb": 105
+        }
+      ],
+      "TT - ALL": [
+        {
+          "trim": "19\"BASE / RS",
+          "torque_ftlb": 90
+        }
+      ]
+    },
     "BENTLEY": {
       "CONTINENTAL - ALL": [
         {
@@ -1683,9 +2977,9 @@
           "torque_ftlb": 90
         }
       ],
-      "535D": [
+      "535D / DX": [
         {
-          "trim": "/ DX\t18\"BASE / SEDAN",
+          "trim": "18\"BASE / SEDAN",
           "torque_ftlb": 90
         }
       ],
@@ -1707,9 +3001,9 @@
           "torque_ftlb": 90
         }
       ],
-      "550I": [
+      "550I / IX": [
         {
-          "trim": "/ IX\t18\"BASE / SEDAN",
+          "trim": "18\"BASE / SEDAN",
           "torque_ftlb": 90
         }
       ],
@@ -1809,9 +3103,9 @@
           "torque_ftlb": 90
         }
       ],
-      "X3": [
+      "X3 /F25": [
         {
-          "trim": "/F25\t18\"BASE / 28I",
+          "trim": "18\"BASE / 28I",
           "torque_ftlb": 105
         }
       ],
@@ -1877,9 +3171,9 @@
           "torque_ftlb": 140
         }
       ],
-      "CTS SEDAN -": [
+      "CTS SEDAN - 2.0 Turbo": [
         {
-          "trim": "2.0 Turbo\t18\"BASE / 2.0 TURBO",
+          "trim": "18\"BASE / 2.0 TURBO",
           "torque_ftlb": 110
         }
       ],
@@ -1927,6 +3221,198 @@
         {
           "trim": "19\"BASE / BASE",
           "torque_ftlb": 95
+        }
+      ]
+    },
+    "ALFA ROMEO": {
+      "4C": [
+        {
+          "trim": "BASE / COUPE",
+          "torque_ftlb": 75
+        }
+      ]
+    },
+    "ASTON MARTIN": {
+      "DB9": [
+        {
+          "trim": "20\"BASE / ALL",
+          "torque_ftlb": 135
+        }
+      ],
+      "RAPIDE S": [
+        {
+          "trim": "20\"BASE / ALL",
+          "torque_ftlb": 135
+        }
+      ],
+      "VANQUISH": [
+        {
+          "trim": "20\"BASE / ALL",
+          "torque_ftlb": 133
+        }
+      ],
+      "VANTAGE": [
+        {
+          "trim": "19\"BASE / GT",
+          "torque_ftlb": 80
+        }
+      ],
+      "VANTAGE S V12": [
+        {
+          "trim": "19\"BASE / ALL",
+          "torque_ftlb": 135
+        }
+      ],
+      "VANTAGE V12": [
+        {
+          "trim": "19\"BASE / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "VANTAGE V8": [
+        {
+          "trim": "19\"BASE / BASE",
+          "torque_ftlb": 80
+        }
+      ]
+    },
+    "AUDI": {
+      "A3": [
+        {
+          "trim": "17\"BASE / CONVERTBLE",
+          "torque_ftlb": 90
+        }
+      ],
+      "A4": [
+        {
+          "trim": "18'BASE / SEDAN",
+          "torque_ftlb": 90
+        }
+      ],
+      "A5 CONVERTIBLE": [
+        {
+          "trim": "18\"BASE / 2",
+          "torque_ftlb": 90
+        }
+      ],
+      "A5 COUPE": [
+        {
+          "trim": "18\"BASE / 2",
+          "torque_ftlb": 90
+        }
+      ],
+      "A6": [
+        {
+          "trim": "18\"BASE / 2.0T",
+          "torque_ftlb": 90
+        }
+      ],
+      "A7": [
+        {
+          "trim": "19'BASE / 3.0T",
+          "torque_ftlb": 90
+        }
+      ],
+      "A8": [
+        {
+          "trim": "19\"BASE / 4",
+          "torque_ftlb": 90
+        }
+      ],
+      "A8L": [
+        {
+          "trim": "19\"BASE / 3",
+          "torque_ftlb": 90
+        }
+      ],
+      "ALLROAD": [
+        {
+          "trim": "18\"BASE / 2",
+          "torque_ftlb": 90
+        }
+      ],
+      "Q3": [
+        {
+          "trim": "18\"BASE / 2.0T",
+          "torque_ftlb": 90
+        }
+      ],
+      "Q5 - ALL": [
+        {
+          "trim": "18\"BASE / 2",
+          "torque_ftlb": 100
+        }
+      ],
+      "Q7 - ALL": [
+        {
+          "trim": "20\"BASE / PREMIUM",
+          "torque_ftlb": 120
+        }
+      ],
+      "R8": [
+        {
+          "trim": "20\"BASE / BASE",
+          "torque_ftlb": 90
+        }
+      ],
+      "RS5": [
+        {
+          "trim": "19\"BASE / COUPE/CONV",
+          "torque_ftlb": 90
+        }
+      ],
+      "RS7": [
+        {
+          "trim": "20\"BASE / 4.0 TFSI",
+          "torque_ftlb": 90
+        }
+      ],
+      "S3": [
+        {
+          "trim": "19\"BASE / SEDAN",
+          "torque_ftlb": 90
+        }
+      ],
+      "S4": [
+        {
+          "trim": "18\"BASE / 3",
+          "torque_ftlb": 90
+        }
+      ],
+      "S5": [
+        {
+          "trim": "18\"BASE / CONVERTBLE",
+          "torque_ftlb": 90
+        }
+      ],
+      "S6": [
+        {
+          "trim": "19\"BASE / 4",
+          "torque_ftlb": 90
+        }
+      ],
+      "S7": [
+        {
+          "trim": "21\"BASE / 4.0 TFSI",
+          "torque_ftlb": 90
+        }
+      ],
+      "S8": [
+        {
+          "trim": "21\"BASE / 4",
+          "torque_ftlb": 90
+        }
+      ],
+      "SQ5": [
+        {
+          "trim": "20\"BASE / PREM/PRSTG",
+          "torque_ftlb": 105
+        }
+      ],
+      "TT - ALL": [
+        {
+          "trim": "19\"BASE / RS",
+          "torque_ftlb": 90
         }
       ]
     },
@@ -2047,9 +3533,9 @@
           "torque_ftlb": 90
         }
       ],
-      "535D": [
+      "535D / DX": [
         {
-          "trim": "/ DX\t18\"BASE / SEDAN",
+          "trim": "18\"BASE / SEDAN",
           "torque_ftlb": 90
         }
       ],
@@ -2071,15 +3557,15 @@
           "torque_ftlb": 90
         }
       ],
-      "535 GT": [
+      "535 GT xDrive": [
         {
-          "trim": "xDrive\t17\"BASE / SEDAN",
+          "trim": "17\"BASE / SEDAN",
           "torque_ftlb": 105
         }
       ],
-      "550I": [
+      "550I / IX": [
         {
-          "trim": "/ IX\t18\"BASE / SEDAN",
+          "trim": "18\"BASE / SEDAN",
           "torque_ftlb": 90
         }
       ],
@@ -2300,6 +3786,198 @@
         }
       ]
     },
+    "ALFA ROMEO": {
+      "4C": [
+        {
+          "trim": "BASE / COUPE",
+          "torque_ftlb": 75
+        }
+      ]
+    },
+    "ASTON MARTIN": {
+      "DB9": [
+        {
+          "trim": "20\"BASE / ALL",
+          "torque_ftlb": 135
+        }
+      ],
+      "RAPIDE S": [
+        {
+          "trim": "20\"BASE / ALL",
+          "torque_ftlb": 135
+        }
+      ],
+      "VANQUISH": [
+        {
+          "trim": "20\"BASE / ALL",
+          "torque_ftlb": 133
+        }
+      ],
+      "VANTAGE": [
+        {
+          "trim": "19\"BASE / GT",
+          "torque_ftlb": 80
+        }
+      ],
+      "VANTAGE S V12": [
+        {
+          "trim": "19\"BASE / ALL",
+          "torque_ftlb": 135
+        }
+      ],
+      "VANTAGE V12": [
+        {
+          "trim": "19\"BASE / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "VANTAGE V8": [
+        {
+          "trim": "19\"BASE / BASE",
+          "torque_ftlb": 80
+        }
+      ]
+    },
+    "AUDI": {
+      "A3": [
+        {
+          "trim": "17\"BASE / CONVERTBLE",
+          "torque_ftlb": 90
+        }
+      ],
+      "A3 SPORTBACK": [
+        {
+          "trim": "17\"BASE / E-TRON",
+          "torque_ftlb": 90
+        }
+      ],
+      "A4": [
+        {
+          "trim": "18'BASE / SEDAN",
+          "torque_ftlb": 90
+        }
+      ],
+      "A5 CONVERTIBLE": [
+        {
+          "trim": "18\"BASE / 2",
+          "torque_ftlb": 90
+        }
+      ],
+      "A5 COUPE": [
+        {
+          "trim": "18\"BASE / 2",
+          "torque_ftlb": 90
+        }
+      ],
+      "A6": [
+        {
+          "trim": "18\"BASE / 2.0T",
+          "torque_ftlb": 90
+        }
+      ],
+      "A7": [
+        {
+          "trim": "19'BASE / 3.0T",
+          "torque_ftlb": 90
+        }
+      ],
+      "A8L": [
+        {
+          "trim": "19\"BASE / 3",
+          "torque_ftlb": 90
+        }
+      ],
+      "ALLROAD": [
+        {
+          "trim": "18\"BASE / 2",
+          "torque_ftlb": 90
+        }
+      ],
+      "Q3": [
+        {
+          "trim": "18\"BASE / 2.0T",
+          "torque_ftlb": 90
+        }
+      ],
+      "Q5 - ALL": [
+        {
+          "trim": "18\"BASE / 2",
+          "torque_ftlb": 100
+        }
+      ],
+      "Q7 - ALL": [
+        {
+          "trim": "20\"BASE / PREMIUM",
+          "torque_ftlb": 120
+        }
+      ],
+      "R8": [
+        {
+          "trim": "20\"BASE / BASE",
+          "torque_ftlb": 90
+        }
+      ],
+      "RS5": [
+        {
+          "trim": "19\"BASE / COUPE/CONV",
+          "torque_ftlb": 90
+        }
+      ],
+      "RS7": [
+        {
+          "trim": "20\"BASE / 4.0 TFSI",
+          "torque_ftlb": 90
+        }
+      ],
+      "S3": [
+        {
+          "trim": "19\"BASE / SEDAN",
+          "torque_ftlb": 90
+        }
+      ],
+      "S4": [
+        {
+          "trim": "18\"BASE / 3",
+          "torque_ftlb": 90
+        }
+      ],
+      "S5": [
+        {
+          "trim": "18\"BASE / CONVERTBLE",
+          "torque_ftlb": 90
+        }
+      ],
+      "S6": [
+        {
+          "trim": "19\"BASE / 4",
+          "torque_ftlb": 90
+        }
+      ],
+      "S7": [
+        {
+          "trim": "21\"BASE / 4.0 TFSI",
+          "torque_ftlb": 90
+        }
+      ],
+      "S8": [
+        {
+          "trim": "21\"BASE / 4",
+          "torque_ftlb": 90
+        }
+      ],
+      "SQ5": [
+        {
+          "trim": "20\"BASE / PREM/PRSTG",
+          "torque_ftlb": 105
+        }
+      ],
+      "TT - ALL": [
+        {
+          "trim": "19\"BASE / RS",
+          "torque_ftlb": 90
+        }
+      ]
+    },
     "BENTLEY": {
       "CONTINENTAL - ALL": [
         {
@@ -2417,15 +4095,15 @@
           "torque_ftlb": 105
         }
       ],
-      "435I GRAN COUPE - 18": [
+      "435I GRAN COUPE - 18 Inch": [
         {
-          "trim": "Inch\t18\"BASE / F36",
+          "trim": "18\"BASE / F36",
           "torque_ftlb": 105
         }
       ],
-      "435I GRAN COUPE - 19": [
+      "435I GRAN COUPE - 19 Inch": [
         {
-          "trim": "Inch\t19\"BASE / F36",
+          "trim": "19\"BASE / F36",
           "torque_ftlb": 105
         }
       ],
@@ -2441,15 +4119,15 @@
           "torque_ftlb": 105
         }
       ],
-      "435IX GRAN COUP - 18": [
+      "435IX GRAN COUP - 18 Inch": [
         {
-          "trim": "Inch\t18\"BASE / F36",
+          "trim": "18\"BASE / F36",
           "torque_ftlb": 105
         }
       ],
-      "435IX GRAN COUP - 19": [
+      "435IX GRAN COUP - 19 Inch": [
         {
-          "trim": "Inch\t19\"BASE / F36",
+          "trim": "19\"BASE / F36",
           "torque_ftlb": 105
         }
       ],
@@ -2459,9 +4137,9 @@
           "torque_ftlb": 90
         }
       ],
-      "535D": [
+      "535D / DX": [
         {
-          "trim": "/ DX\t18\"BASE / SEDAN",
+          "trim": "18\"BASE / SEDAN",
           "torque_ftlb": 90
         }
       ],
@@ -2483,15 +4161,15 @@
           "torque_ftlb": 90
         }
       ],
-      "535 GT": [
+      "535 GT xDrive": [
         {
-          "trim": "xDrive\t17\"BASE / SEDAN",
+          "trim": "17\"BASE / SEDAN",
           "torque_ftlb": 105
         }
       ],
-      "550I": [
+      "550I / IX": [
         {
-          "trim": "/ IX\t18\"BASE / SEDAN",
+          "trim": "18\"BASE / SEDAN",
           "torque_ftlb": 90
         }
       ],
@@ -2706,6 +4384,156 @@
         }
       ]
     },
+    "ALFA ROMEO": {
+      "4C": [
+        {
+          "trim": "BASE / COUPE",
+          "torque_ftlb": 75
+        }
+      ]
+    },
+    "ASTON MARTIN": {
+      "RAPIDE S": [
+        {
+          "trim": "20\"BASE / ALL",
+          "torque_ftlb": 135
+        }
+      ],
+      "VANQUISH": [
+        {
+          "trim": "20\"BASE / ALL",
+          "torque_ftlb": 133
+        }
+      ],
+      "VANTAGE S V12": [
+        {
+          "trim": "19\"BASE / ALL",
+          "torque_ftlb": 135
+        }
+      ]
+    },
+    "AUDI": {
+      "A4": [
+        {
+          "trim": "18'BASE / SEDAN",
+          "torque_ftlb": 90
+        }
+      ],
+      "A5 CONVERTIBLE": [
+        {
+          "trim": "18\"BASE / 2",
+          "torque_ftlb": 90
+        }
+      ],
+      "A5 COUPE": [
+        {
+          "trim": "18\"BASE / 2",
+          "torque_ftlb": 90
+        }
+      ],
+      "A6": [
+        {
+          "trim": "18\"BASE / 2.0T",
+          "torque_ftlb": 90
+        }
+      ],
+      "A7": [
+        {
+          "trim": "19'BASE / 3.0T",
+          "torque_ftlb": 90
+        }
+      ],
+      "A8L": [
+        {
+          "trim": "19\"BASE / 3",
+          "torque_ftlb": 90
+        }
+      ],
+      "Q3": [
+        {
+          "trim": "18\"BASE / 2.0T",
+          "torque_ftlb": 90
+        }
+      ],
+      "Q5 - ALL": [
+        {
+          "trim": "18\"BASE / 2",
+          "torque_ftlb": 100
+        }
+      ],
+      "Q7 - ALL": [
+        {
+          "trim": "20\"BASE / PREMIUM",
+          "torque_ftlb": 120
+        }
+      ],
+      "R8": [
+        {
+          "trim": "20\"BASE / BASE",
+          "torque_ftlb": 90
+        }
+      ],
+      "RS5": [
+        {
+          "trim": "19\"BASE / COUPE/CONV",
+          "torque_ftlb": 90
+        }
+      ],
+      "RS7": [
+        {
+          "trim": "20\"BASE / 4.0 TFSI",
+          "torque_ftlb": 90
+        }
+      ],
+      "S3": [
+        {
+          "trim": "19\"BASE / SEDAN",
+          "torque_ftlb": 90
+        }
+      ],
+      "S4": [
+        {
+          "trim": "18\"BASE / 3",
+          "torque_ftlb": 90
+        }
+      ],
+      "S5": [
+        {
+          "trim": "18\"BASE / CONVERTBLE",
+          "torque_ftlb": 90
+        }
+      ],
+      "S6": [
+        {
+          "trim": "19\"BASE / 4",
+          "torque_ftlb": 90
+        }
+      ],
+      "S7": [
+        {
+          "trim": "21\"BASE / 4.0 TFSI",
+          "torque_ftlb": 90
+        }
+      ],
+      "S8": [
+        {
+          "trim": "21\"BASE / 4",
+          "torque_ftlb": 90
+        }
+      ],
+      "SQ5": [
+        {
+          "trim": "20\"BASE / PREM/PRSTG",
+          "torque_ftlb": 105
+        }
+      ],
+      "TT - ALL": [
+        {
+          "trim": "19\"BASE / RS",
+          "torque_ftlb": 90
+        }
+      ]
+    },
     "BENTLEY": {
       "CONTINENTAL - ALL": [
         {
@@ -2805,15 +4633,15 @@
           "torque_ftlb": 105
         }
       ],
-      "435I GRAN COUPE - 18": [
+      "435I GRAN COUPE - 18 Inch": [
         {
-          "trim": "Inch\t18\"BASE / F36",
+          "trim": "18\"BASE / F36",
           "torque_ftlb": 105
         }
       ],
-      "435I GRAN COUPE - 19": [
+      "435I GRAN COUPE - 19 Inch": [
         {
-          "trim": "Inch\t19\"BASE / F36",
+          "trim": "19\"BASE / F36",
           "torque_ftlb": 105
         }
       ],
@@ -2829,15 +4657,15 @@
           "torque_ftlb": 105
         }
       ],
-      "435IX GRAN COUP - 18": [
+      "435IX GRAN COUP - 18 Inch": [
         {
-          "trim": "Inch\t18\"BASE / F36",
+          "trim": "18\"BASE / F36",
           "torque_ftlb": 105
         }
       ],
-      "435IX GRAN COUP - 19": [
+      "435IX GRAN COUP - 19 Inch": [
         {
-          "trim": "Inch\t19\"BASE / F36",
+          "trim": "19\"BASE / F36",
           "torque_ftlb": 105
         }
       ],
@@ -2853,9 +4681,9 @@
           "torque_ftlb": 90
         }
       ],
-      "535 GT": [
+      "535 GT xDrive": [
         {
-          "trim": "xDrive\t17\"BASE / SEDAN",
+          "trim": "17\"BASE / SEDAN",
           "torque_ftlb": 105
         }
       ],
@@ -2865,9 +4693,9 @@
           "torque_ftlb": 105
         }
       ],
-      "550I": [
+      "550I / IX": [
         {
-          "trim": "/ IX\t18\"BASE / SEDAN",
+          "trim": "18\"BASE / SEDAN",
           "torque_ftlb": 90
         }
       ],
@@ -3034,6 +4862,180 @@
         }
       ]
     },
+    "ALFA ROMEO": {
+      "4C": [
+        {
+          "trim": "BASE / COUPE",
+          "torque_ftlb": 75
+        }
+      ],
+      "GIULIA": [
+        {
+          "trim": "19\"BASE / QDRIFOGLIO",
+          "torque_ftlb": 90
+        }
+      ],
+      "STELVIO": [
+        {
+          "trim": "Q4",
+          "torque_ftlb": 90
+        }
+      ]
+    },
+    "ASTON MARTIN": {
+      "DB11": [
+        {
+          "trim": "20\"BASE / ALL",
+          "torque_ftlb": 110
+        }
+      ],
+      "RAPIDE S": [
+        {
+          "trim": "20\"BASE / ALL",
+          "torque_ftlb": 135
+        }
+      ],
+      "VANQUISH": [
+        {
+          "trim": "20\"BASE / ALL",
+          "torque_ftlb": 133
+        }
+      ],
+      "VANTAGE S V12": [
+        {
+          "trim": "19\"BASE / ALL",
+          "torque_ftlb": 135
+        }
+      ]
+    },
+    "AUDI": {
+      "A4": [
+        {
+          "trim": "18'BASE / SEDAN",
+          "torque_ftlb": 90
+        }
+      ],
+      "A4 ALLROAD": [
+        {
+          "trim": "18\"BASE / 2",
+          "torque_ftlb": 90
+        }
+      ],
+      "A5 CONVERTIBLE": [
+        {
+          "trim": "18\"BASE / 2",
+          "torque_ftlb": 90
+        }
+      ],
+      "A5 COUPE": [
+        {
+          "trim": "18\"BASE / 2",
+          "torque_ftlb": 90
+        }
+      ],
+      "A6": [
+        {
+          "trim": "18\"BASE / 2.0T",
+          "torque_ftlb": 90
+        }
+      ],
+      "A7": [
+        {
+          "trim": "19'BASE / 3.0T",
+          "torque_ftlb": 90
+        }
+      ],
+      "A8L": [
+        {
+          "trim": "19\"BASE / 3",
+          "torque_ftlb": 90
+        }
+      ],
+      "Q3": [
+        {
+          "trim": "18\"BASE / 2.0T",
+          "torque_ftlb": 90
+        }
+      ],
+      "Q5 - ALL": [
+        {
+          "trim": "18\"BASE / 2",
+          "torque_ftlb": 100
+        }
+      ],
+      "Q7 - ALL": [
+        {
+          "trim": "20\"BASE / PREMIUM",
+          "torque_ftlb": 120
+        }
+      ],
+      "R8": [
+        {
+          "trim": "20\"BASE / BASE",
+          "torque_ftlb": 90
+        }
+      ],
+      "RS5": [
+        {
+          "trim": "19\"BASE / COUPE/CONV",
+          "torque_ftlb": 90
+        }
+      ],
+      "RS7": [
+        {
+          "trim": "20\"BASE / 4.0 TFSI",
+          "torque_ftlb": 90
+        }
+      ],
+      "S3": [
+        {
+          "trim": "19\"BASE / SEDAN",
+          "torque_ftlb": 90
+        }
+      ],
+      "S4": [
+        {
+          "trim": "18\"BASE / 3",
+          "torque_ftlb": 90
+        }
+      ],
+      "S5": [
+        {
+          "trim": "18\"BASE / CONVERTBLE",
+          "torque_ftlb": 90
+        }
+      ],
+      "S6": [
+        {
+          "trim": "19\"BASE / 4",
+          "torque_ftlb": 90
+        }
+      ],
+      "S7": [
+        {
+          "trim": "21\"BASE / 4.0 TFSI",
+          "torque_ftlb": 90
+        }
+      ],
+      "S8": [
+        {
+          "trim": "21\"BASE / 4",
+          "torque_ftlb": 90
+        }
+      ],
+      "SQ5": [
+        {
+          "trim": "20\"BASE / PREM/PRSTG",
+          "torque_ftlb": 105
+        }
+      ],
+      "TT - ALL": [
+        {
+          "trim": "19\"BASE / RS",
+          "torque_ftlb": 90
+        }
+      ]
+    },
     "BENTLEY": {
       "FLYING SPUR": [
         {
@@ -3139,15 +5141,15 @@
           "torque_ftlb": 105
         }
       ],
-      "435I GRAN COUPE - 18": [
+      "435I GRAN COUPE - 18 Inch": [
         {
-          "trim": "Inch\t18\"BASE / F36",
+          "trim": "18\"BASE / F36",
           "torque_ftlb": 105
         }
       ],
-      "435I GRAN COUPE - 19": [
+      "435I GRAN COUPE - 19 Inch": [
         {
-          "trim": "Inch\t19\"BASE / F36",
+          "trim": "19\"BASE / F36",
           "torque_ftlb": 105
         }
       ],
@@ -3163,15 +5165,15 @@
           "torque_ftlb": 105
         }
       ],
-      "435IX GRAN COUP - 18": [
+      "435IX GRAN COUP - 18 Inch": [
         {
-          "trim": "Inch\t18\"BASE / F36",
+          "trim": "18\"BASE / F36",
           "torque_ftlb": 105
         }
       ],
-      "435IX GRAN COUP - 19": [
+      "435IX GRAN COUP - 19 Inch": [
         {
-          "trim": "Inch\t19\"BASE / F36",
+          "trim": "19\"BASE / F36",
           "torque_ftlb": 105
         }
       ],
@@ -3193,9 +5195,9 @@
           "torque_ftlb": 90
         }
       ],
-      "535 GT": [
+      "535 GT xDrive": [
         {
-          "trim": "xDrive\t17\"BASE / SEDAN",
+          "trim": "17\"BASE / SEDAN",
           "torque_ftlb": 105
         }
       ],
@@ -3205,9 +5207,9 @@
           "torque_ftlb": 105
         }
       ],
-      "550I": [
+      "550I / IX": [
         {
-          "trim": "/ IX\t18\"BASE / SEDAN",
+          "trim": "18\"BASE / SEDAN",
           "torque_ftlb": 90
         }
       ],
@@ -3356,6 +5358,52 @@
         }
       ]
     },
+    "ALFA ROMEO": {
+      "GTV-6": [
+        {
+          "trim": "2 DOOR / 2.5",
+          "torque_ftlb": 75
+        }
+      ],
+      "SPIDER": [
+        {
+          "trim": "2 DOOR / VELOCE",
+          "torque_ftlb": 75
+        }
+      ]
+    },
+    "AUDI": {
+      "4000": [
+        {
+          "trim": "BASE/S / 185/60R14",
+          "torque_ftlb": 90
+        }
+      ],
+      "5000": [
+        {
+          "trim": "SEDAN / TURBO/QUAT",
+          "torque_ftlb": 90
+        }
+      ],
+      "4000 CS": [
+        {
+          "trim": "QUATTRO / 195/60R14",
+          "torque_ftlb": 90
+        }
+      ],
+      "COUPE": [
+        {
+          "trim": "ALL / QUATTRO",
+          "torque_ftlb": 90
+        }
+      ],
+      "QUATTRO": [
+        {
+          "trim": "ALL / QUATTRO",
+          "torque_ftlb": 90
+        }
+      ]
+    },
     "BENTLEY": {
       "CONTINENTAL": [
         {
@@ -3365,15 +5413,27 @@
       ]
     },
     "BMW": {
-      "524TD": [
+      "325I/IS/E": [
         {
-          "trim": "/E28\t14-INCH / ALL",
+          "trim": "2/4 DR / E30",
+          "torque_ftlb": 80
+        }
+      ],
+      "524TD /E28": [
+        {
+          "trim": "14-INCH / ALL",
           "torque_ftlb": 80
         }
       ],
       "528 - ALL": [
         {
           "trim": "14-INCH / CPE/SDN",
+          "torque_ftlb": 80
+        }
+      ],
+      "535/I/IS": [
+        {
+          "trim": "15-INCH / ALL/E28",
           "torque_ftlb": 80
         }
       ]
@@ -3456,6 +5516,52 @@
         }
       ]
     },
+    "ALFA ROMEO": {
+      "MILANO": [
+        {
+          "trim": "2 DOOR / 195/60R14",
+          "torque_ftlb": 75
+        }
+      ],
+      "SPIDER": [
+        {
+          "trim": "2 DOOR / VELOCE",
+          "torque_ftlb": 75
+        }
+      ]
+    },
+    "AUDI": {
+      "4000": [
+        {
+          "trim": "BASE/S / 185/60R14",
+          "torque_ftlb": 90
+        }
+      ],
+      "5000": [
+        {
+          "trim": "SEDAN / TURBO/QUAT",
+          "torque_ftlb": 90
+        }
+      ],
+      "4000 CS": [
+        {
+          "trim": "QUATTRO / 195/60R14",
+          "torque_ftlb": 90
+        }
+      ],
+      "COUPE": [
+        {
+          "trim": "ALL / QUATTRO",
+          "torque_ftlb": 90
+        }
+      ],
+      "QUATTRO": [
+        {
+          "trim": "ALL / QUATTRO",
+          "torque_ftlb": 90
+        }
+      ]
+    },
     "BENTLEY": {
       "AZURE": [
         {
@@ -3471,21 +5577,33 @@
       ]
     },
     "BMW": {
+      "325I/IS/E": [
+        {
+          "trim": "2/4 DR / E30",
+          "torque_ftlb": 80
+        }
+      ],
       "528 - ALL": [
         {
           "trim": "14-INCH / CPE/SDN",
           "torque_ftlb": 80
         }
       ],
-      "L6": [
+      "535/I/IS": [
         {
-          "trim": "/E24\t2 DOOR / COUPE",
+          "trim": "15-INCH / ALL/E28",
           "torque_ftlb": 80
         }
       ],
-      "L7": [
+      "L6 /E24": [
         {
-          "trim": "/E23\t4 DOOR / SEDAN",
+          "trim": "2 DOOR / COUPE",
+          "torque_ftlb": 80
+        }
+      ],
+      "L7 /E23": [
+        {
+          "trim": "4 DOOR / SEDAN",
           "torque_ftlb": 80
         }
       ],
@@ -3580,6 +5698,46 @@
         }
       ]
     },
+    "ALFA ROMEO": {
+      "MILANO": [
+        {
+          "trim": "2 DOOR / 195/60R14",
+          "torque_ftlb": 75
+        }
+      ],
+      "SPIDER": [
+        {
+          "trim": "2 DOOR / VELOCE",
+          "torque_ftlb": 75
+        }
+      ]
+    },
+    "AUDI": {
+      "80": [
+        {
+          "trim": "SEDAN / QUATTRO",
+          "torque_ftlb": 90
+        }
+      ],
+      "90": [
+        {
+          "trim": "SEDAN / BASE/S",
+          "torque_ftlb": 90
+        }
+      ],
+      "5000": [
+        {
+          "trim": "SEDAN / TURBO/QUAT",
+          "torque_ftlb": 90
+        }
+      ],
+      "COUPE": [
+        {
+          "trim": "ALL / QUATTRO",
+          "torque_ftlb": 90
+        }
+      ]
+    },
     "BENTLEY": {
       "AZURE": [
         {
@@ -3607,6 +5765,12 @@
           "torque_ftlb": 90
         }
       ],
+      "325I/IS/E": [
+        {
+          "trim": "2/4 DR / E30",
+          "torque_ftlb": 80
+        }
+      ],
       "325IC CONVERTBL": [
         {
           "trim": "ALL / E30",
@@ -3622,6 +5786,12 @@
       "528 - ALL": [
         {
           "trim": "14-INCH / CPE/SDN",
+          "torque_ftlb": 80
+        }
+      ],
+      "535/I/IS": [
+        {
+          "trim": "15-INCH / ALL/E28",
           "torque_ftlb": 80
         }
       ],
@@ -3710,6 +5880,52 @@
         }
       ]
     },
+    "ALFA ROMEO": {
+      "MILANO": [
+        {
+          "trim": "2 DOOR / 195/60R14",
+          "torque_ftlb": 75
+        }
+      ],
+      "SPIDER": [
+        {
+          "trim": "2 DOOR / VELOCE",
+          "torque_ftlb": 75
+        }
+      ]
+    },
+    "AUDI": {
+      "80": [
+        {
+          "trim": "SEDAN / QUATTRO",
+          "torque_ftlb": 90
+        }
+      ],
+      "90": [
+        {
+          "trim": "SEDAN / BASE/S",
+          "torque_ftlb": 90
+        }
+      ],
+      "100": [
+        {
+          "trim": "ALL / 195/65R15",
+          "torque_ftlb": 90
+        }
+      ],
+      "200": [
+        {
+          "trim": "ALL / 205/60R15",
+          "torque_ftlb": 90
+        }
+      ],
+      "COUPE": [
+        {
+          "trim": "ALL / QUATTRO",
+          "torque_ftlb": 90
+        }
+      ]
+    },
     "BENTLEY": {
       "AZURE": [
         {
@@ -3743,6 +5959,12 @@
           "torque_ftlb": 90
         }
       ],
+      "325I/IS/E": [
+        {
+          "trim": "2/4 DR / E30",
+          "torque_ftlb": 90
+        }
+      ],
       "325IC CONVERTBL": [
         {
           "trim": "ALL / E30",
@@ -3758,6 +5980,12 @@
       "525 - ALL": [
         {
           "trim": "4 DOOR / TOURING",
+          "torque_ftlb": 90
+        }
+      ],
+      "535/I/IS": [
+        {
+          "trim": "2/4 DR / ALL E34",
           "torque_ftlb": 90
         }
       ],
@@ -3840,6 +6068,52 @@
         }
       ]
     },
+    "ALFA ROMEO": {
+      "SPIDER": [
+        {
+          "trim": "2 DOOR / VELOCE",
+          "torque_ftlb": 75
+        }
+      ]
+    },
+    "AUDI": {
+      "80": [
+        {
+          "trim": "SEDAN / QUATTRO",
+          "torque_ftlb": 90
+        }
+      ],
+      "90": [
+        {
+          "trim": "SEDAN / BASE/S",
+          "torque_ftlb": 90
+        }
+      ],
+      "100": [
+        {
+          "trim": "ALL / 195/65R15",
+          "torque_ftlb": 90
+        }
+      ],
+      "200": [
+        {
+          "trim": "ALL / 205/60R15",
+          "torque_ftlb": 90
+        }
+      ],
+      "COUPE": [
+        {
+          "trim": "ALL / QUATTRO",
+          "torque_ftlb": 90
+        }
+      ],
+      "V8": [
+        {
+          "trim": "ALL / QUATTRO",
+          "torque_ftlb": 90
+        }
+      ]
+    },
     "BENTLEY": {
       "AZURE": [
         {
@@ -3879,6 +6153,12 @@
           "torque_ftlb": 90
         }
       ],
+      "325I/IS/E": [
+        {
+          "trim": "2/4 DR / E30",
+          "torque_ftlb": 90
+        }
+      ],
       "325IC CONVERTBL": [
         {
           "trim": "ALL / E30",
@@ -3894,6 +6174,12 @@
       "525 - ALL": [
         {
           "trim": "4 DOOR / TOURING",
+          "torque_ftlb": 90
+        }
+      ],
+      "535/I/IS": [
+        {
+          "trim": "2/4 DR / ALL E34",
           "torque_ftlb": 90
         }
       ],
@@ -3970,6 +6256,66 @@
         }
       ]
     },
+    "ALFA ROMEO": {
+      "SPIDER": [
+        {
+          "trim": "2 DOOR / VELOCE",
+          "torque_ftlb": 75
+        }
+      ]
+    },
+    "ASTON MARTIN": {
+      "VIRAGE": [
+        {
+          "trim": "2 DOOR / COUPE",
+          "torque_ftlb": 70
+        }
+      ]
+    },
+    "AUDI": {
+      "80": [
+        {
+          "trim": "SEDAN / QUATTRO",
+          "torque_ftlb": 90
+        }
+      ],
+      "90": [
+        {
+          "trim": "SEDAN / BASE/S",
+          "torque_ftlb": 90
+        }
+      ],
+      "100": [
+        {
+          "trim": "ALL / 195/65R15",
+          "torque_ftlb": 90
+        }
+      ],
+      "200": [
+        {
+          "trim": "ALL / 205/60R15",
+          "torque_ftlb": 90
+        }
+      ],
+      "200 20V": [
+        {
+          "trim": "4 DOOR / QUATTRO",
+          "torque_ftlb": 90
+        }
+      ],
+      "COUPE": [
+        {
+          "trim": "ALL / QUATTRO",
+          "torque_ftlb": 90
+        }
+      ],
+      "V8": [
+        {
+          "trim": "ALL / QUATTRO",
+          "torque_ftlb": 90
+        }
+      ]
+    },
     "BENTLEY": {
       "AZURE": [
         {
@@ -4009,6 +6355,12 @@
           "torque_ftlb": 90
         }
       ],
+      "325I/IS/E": [
+        {
+          "trim": "2/4 DR / E30",
+          "torque_ftlb": 90
+        }
+      ],
       "325IC CONVERTBL": [
         {
           "trim": "ALL / E30",
@@ -4024,6 +6376,12 @@
       "525 - ALL": [
         {
           "trim": "4 DOOR / TOURING",
+          "torque_ftlb": 90
+        }
+      ],
+      "535/I/IS": [
+        {
+          "trim": "2/4 DR / ALL E34",
           "torque_ftlb": 90
         }
       ],
@@ -4118,6 +6476,54 @@
         }
       ]
     },
+    "ALFA ROMEO": {
+      "SPIDER": [
+        {
+          "trim": "2 DOOR / VELOCE",
+          "torque_ftlb": 75
+        }
+      ]
+    },
+    "ASTON MARTIN": {
+      "VIRAGE": [
+        {
+          "trim": "2 DOOR / COUPE",
+          "torque_ftlb": 70
+        }
+      ]
+    },
+    "AUDI": {
+      "80": [
+        {
+          "trim": "SEDAN / QUATTRO",
+          "torque_ftlb": 90
+        }
+      ],
+      "90": [
+        {
+          "trim": "SEDAN / BASE/S",
+          "torque_ftlb": 90
+        }
+      ],
+      "100": [
+        {
+          "trim": "ALL / 195/65R15",
+          "torque_ftlb": 90
+        }
+      ],
+      "S4": [
+        {
+          "trim": "18\"BASE / 3",
+          "torque_ftlb": 90
+        }
+      ],
+      "V8": [
+        {
+          "trim": "ALL / QUATTRO",
+          "torque_ftlb": 90
+        }
+      ]
+    },
     "BENTLEY": {
       "AZURE": [
         {
@@ -4157,6 +6563,12 @@
           "torque_ftlb": 90
         }
       ],
+      "325I/IS/IC": [
+        {
+          "trim": "15\"BASE / E36",
+          "torque_ftlb": 90
+        }
+      ],
       "325IC CONVERTBL": [
         {
           "trim": "ALL / E30",
@@ -4172,6 +6584,12 @@
       "525 - ALL": [
         {
           "trim": "4 DOOR / TOURING",
+          "torque_ftlb": 90
+        }
+      ],
+      "535/I/IS": [
+        {
+          "trim": "2/4 DR / ALL E34",
           "torque_ftlb": 90
         }
       ],
@@ -4254,6 +6672,48 @@
         }
       ]
     },
+    "ALFA ROMEO": {
+      "SPIDER": [
+        {
+          "trim": "2 DOOR / VELOCE",
+          "torque_ftlb": 75
+        }
+      ]
+    },
+    "ASTON MARTIN": {
+      "VIRAGE": [
+        {
+          "trim": "2 DOOR / COUPE",
+          "torque_ftlb": 70
+        }
+      ]
+    },
+    "AUDI": {
+      "90": [
+        {
+          "trim": "SEDAN / BASE/S",
+          "torque_ftlb": 90
+        }
+      ],
+      "100": [
+        {
+          "trim": "ALL / 195/65R15",
+          "torque_ftlb": 90
+        }
+      ],
+      "S4": [
+        {
+          "trim": "18\"BASE / 3",
+          "torque_ftlb": 90
+        }
+      ],
+      "V8": [
+        {
+          "trim": "ALL / QUATTRO",
+          "torque_ftlb": 90
+        }
+      ]
+    },
     "BENTLEY": {
       "BROOKLANDS": [
         {
@@ -4287,6 +6747,12 @@
           "torque_ftlb": 90
         }
       ],
+      "325I/IS/IC": [
+        {
+          "trim": "15\"BASE / E36",
+          "torque_ftlb": 90
+        }
+      ],
       "328 - ALL": [
         {
           "trim": "ALL / E36",
@@ -4296,6 +6762,12 @@
       "525 - ALL": [
         {
           "trim": "4 DOOR / TOURING",
+          "torque_ftlb": 90
+        }
+      ],
+      "535/I/IS": [
+        {
+          "trim": "2/4 DR / ALL E34",
           "torque_ftlb": 90
         }
       ],
@@ -4378,6 +6850,54 @@
         }
       ]
     },
+    "ALFA ROMEO": {
+      "164": [
+        {
+          "trim": "4 DOOR / QUAD.",
+          "torque_ftlb": 75
+        }
+      ]
+    },
+    "ASTON MARTIN": {
+      "VIRAGE": [
+        {
+          "trim": "2 DOOR / COUPE",
+          "torque_ftlb": 70
+        }
+      ]
+    },
+    "AUDI": {
+      "90": [
+        {
+          "trim": "SEDAN / BASE/S",
+          "torque_ftlb": 90
+        }
+      ],
+      "100": [
+        {
+          "trim": "ALL / 195/65R15",
+          "torque_ftlb": 90
+        }
+      ],
+      "CABRIOLET": [
+        {
+          "trim": "ALL / 195/65R15",
+          "torque_ftlb": 90
+        }
+      ],
+      "S4": [
+        {
+          "trim": "18\"BASE / 3",
+          "torque_ftlb": 90
+        }
+      ],
+      "V8": [
+        {
+          "trim": "ALL / QUATTRO",
+          "torque_ftlb": 90
+        }
+      ]
+    },
     "BENTLEY": {
       "BROOKLANDS": [
         {
@@ -4408,6 +6928,12 @@
       "323I - ALL": [
         {
           "trim": "15\"BASE / E46",
+          "torque_ftlb": 90
+        }
+      ],
+      "325I/IS/IC": [
+        {
+          "trim": "15\"BASE / E36",
           "torque_ftlb": 90
         }
       ],
@@ -4508,6 +7034,54 @@
         }
       ]
     },
+    "ALFA ROMEO": {
+      "164": [
+        {
+          "trim": "4 DOOR / QUAD.",
+          "torque_ftlb": 75
+        }
+      ]
+    },
+    "ASTON MARTIN": {
+      "DB7": [
+        {
+          "trim": "2 DOOR / COUPE",
+          "torque_ftlb": 80
+        }
+      ]
+    },
+    "AUDI": {
+      "90": [
+        {
+          "trim": "SEDAN / BASE/S",
+          "torque_ftlb": 90
+        }
+      ],
+      "A6 QUATTRO": [
+        {
+          "trim": "16-INCH / WAGON",
+          "torque_ftlb": 90
+        }
+      ],
+      "CABRIOLET": [
+        {
+          "trim": "ALL / 195/65R15",
+          "torque_ftlb": 90
+        }
+      ],
+      "S4": [
+        {
+          "trim": "18\"BASE / 3",
+          "torque_ftlb": 90
+        }
+      ],
+      "S6": [
+        {
+          "trim": "19\"BASE / 4",
+          "torque_ftlb": 90
+        }
+      ]
+    },
     "BENTLEY": {
       "BROOKLANDS": [
         {
@@ -4538,6 +7112,12 @@
       "323I - ALL": [
         {
           "trim": "15\"BASE / E46",
+          "torque_ftlb": 90
+        }
+      ],
+      "325I/IS/IC": [
+        {
+          "trim": "15\"BASE / E36",
           "torque_ftlb": 90
         }
       ],
@@ -4623,196 +7203,6 @@
       ]
     }
   },
-  "2004": {
-    "ACURA": {
-      "MDX": [
-        {
-          "trim": "4WD- / SUV",
-          "torque_ftlb": 80
-        }
-      ],
-      "NSX": [
-        {
-          "trim": "COUPE / ALL",
-          "torque_ftlb": 80
-        }
-      ],
-      "RSX": [
-        {
-          "trim": "17-INCH / BASE/TYP S",
-          "torque_ftlb": 80
-        }
-      ],
-      "TL": [
-        {
-          "trim": "17\"BASE / BASE SEDAN",
-          "torque_ftlb": 80
-        }
-      ],
-      "TSX": [
-        {
-          "trim": "ALL / SEDAN",
-          "torque_ftlb": 90
-        }
-      ]
-    },
-    "BENTLEY": {
-      "ARNAGE - ALL": [
-        {
-          "trim": "FINAL / SEDAN",
-          "torque_ftlb": 75
-        }
-      ],
-      "AZURE": [
-        {
-          "trim": "CONVRT / 255/50R18",
-          "torque_ftlb": 50
-        }
-      ],
-      "CONTINENTAL": [
-        {
-          "trim": "2 DOOR / 255/55R17",
-          "torque_ftlb": 50
-        }
-      ]
-    },
-    "BMW": {
-      "325 - ALL": [
-        {
-          "trim": "16\"BASE / E46",
-          "torque_ftlb": 90
-        }
-      ],
-      "328 - ALL": [
-        {
-          "trim": "ALL / E36",
-          "torque_ftlb": 90
-        }
-      ],
-      "330 - ALL": [
-        {
-          "trim": "17\"BASE / E90",
-          "torque_ftlb": 90
-        }
-      ],
-      "525 - ALL": [
-        {
-          "trim": "4 DOOR / TOURING",
-          "torque_ftlb": 90
-        }
-      ],
-      "528I - ALL": [
-        {
-          "trim": "15-INCH / CPE/SDN",
-          "torque_ftlb": 90
-        }
-      ],
-      "530I - ALL": [
-        {
-          "trim": "ALL / TOURING",
-          "torque_ftlb": 90
-        }
-      ],
-      "550I": [
-        {
-          "trim": "/E60\t17\"BASE / SEDAN",
-          "torque_ftlb": 90
-        }
-      ],
-      "ALPINA V8": [
-        {
-          "trim": "2DR/ E52 / ROADSTER",
-          "torque_ftlb": 90
-        }
-      ],
-      "M3 CONVERTIBLE": [
-        {
-          "trim": "18\" BASE / E93",
-          "torque_ftlb": 90
-        }
-      ],
-      "M3 SEDAN": [
-        {
-          "trim": "18'BASE / F80",
-          "torque_ftlb": 90
-        }
-      ],
-      "M5": [
-        {
-          "trim": "19-INCH- / E60",
-          "torque_ftlb": 90
-        }
-      ],
-      "X3": [
-        {
-          "trim": "/E83\t17\"BASE / 30I",
-          "torque_ftlb": 90
-        }
-      ],
-      "X5 - ALL": [
-        {
-          "trim": "18\"BASE / F15 35I",
-          "torque_ftlb": 105
-        }
-      ],
-      "Z4 - ALL": [
-        {
-          "trim": "18-STGGR / M COUPE",
-          "torque_ftlb": 90
-        }
-      ]
-    },
-    "BUICK": {
-      "CENTURY": [
-        {
-          "trim": "4 DOOR / CUSTM/LMTD",
-          "torque_ftlb": 100
-        }
-      ],
-      "LESABRE": [
-        {
-          "trim": "BASE / BESTSELLER",
-          "torque_ftlb": 100
-        }
-      ],
-      "PARK AVE": [
-        {
-          "trim": "BSEDAN / BASE/PREST",
-          "torque_ftlb": 100
-        }
-      ],
-      "RAINIER": [
-        {
-          "trim": "2WD / CXL",
-          "torque_ftlb": 100
-        }
-      ],
-      "REGAL": [
-        {
-          "trim": "ALL / GS",
-          "torque_ftlb": 100
-        }
-      ],
-      "RENDEZVOUS": [
-        {
-          "trim": "4WD / CX+/CXL+",
-          "torque_ftlb": 100
-        }
-      ],
-      "CTS": [
-        {
-          "trim": "16-INCH / BASE",
-          "torque_ftlb": 100
-        }
-      ],
-      "CTS-V": [
-        {
-          "trim": "SEDAN / V8",
-          "torque_ftlb": 95
-        }
-      ]
-    }
-  },
   "2005": {
     "ACURA": {
       "MDX": [
@@ -4852,6 +7242,106 @@
         }
       ]
     },
+    "ASTON MARTIN": {
+      "VANQUISH": [
+        {
+          "trim": "COUPE / BASE/S",
+          "torque_ftlb": 95
+        }
+      ],
+      "VOLANTE": [
+        {
+          "trim": "COUPE / DB9",
+          "torque_ftlb": 80
+        }
+      ]
+    },
+    "AUDI": {
+      "A4": [
+        {
+          "trim": "18'BASE / SEDAN",
+          "torque_ftlb": 90
+        }
+      ],
+      "A4 1.8T - ALL": [
+        {
+          "trim": "17-INCH- / CABRIOLET",
+          "torque_ftlb": 90
+        }
+      ],
+      "A4 2.0T - ALL": [
+        {
+          "trim": "17\"BASE / SEDAN FWD",
+          "torque_ftlb": 90
+        }
+      ],
+      "AA6 3.2 QUATTRO": [
+        {
+          "trim": "17-INCH- / AVANT",
+          "torque_ftlb": 90
+        }
+      ],
+      "A6 4.2": [
+        {
+          "trim": "18\"BASE / PRESTIGE",
+          "torque_ftlb": 90
+        }
+      ],
+      "A6 4.2 QUATTRO": [
+        {
+          "trim": "17-INCH- / SEDAN",
+          "torque_ftlb": 90
+        }
+      ],
+      "A8": [
+        {
+          "trim": "18\"BASE / QUATTRO",
+          "torque_ftlb": 90
+        }
+      ],
+      "A8L": [
+        {
+          "trim": "19\"BASE / 3",
+          "torque_ftlb": 90
+        }
+      ],
+      "ALLROAD": [
+        {
+          "trim": "18\"BASE / 2",
+          "torque_ftlb": 90
+        }
+      ],
+      "S4": [
+        {
+          "trim": "18\"BASE / 3",
+          "torque_ftlb": 90
+        }
+      ],
+      "S4 4.2 QUATTRO": [
+        {
+          "trim": "18-INCH / CABRIOLET",
+          "torque_ftlb": 90
+        }
+      ],
+      "S6": [
+        {
+          "trim": "19\"BASE / 4",
+          "torque_ftlb": 90
+        }
+      ],
+      "S8": [
+        {
+          "trim": "21\"BASE / 4",
+          "torque_ftlb": 90
+        }
+      ],
+      "TT - ALL": [
+        {
+          "trim": "19\"BASE / RS",
+          "torque_ftlb": 90
+        }
+      ]
+    },
     "BENTLEY": {
       "ARNAGE - ALL": [
         {
@@ -4903,9 +7393,9 @@
           "torque_ftlb": 90
         }
       ],
-      "550I": [
+      "550I /E60": [
         {
-          "trim": "/E60\t17\"BASE / SEDAN",
+          "trim": "17\"BASE / SEDAN",
           "torque_ftlb": 90
         }
       ],
@@ -4927,9 +7417,9 @@
           "torque_ftlb": 90
         }
       ],
-      "X3": [
+      "X3 /E83": [
         {
-          "trim": "/E83\t17\"BASE / 30I",
+          "trim": "17\"BASE / 30I",
           "torque_ftlb": 90
         }
       ],
@@ -5036,6 +7526,124 @@
         }
       ]
     },
+    "ASTON MARTIN": {
+      "VANQUISH": [
+        {
+          "trim": "COUPE / BASE/S",
+          "torque_ftlb": 95
+        }
+      ],
+      "VANTAGE": [
+        {
+          "trim": "19-INCH / V8",
+          "torque_ftlb": 110
+        }
+      ],
+      "VOLANTE": [
+        {
+          "trim": "COUPE / DB9",
+          "torque_ftlb": 80
+        }
+      ]
+    },
+    "AUDI": {
+      "A3 2.0T": [
+        {
+          "trim": "17\"BASE / HATCHBACK",
+          "torque_ftlb": 90
+        }
+      ],
+      "A3 3.2": [
+        {
+          "trim": "17\"BASE / HATCHBACK",
+          "torque_ftlb": 90
+        }
+      ],
+      "A4": [
+        {
+          "trim": "18'BASE / SEDAN",
+          "torque_ftlb": 90
+        }
+      ],
+      "A4 1.8T - ALL": [
+        {
+          "trim": "17-INCH- / CABRIOLET",
+          "torque_ftlb": 90
+        }
+      ],
+      "A4 2.0T - ALL": [
+        {
+          "trim": "17\"BASE / SEDAN FWD",
+          "torque_ftlb": 90
+        }
+      ],
+      "AA6 3.2 QUATTRO": [
+        {
+          "trim": "17-INCH- / AVANT",
+          "torque_ftlb": 90
+        }
+      ],
+      "A6 4.2": [
+        {
+          "trim": "18\"BASE / PRESTIGE",
+          "torque_ftlb": 90
+        }
+      ],
+      "A6 4.2 QUATTRO": [
+        {
+          "trim": "17-INCH- / SEDAN",
+          "torque_ftlb": 90
+        }
+      ],
+      "A8": [
+        {
+          "trim": "18\"BASE / QUATTRO",
+          "torque_ftlb": 90
+        }
+      ],
+      "A8L": [
+        {
+          "trim": "19\"BASE / 3",
+          "torque_ftlb": 90
+        }
+      ],
+      "ALLROAD": [
+        {
+          "trim": "18\"BASE / 2",
+          "torque_ftlb": 90
+        }
+      ],
+      "S4": [
+        {
+          "trim": "18\"BASE / 3",
+          "torque_ftlb": 90
+        }
+      ],
+      "S4 4.2 QUATTRO": [
+        {
+          "trim": "18-INCH / CABRIOLET",
+          "torque_ftlb": 90
+        }
+      ],
+      "S6": [
+        {
+          "trim": "19\"BASE / 4",
+          "torque_ftlb": 90
+        }
+      ],
+      "S8": [
+        {
+          "trim": "21\"BASE / 4",
+          "torque_ftlb": 90
+        }
+      ],
+      "TT - ALL": [
+        {
+          "trim": "19\"BASE / RS",
+          "torque_ftlb": 90
+        }
+      ]
+    },
     "BENTLEY": {
       "ARNAGE - ALL": [
         {
@@ -5087,9 +7695,9 @@
           "torque_ftlb": 90
         }
       ],
-      "550I": [
+      "550I /E60": [
         {
-          "trim": "/E60\t17\"BASE / SEDAN",
+          "trim": "17\"BASE / SEDAN",
           "torque_ftlb": 90
         }
       ],
@@ -5117,9 +7725,9 @@
           "torque_ftlb": 105
         }
       ],
-      "X3": [
+      "X3 /E83": [
         {
-          "trim": "/E83\t17\"BASE / 30I",
+          "trim": "17\"BASE / 30I",
           "torque_ftlb": 90
         }
       ],
@@ -5220,6 +7828,136 @@
         }
       ]
     },
+    "ASTON MARTIN": {
+      "VANQUISH": [
+        {
+          "trim": "COUPE / BASE/S",
+          "torque_ftlb": 95
+        }
+      ],
+      "VANTAGE": [
+        {
+          "trim": "19-INCH / V8",
+          "torque_ftlb": 110
+        }
+      ],
+      "VOLANTE": [
+        {
+          "trim": "COUPE / DB9",
+          "torque_ftlb": 80
+        }
+      ]
+    },
+    "AUDI": {
+      "A3 2.0T": [
+        {
+          "trim": "17\"BASE / HATCHBACK",
+          "torque_ftlb": 90
+        }
+      ],
+      "A3 3.2": [
+        {
+          "trim": "17\"BASE / HATCHBACK",
+          "torque_ftlb": 90
+        }
+      ],
+      "A4": [
+        {
+          "trim": "18'BASE / SEDAN",
+          "torque_ftlb": 90
+        }
+      ],
+      "A4 2.0T - ALL": [
+        {
+          "trim": "17\"BASE / SEDAN FWD",
+          "torque_ftlb": 90
+        }
+      ],
+      "A4 2.0T/3.2": [
+        {
+          "trim": "17-INCH / QUATTRO",
+          "torque_ftlb": 90
+        }
+      ],
+      "A6 3.2": [
+        {
+          "trim": "17\"BASE / PREMIUM",
+          "torque_ftlb": 90
+        }
+      ],
+      "A6 4.2": [
+        {
+          "trim": "18\"BASE / PRESTIGE",
+          "torque_ftlb": 90
+        }
+      ],
+      "A8": [
+        {
+          "trim": "18\"BASE / QUATTRO",
+          "torque_ftlb": 90
+        }
+      ],
+      "A8/A8L": [
+        {
+          "trim": "18-INCH / SEDAN",
+          "torque_ftlb": 90
+        }
+      ],
+      "A8L": [
+        {
+          "trim": "19\"BASE / 3",
+          "torque_ftlb": 90
+        }
+      ],
+      "ALLROAD": [
+        {
+          "trim": "18\"BASE / 2",
+          "torque_ftlb": 90
+        }
+      ],
+      "Q7 - ALL": [
+        {
+          "trim": "20\"BASE / PREMIUM",
+          "torque_ftlb": 120
+        }
+      ],
+      "RS4": [
+        {
+          "trim": "19-INCH / SEDAN",
+          "torque_ftlb": 90
+        }
+      ],
+      "S4": [
+        {
+          "trim": "18\"BASE / 3",
+          "torque_ftlb": 90
+        }
+      ],
+      "S4 4.2 QUATTRO": [
+        {
+          "trim": "18-INCH / CABRIOLET",
+          "torque_ftlb": 90
+        }
+      ],
+      "S6": [
+        {
+          "trim": "19\"BASE / 4",
+          "torque_ftlb": 90
+        }
+      ],
+      "S8": [
+        {
+          "trim": "21\"BASE / 4",
+          "torque_ftlb": 90
+        }
+      ],
+      "TT - ALL": [
+        {
+          "trim": "19\"BASE / RS",
+          "torque_ftlb": 90
+        }
+      ]
+    },
     "BENTLEY": {
       "ARNAGE - ALL": [
         {
@@ -5265,9 +8003,9 @@
           "torque_ftlb": 90
         }
       ],
-      "550I": [
+      "550I /E60": [
         {
-          "trim": "/E60\t17\"BASE / SEDAN",
+          "trim": "17\"BASE / SEDAN",
           "torque_ftlb": 90
         }
       ],
@@ -5301,9 +8039,9 @@
           "torque_ftlb": 105
         }
       ],
-      "X3": [
+      "X3 /E83": [
         {
-          "trim": "/E83\t17\"BASE / 30I",
+          "trim": "17\"BASE / 30I",
           "torque_ftlb": 90
         }
       ],
@@ -5398,6 +8136,158 @@
         }
       ]
     },
+    "ASTON MARTIN": {
+      "DB9": [
+        {
+          "trim": "19\"BASE / CPE/CONVTB",
+          "torque_ftlb": 80
+        }
+      ],
+      "DBS": [
+        {
+          "trim": "20\"BASE / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "VANTAGE": [
+        {
+          "trim": "19\"BASE / GT",
+          "torque_ftlb": 80
+        }
+      ]
+    },
+    "AUDI": {
+      "A3 2.0T": [
+        {
+          "trim": "17\"BASE / HATCHBACK",
+          "torque_ftlb": 90
+        }
+      ],
+      "A3 3.2": [
+        {
+          "trim": "17\"BASE / HATCHBACK",
+          "torque_ftlb": 90
+        }
+      ],
+      "A4": [
+        {
+          "trim": "18'BASE / SEDAN",
+          "torque_ftlb": 90
+        }
+      ],
+      "A4 2.0T - ALL": [
+        {
+          "trim": "17\"BASE / SEDAN FWD",
+          "torque_ftlb": 90
+        }
+      ],
+      "A4 3.2 - ALL": [
+        {
+          "trim": "17\"BASE / CABRIOLET",
+          "torque_ftlb": 90
+        }
+      ],
+      "A5": [
+        {
+          "trim": "18\"BASE / 2",
+          "torque_ftlb": 90
+        }
+      ],
+      "A6 3.2": [
+        {
+          "trim": "17\"BASE / PREMIUM",
+          "torque_ftlb": 90
+        }
+      ],
+      "A6 3.2 AVANT": [
+        {
+          "trim": "18\"BASE / QUATTRO",
+          "torque_ftlb": 90
+        }
+      ],
+      "A6 4.2": [
+        {
+          "trim": "18\"BASE / PRESTIGE",
+          "torque_ftlb": 90
+        }
+      ],
+      "A8": [
+        {
+          "trim": "18\"BASE / QUATTRO",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "19\"BASE / ALL",
+          "torque_ftlb": 100
+        }
+      ],
+      "A8L": [
+        {
+          "trim": "19\"BASE / 3",
+          "torque_ftlb": 90
+        }
+      ],
+      "ALLROAD": [
+        {
+          "trim": "18\"BASE / 2",
+          "torque_ftlb": 90
+        }
+      ],
+      "Q7 - ALL": [
+        {
+          "trim": "20\"BASE / PREMIUM",
+          "torque_ftlb": 120
+        }
+      ],
+      "R8": [
+        {
+          "trim": "20\"BASE / BASE",
+          "torque_ftlb": 90
+        }
+      ],
+      "RS4": [
+        {
+          "trim": "19-INCH / SEDAN",
+          "torque_ftlb": 90
+        }
+      ],
+      "S4": [
+        {
+          "trim": "18\"BASE / 3",
+          "torque_ftlb": 90
+        }
+      ],
+      "S4 4.2 QUATTRO": [
+        {
+          "trim": "18-INCH / CABRIOLET",
+          "torque_ftlb": 90
+        }
+      ],
+      "S5": [
+        {
+          "trim": "18\"BASE / CONVERTBLE",
+          "torque_ftlb": 90
+        }
+      ],
+      "S6": [
+        {
+          "trim": "19\"BASE / 4",
+          "torque_ftlb": 90
+        }
+      ],
+      "S8": [
+        {
+          "trim": "21\"BASE / 4",
+          "torque_ftlb": 90
+        }
+      ],
+      "TT - ALL": [
+        {
+          "trim": "19\"BASE / RS",
+          "torque_ftlb": 90
+        }
+      ]
+    },
     "BENTLEY": {
       "ARNAGE - ALL": [
         {
@@ -5419,9 +8309,9 @@
       ]
     },
     "BMW": {
-      "135I": [
+      "135I /E88": [
         {
-          "trim": "/E88\t17\"OPT / CONVRTIBLE",
+          "trim": "17\"OPT / CONVRTIBLE",
           "torque_ftlb": 90
         }
       ],
@@ -5455,9 +8345,9 @@
           "torque_ftlb": 90
         }
       ],
-      "550I": [
+      "550I /E60": [
         {
-          "trim": "/E60\t17\"BASE / SEDAN",
+          "trim": "17\"BASE / SEDAN",
           "torque_ftlb": 90
         }
       ],
@@ -5491,9 +8381,9 @@
           "torque_ftlb": 105
         }
       ],
-      "X3": [
+      "X3 /E83": [
         {
-          "trim": "/E83\t17\"BASE / 30I",
+          "trim": "17\"BASE / 30I",
           "torque_ftlb": 90
         }
       ],
@@ -5582,6 +8472,148 @@
         }
       ]
     },
+    "ASTON MARTIN": {
+      "DB9": [
+        {
+          "trim": "19\"BASE / CPE/CONVTB",
+          "torque_ftlb": 80
+        }
+      ],
+      "DBS": [
+        {
+          "trim": "20\"BASE / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "VANTAGE": [
+        {
+          "trim": "19\"BASE / GT",
+          "torque_ftlb": 80
+        }
+      ]
+    },
+    "AUDI": {
+      "A3 2.0T": [
+        {
+          "trim": "17\"BASE / HATCHBACK",
+          "torque_ftlb": 90
+        }
+      ],
+      "A3 3.2": [
+        {
+          "trim": "17\"BASE / HATCHBACK",
+          "torque_ftlb": 90
+        }
+      ],
+      "A4": [
+        {
+          "trim": "18'BASE / SEDAN",
+          "torque_ftlb": 90
+        }
+      ],
+      "A4 2.0T - ALL": [
+        {
+          "trim": "17\"BASE / SEDAN FWD",
+          "torque_ftlb": 90
+        }
+      ],
+      "A4 3.2 - ALL": [
+        {
+          "trim": "17\"BASE / CABRIOLET",
+          "torque_ftlb": 90
+        }
+      ],
+      "A5": [
+        {
+          "trim": "18\"BASE / 2",
+          "torque_ftlb": 90
+        }
+      ],
+      "A6 3.0T AVANT": [
+        {
+          "trim": "17\"BASE / PREMIUM",
+          "torque_ftlb": 90
+        }
+      ],
+      "A6 3.2": [
+        {
+          "trim": "17\"BASE / PREMIUM",
+          "torque_ftlb": 90
+        }
+      ],
+      "A6 4.2": [
+        {
+          "trim": "18\"BASE / PRESTIGE",
+          "torque_ftlb": 90
+        }
+      ],
+      "A8": [
+        {
+          "trim": "19\"BASE / 4",
+          "torque_ftlb": 90
+        }
+      ],
+      "A8L": [
+        {
+          "trim": "19\"BASE / 3",
+          "torque_ftlb": 90
+        }
+      ],
+      "ALLROAD": [
+        {
+          "trim": "18\"BASE / 2",
+          "torque_ftlb": 90
+        }
+      ],
+      "Q7 - ALL": [
+        {
+          "trim": "20\"BASE / PREMIUM",
+          "torque_ftlb": 120
+        }
+      ],
+      "R8": [
+        {
+          "trim": "20\"BASE / BASE",
+          "torque_ftlb": 90
+        }
+      ],
+      "S4": [
+        {
+          "trim": "18\"BASE / 3",
+          "torque_ftlb": 90
+        }
+      ],
+      "S4 4.2 QUATTRO": [
+        {
+          "trim": "18-INCH / CABRIOLET",
+          "torque_ftlb": 90
+        }
+      ],
+      "S5": [
+        {
+          "trim": "18\"BASE / CONVERTBLE",
+          "torque_ftlb": 90
+        }
+      ],
+      "S6": [
+        {
+          "trim": "19\"BASE / 4",
+          "torque_ftlb": 90
+        }
+      ],
+      "S8": [
+        {
+          "trim": "21\"BASE / 4",
+          "torque_ftlb": 90
+        }
+      ],
+      "TT - ALL": [
+        {
+          "trim": "19\"BASE / RS",
+          "torque_ftlb": 90
+        }
+      ]
+    },
     "BENTLEY": {
       "ARNAGE - ALL": [
         {
@@ -5603,9 +8635,9 @@
       ]
     },
     "BMW": {
-      "135I": [
+      "135I /E88": [
         {
-          "trim": "/E88\t17\"OPT / CONVRTIBLE",
+          "trim": "17\"OPT / CONVRTIBLE",
           "torque_ftlb": 90
         }
       ],
@@ -5645,9 +8677,9 @@
           "torque_ftlb": 90
         }
       ],
-      "550I": [
+      "550I /E60": [
         {
-          "trim": "/E60\t17\"BASE / SEDAN",
+          "trim": "17\"BASE / SEDAN",
           "torque_ftlb": 90
         }
       ],
@@ -5687,9 +8719,9 @@
           "torque_ftlb": 105
         }
       ],
-      "X3": [
+      "X3 /E83": [
         {
-          "trim": "/E83\t17\"BASE / 30I",
+          "trim": "17\"BASE / 30I",
           "torque_ftlb": 90
         }
       ],
@@ -5790,6 +8822,142 @@
         }
       ]
     },
+    "ASTON MARTIN": {
+      "DB9": [
+        {
+          "trim": "19\"BASE / CPE/CONVTB",
+          "torque_ftlb": 80
+        }
+      ],
+      "DBS": [
+        {
+          "trim": "20\"BASE / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "VANTAGE": [
+        {
+          "trim": "19\"BASE / GT",
+          "torque_ftlb": 80
+        }
+      ],
+      "VANTAGE V12": [
+        {
+          "trim": "19\"BASE / ALL",
+          "torque_ftlb": 80
+        }
+      ]
+    },
+    "AUDI": {
+      "A3 2.0T": [
+        {
+          "trim": "17\"BASE / HATCHBACK",
+          "torque_ftlb": 90
+        }
+      ],
+      "A3 TDI": [
+        {
+          "trim": "17\"BASE / HATCHBACK",
+          "torque_ftlb": 90
+        }
+      ],
+      "A4": [
+        {
+          "trim": "18'BASE / SEDAN",
+          "torque_ftlb": 90
+        }
+      ],
+      "A4 2.0T - ALL": [
+        {
+          "trim": "17\"BASE / SEDAN FWD",
+          "torque_ftlb": 90
+        }
+      ],
+      "A5": [
+        {
+          "trim": "18\"BASE / 2",
+          "torque_ftlb": 90
+        }
+      ],
+      "A6 3.0T AVANT": [
+        {
+          "trim": "17\"BASE / PREMIUM",
+          "torque_ftlb": 90
+        }
+      ],
+      "A6 3.2": [
+        {
+          "trim": "17\"BASE / PREMIUM",
+          "torque_ftlb": 90
+        }
+      ],
+      "A6 4.2": [
+        {
+          "trim": "18\"BASE / PRESTIGE",
+          "torque_ftlb": 90
+        }
+      ],
+      "A8": [
+        {
+          "trim": "19\"BASE / 4",
+          "torque_ftlb": 90
+        }
+      ],
+      "A8L": [
+        {
+          "trim": "19\"BASE / 3",
+          "torque_ftlb": 90
+        }
+      ],
+      "ALLROAD": [
+        {
+          "trim": "18\"BASE / 2",
+          "torque_ftlb": 90
+        }
+      ],
+      "Q7 - ALL": [
+        {
+          "trim": "20\"BASE / PREMIUM",
+          "torque_ftlb": 120
+        }
+      ],
+      "R8": [
+        {
+          "trim": "20\"BASE / BASE",
+          "torque_ftlb": 90
+        }
+      ],
+      "S4": [
+        {
+          "trim": "18\"BASE / 3",
+          "torque_ftlb": 90
+        }
+      ],
+      "S5": [
+        {
+          "trim": "18\"BASE / CONVERTBLE",
+          "torque_ftlb": 90
+        }
+      ],
+      "S6": [
+        {
+          "trim": "19\"BASE / 4",
+          "torque_ftlb": 90
+        }
+      ],
+      "S8": [
+        {
+          "trim": "21\"BASE / 4",
+          "torque_ftlb": 90
+        }
+      ],
+      "TT - ALL": [
+        {
+          "trim": "19\"BASE / RS",
+          "torque_ftlb": 90
+        }
+      ]
+    },
     "BENTLEY": {
       "ARNAGE - ALL": [
         {
@@ -5811,9 +8979,9 @@
       ]
     },
     "BMW": {
-      "135I": [
+      "135I /E88": [
         {
-          "trim": "/E88\t17\"OPT / CONVRTIBLE",
+          "trim": "17\"OPT / CONVRTIBLE",
           "torque_ftlb": 90
         }
       ],
@@ -5853,9 +9021,9 @@
           "torque_ftlb": 90
         }
       ],
-      "550I": [
+      "550I /E60": [
         {
-          "trim": "/E60\t17\"BASE / SEDAN",
+          "trim": "17\"BASE / SEDAN",
           "torque_ftlb": 90
         }
       ],
@@ -5895,9 +9063,9 @@
           "torque_ftlb": 105
         }
       ],
-      "X3": [
+      "X3 /E83": [
         {
-          "trim": "/E83\t17\"BASE / 30I",
+          "trim": "17\"BASE / 30I",
           "torque_ftlb": 90
         }
       ],
@@ -6004,6 +9172,154 @@
         }
       ]
     },
+    "ASTON MARTIN": {
+      "DB9": [
+        {
+          "trim": "19\"BASE / CPE/CONVTB",
+          "torque_ftlb": 80
+        }
+      ],
+      "DBS": [
+        {
+          "trim": "20\"BASE / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "RAPIDE": [
+        {
+          "trim": "20\"BASE / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "VANTAGE": [
+        {
+          "trim": "19\"BASE / GT",
+          "torque_ftlb": 80
+        }
+      ],
+      "VANTAGE V12": [
+        {
+          "trim": "19\"BASE / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "VANTAGE V8": [
+        {
+          "trim": "19\"BASE / BASE",
+          "torque_ftlb": 80
+        }
+      ]
+    },
+    "AUDI": {
+      "A3 TDI": [
+        {
+          "trim": "17\"BASE / HATCHBACK",
+          "torque_ftlb": 90
+        }
+      ],
+      "A4": [
+        {
+          "trim": "18'BASE / SEDAN",
+          "torque_ftlb": 90
+        }
+      ],
+      "A4 2.0T - ALL": [
+        {
+          "trim": "17\"BASE / SEDAN FWD",
+          "torque_ftlb": 90
+        }
+      ],
+      "A5 2.0T - ALL": [
+        {
+          "trim": "18\"BASE / CONVERTBLE",
+          "torque_ftlb": 90
+        }
+      ],
+      "A6 3.0T AVANT": [
+        {
+          "trim": "17\"BASE / PREMIUM",
+          "torque_ftlb": 90
+        }
+      ],
+      "A6 3.2": [
+        {
+          "trim": "17\"BASE / PREMIUM",
+          "torque_ftlb": 90
+        }
+      ],
+      "A6 4.2": [
+        {
+          "trim": "18\"BASE / PRESTIGE",
+          "torque_ftlb": 90
+        }
+      ],
+      "A8": [
+        {
+          "trim": "19\"BASE / 4",
+          "torque_ftlb": 90
+        }
+      ],
+      "A8L": [
+        {
+          "trim": "19\"BASE / 3",
+          "torque_ftlb": 90
+        }
+      ],
+      "ALLROAD": [
+        {
+          "trim": "18\"BASE / 2",
+          "torque_ftlb": 90
+        }
+      ],
+      "Q5 - ALL": [
+        {
+          "trim": "18\"BASE / 2",
+          "torque_ftlb": 100
+        }
+      ],
+      "Q7 - ALL": [
+        {
+          "trim": "20\"BASE / PREMIUM",
+          "torque_ftlb": 120
+        }
+      ],
+      "R8": [
+        {
+          "trim": "20\"BASE / BASE",
+          "torque_ftlb": 90
+        }
+      ],
+      "S4": [
+        {
+          "trim": "18\"BASE / 3",
+          "torque_ftlb": 90
+        }
+      ],
+      "S5": [
+        {
+          "trim": "18\"BASE / CONVERTBLE",
+          "torque_ftlb": 90
+        }
+      ],
+      "S6": [
+        {
+          "trim": "19\"BASE / 4",
+          "torque_ftlb": 90
+        }
+      ],
+      "S8": [
+        {
+          "trim": "21\"BASE / 4",
+          "torque_ftlb": 90
+        }
+      ],
+      "TT - ALL": [
+        {
+          "trim": "19\"BASE / RS",
+          "torque_ftlb": 90
+        }
+      ]
+    },
     "BENTLEY": {
       "MULSANNE": [
         {
@@ -6013,15 +9329,15 @@
       ]
     },
     "BMW": {
-      "135I": [
+      "135I /E88": [
         {
-          "trim": "/E88\t17\"OPT / CONVRTIBLE",
+          "trim": "17\"OPT / CONVRTIBLE",
           "torque_ftlb": 90
         }
       ],
-      "1M": [
+      "1M /E82": [
         {
-          "trim": "/E82\t19\"BASE / COUPE",
+          "trim": "19\"BASE / COUPE",
           "torque_ftlb": 90
         }
       ],
@@ -6061,9 +9377,9 @@
           "torque_ftlb": 90
         }
       ],
-      "550I": [
+      "550I / IX": [
         {
-          "trim": "/ IX\t18\"BASE / SEDAN",
+          "trim": "18\"BASE / SEDAN",
           "torque_ftlb": 90
         }
       ],
@@ -6103,9 +9419,9 @@
           "torque_ftlb": 105
         }
       ],
-      "X3": [
+      "X3 /F25": [
         {
-          "trim": "/F25\t18\"BASE / 28I",
+          "trim": "18\"BASE / 28I",
           "torque_ftlb": 105
         }
       ],
@@ -6212,6 +9528,152 @@
         }
       ]
     },
+    "ASTON MARTIN": {
+      "DB9": [
+        {
+          "trim": "19\"BASE / CPE/CONVTB",
+          "torque_ftlb": 80
+        }
+      ],
+      "DBS": [
+        {
+          "trim": "20\"BASE / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "RAPIDE": [
+        {
+          "trim": "20\"BASE / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "VANTAGE": [
+        {
+          "trim": "19\"BASE / GT",
+          "torque_ftlb": 80
+        }
+      ],
+      "VANTAGE V12": [
+        {
+          "trim": "19\"BASE / ALL",
+          "torque_ftlb": 80
+        }
+      ],
+      "VANTAGE V8": [
+        {
+          "trim": "19\"BASE / BASE",
+          "torque_ftlb": 80
+        }
+      ]
+    },
+    "AUDI": {
+      "A3 TDI": [
+        {
+          "trim": "17\"BASE / HATCHBACK",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "17\"BASE / HATCHBACK",
+          "torque_ftlb": 90
+        }
+      ],
+      "A4": [
+        {
+          "trim": "18'BASE / SEDAN",
+          "torque_ftlb": 90
+        }
+      ],
+      "A4 2.0T - ALL": [
+        {
+          "trim": "17\"BASE / SEDAN FWD",
+          "torque_ftlb": 90
+        }
+      ],
+      "A5 2.0T - ALL": [
+        {
+          "trim": "18\"BASE / CONVERTBLE",
+          "torque_ftlb": 90
+        }
+      ],
+      "A6": [
+        {
+          "trim": "18\"BASE / 2.0T",
+          "torque_ftlb": 90
+        }
+      ],
+      "A7": [
+        {
+          "trim": "19'BASE / 3.0T",
+          "torque_ftlb": 90
+        }
+      ],
+      "A8": [
+        {
+          "trim": "19\"BASE / 4",
+          "torque_ftlb": 90
+        }
+      ],
+      "A8L": [
+        {
+          "trim": "19\"BASE / 3",
+          "torque_ftlb": 90
+        }
+      ],
+      "ALLROAD": [
+        {
+          "trim": "18\"BASE / 2",
+          "torque_ftlb": 90
+        }
+      ],
+      "Q5 - ALL": [
+        {
+          "trim": "18\"BASE / 2",
+          "torque_ftlb": 100
+        }
+      ],
+      "Q7 - ALL": [
+        {
+          "trim": "20\"BASE / PREMIUM",
+          "torque_ftlb": 120
+        }
+      ],
+      "R8": [
+        {
+          "trim": "20\"BASE / BASE",
+          "torque_ftlb": 90
+        }
+      ],
+      "S4": [
+        {
+          "trim": "18\"BASE / 3",
+          "torque_ftlb": 90
+        }
+      ],
+      "S5": [
+        {
+          "trim": "18\"BASE / CONVERTBLE",
+          "torque_ftlb": 90
+        }
+      ],
+      "S6": [
+        {
+          "trim": "19\"BASE / 4",
+          "torque_ftlb": 90
+        }
+      ],
+      "S8": [
+        {
+          "trim": "21\"BASE / 4",
+          "torque_ftlb": 90
+        }
+      ],
+      "TT - ALL": [
+        {
+          "trim": "19\"BASE / RS",
+          "torque_ftlb": 90
+        }
+      ]
+    },
     "BENTLEY": {
       "CONTINENTAL - ALL": [
         {
@@ -6227,15 +9689,15 @@
       ]
     },
     "BMW": {
-      "135I": [
+      "135I /E88": [
         {
-          "trim": "/E88\t17\"OPT / CONVRTIBLE",
+          "trim": "17\"OPT / CONVRTIBLE",
           "torque_ftlb": 90
         }
       ],
-      "1M": [
+      "1M /E82": [
         {
-          "trim": "/E82\t19\"BASE / COUPE",
+          "trim": "19\"BASE / COUPE",
           "torque_ftlb": 90
         }
       ],
@@ -6275,9 +9737,9 @@
           "torque_ftlb": 90
         }
       ],
-      "550I": [
+      "550I / IX": [
         {
-          "trim": "/ IX\t18\"BASE / SEDAN",
+          "trim": "18\"BASE / SEDAN",
           "torque_ftlb": 90
         }
       ],
@@ -6323,9 +9785,9 @@
           "torque_ftlb": 105
         }
       ],
-      "X3": [
+      "X3 /F25": [
         {
-          "trim": "/F25\t18\"BASE / 28I",
+          "trim": "18\"BASE / 28I",
           "torque_ftlb": 105
         }
       ],
@@ -6393,6 +9855,14 @@
         {
           "trim": "17\"BASE / 2.4",
           "torque_ftlb": 80
+        }
+      ]
+    },
+    "ALFA ROMEO": {
+      "STELVIO": [
+        {
+          "trim": "Q4",
+          "torque_ftlb": 90
         }
       ]
     }
@@ -6477,6 +9947,348 @@
         {
           "trim": "3.5 SH-AWD",
           "torque_ftlb": 80
+        }
+      ]
+    },
+    "ALFA ROMEO": {
+      "4C": [
+        {
+          "trim": "SPIDER",
+          "torque_ftlb": 75
+        }
+      ],
+      "GIULIA": [
+        {
+          "trim": "Q2",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "Q4",
+          "torque_ftlb": 90
+        }
+      ],
+      "GIULIA QUADRIFOGLIO": [
+        {
+          "trim": "SEDAN",
+          "torque_ftlb": 90
+        }
+      ],
+      "STELVIO": [
+        {
+          "trim": "Q2",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "Q4",
+          "torque_ftlb": 90
+        }
+      ],
+      "STELVIO QUADRIFOGLIO": [
+        {
+          "trim": "BASE",
+          "torque_ftlb": 90
+        }
+      ]
+    },
+    "ASTON MARTIN": {
+      "DB11": [
+        {
+          "trim": "BASE",
+          "torque_ftlb": 135
+        }
+      ],
+      "DBS SUPERLEGGERA": [
+        {
+          "trim": "BASE",
+          "torque_ftlb": 115
+        }
+      ],
+      "VANTAGE": [
+        {
+          "trim": "V8",
+          "torque_ftlb": 135
+        },
+        {
+          "trim": "V8 W/ CERAMIC BRAKES",
+          "torque_ftlb": 135
+        }
+      ]
+    },
+    "AUDI": {
+      "A3": [
+        {
+          "trim": "SEDAN",
+          "torque_ftlb": 90
+        }
+      ],
+      "A3 QUATTRO": [
+        {
+          "trim": "SEDAN",
+          "torque_ftlb": 90
+        }
+      ],
+      "A4": [
+        {
+          "trim": "SEDAN",
+          "torque_ftlb": 90
+        }
+      ],
+      "A4 QUATTRO": [
+        {
+          "trim": "SEDAN",
+          "torque_ftlb": 90
+        }
+      ],
+      "A4 ALLROAD": [
+        {
+          "trim": "2.0 QUATTRO",
+          "torque_ftlb": 90
+        }
+      ],
+      "A5 QUATTRO": [
+        {
+          "trim": "CONVERTIBLE",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "COUPE",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "SPORTBACK",
+          "torque_ftlb": 90
+        }
+      ],
+      "A6 QUATTRO": [
+        {
+          "trim": "2.0T",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "3.0T",
+          "torque_ftlb": 90
+        }
+      ],
+      "A6 ALLROAD": [
+        {
+          "trim": "3.0T QUATTRO",
+          "torque_ftlb": 90
+        }
+      ],
+      "A7 QUATTRO": [
+        {
+          "trim": "3.0T BASE",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "3.0T S-LINE",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "HYBRID",
+          "torque_ftlb": 90
+        }
+      ],
+      "A8L": [
+        {
+          "trim": "3.0 QUATTRO",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "4.0 QUATTRO",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "E PLUG-IN HYBRID QUATTRO",
+          "torque_ftlb": 90
+        }
+      ],
+      "Q3 QUATTRO": [
+        {
+          "trim": "2.0T QUATTRO",
+          "torque_ftlb": 100
+        }
+      ],
+      "Q5": [
+        {
+          "trim": "2.0 QUATTRO",
+          "torque_ftlb": 100
+        },
+        {
+          "trim": "E PLUG-IN HYBRID QUATTRO",
+          "torque_ftlb": 100
+        }
+      ],
+      "Q7": [
+        {
+          "trim": "HYBRID",
+          "torque_ftlb": 120
+        },
+        {
+          "trim": "PREMIUM",
+          "torque_ftlb": 120
+        },
+        {
+          "trim": "PREMIUM PLUS",
+          "torque_ftlb": 120
+        },
+        {
+          "trim": "PRESTIGE",
+          "torque_ftlb": 120
+        }
+      ],
+      "Q8": [
+        {
+          "trim": "PREMIUM",
+          "torque_ftlb": 120
+        },
+        {
+          "trim": "PREMIUM PLUS",
+          "torque_ftlb": 120
+        },
+        {
+          "trim": "PRESTIGE",
+          "torque_ftlb": 120
+        }
+      ],
+      "R8": [
+        {
+          "trim": "V10",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "V10 PLUS",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "V10 W/ CERAMIC BRAKES",
+          "torque_ftlb": 90
+        }
+      ],
+      "RS Q8": [
+        {
+          "trim": "SUV",
+          "torque_ftlb": 120
+        },
+        {
+          "trim": "SUV W/ CERAMIC BRAKES",
+          "torque_ftlb": 120
+        }
+      ],
+      "RS3": [
+        {
+          "trim": "BASE W/ TPMS",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "BASE W/O TPMS",
+          "torque_ftlb": 90
+        }
+      ],
+      "S3": [
+        {
+          "trim": "SEDAN",
+          "torque_ftlb": 90
+        }
+      ],
+      "S4": [
+        {
+          "trim": "3.0T",
+          "torque_ftlb": 90
+        }
+      ],
+      "S5": [
+        {
+          "trim": "CABRIOLET",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "COUPE",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "SPORTBACK",
+          "torque_ftlb": 90
+        }
+      ],
+      "S6": [
+        {
+          "trim": "2.9T",
+          "torque_ftlb": 90
+        }
+      ],
+      "S7": [
+        {
+          "trim": "2.9T",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "HYBRID",
+          "torque_ftlb": 90
+        }
+      ],
+      "S8": [
+        {
+          "trim": "4.0",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "4.0 W/ CARBON CERAMIC BRAKE",
+          "torque_ftlb": 90
+        }
+      ],
+      "SQ5": [
+        {
+          "trim": "3.0T",
+          "torque_ftlb": 100
+        }
+      ],
+      "SQ7": [
+        {
+          "trim": "4.0T",
+          "torque_ftlb": 120
+        }
+      ],
+      "SQ8": [
+        {
+          "trim": "4.0T",
+          "torque_ftlb": 120
+        }
+      ],
+      "TT QUATTRO": [
+        {
+          "trim": "CONVERTIBLE",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "COUPE",
+          "torque_ftlb": 90
+        }
+      ],
+      "TT RS": [
+        {
+          "trim": "COUPE",
+          "torque_ftlb": 90
+        }
+      ],
+      "TTS": [
+        {
+          "trim": "COUPE",
+          "torque_ftlb": 90
+        }
+      ],
+      "E-TRON SPORTBACK": [
+        {
+          "trim": "EDITION ONE",
+          "torque_ftlb": 120
+        },
+        {
+          "trim": "PREMIUM PLUS",
+          "torque_ftlb": 120
+        },
+        {
+          "trim": "PRESTIGE",
+          "torque_ftlb": 120
         }
       ]
     },
@@ -7382,6 +11194,422 @@
         }
       ]
     },
+    "ALFA ROMEO": {
+      "GIULIA": [
+        {
+          "trim": "SPRINT AWD",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "SPRINT RWD",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "TI AWD",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "TI RWD",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "TI SPORT AWD",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "TI SPORT RWD",
+          "torque_ftlb": 90
+        }
+      ],
+      "GIULIA QUADRIFOGLIO": [
+        {
+          "trim": "SEDAN",
+          "torque_ftlb": 90
+        }
+      ],
+      "STELVIO": [
+        {
+          "trim": "SPRINT AWD",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "SPRINT RWD",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "TI AWD",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "TI SPORT AWD",
+          "torque_ftlb": 90
+        }
+      ],
+      "STELVIO QUADRIFOGLIO": [
+        {
+          "trim": "BASE",
+          "torque_ftlb": 90
+        }
+      ]
+    },
+    "ASTON MARTIN": {
+      "DB11": [
+        {
+          "trim": "AMR",
+          "torque_ftlb": 135
+        },
+        {
+          "trim": "COUPE",
+          "torque_ftlb": 135
+        },
+        {
+          "trim": "VOLANTE",
+          "torque_ftlb": 135
+        }
+      ],
+      "DBS SUPERLEGGERA": [
+        {
+          "trim": "COUPE",
+          "torque_ftlb": 115
+        },
+        {
+          "trim": "VOLANTE",
+          "torque_ftlb": 115
+        }
+      ],
+      "DBX": [
+        {
+          "trim": "SUV",
+          "torque_ftlb": 130
+        }
+      ],
+      "VANTAGE": [
+        {
+          "trim": "COUPE V8",
+          "torque_ftlb": 115
+        },
+        {
+          "trim": "COUPE V8 W/ CERAMIC BRAKES",
+          "torque_ftlb": 115
+        },
+        {
+          "trim": "ROADSTER V8",
+          "torque_ftlb": 115
+        }
+      ]
+    },
+    "AUDI": {
+      "A4 QUATTRO": [
+        {
+          "trim": "SEDAN",
+          "torque_ftlb": 90
+        }
+      ],
+      "A4 ALLROAD": [
+        {
+          "trim": "2.0 QUATTRO",
+          "torque_ftlb": 90
+        }
+      ],
+      "A5 QUATTRO": [
+        {
+          "trim": "CONVERTIBLE",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "COUPE",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "SPORTBACK",
+          "torque_ftlb": 90
+        }
+      ],
+      "A6 QUATTRO": [
+        {
+          "trim": "2.0T",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "3.0T",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "HYBRID",
+          "torque_ftlb": 90
+        }
+      ],
+      "A6 ALLROAD": [
+        {
+          "trim": "3.0T QUATTRO",
+          "torque_ftlb": 90
+        }
+      ],
+      "A7 QUATTRO": [
+        {
+          "trim": "55 TFSI E HYBRID",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "PREMIUM 3.0T",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "PREMIUM PLUS 3.0T",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "PRESTIGE 3.0T",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "S-LINE 3.0T",
+          "torque_ftlb": 90
+        }
+      ],
+      "A8L": [
+        {
+          "trim": "3.0 QUATTRO",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "4.0 QUATTRO",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "E PLUG-IN HYBRID QUATTRO",
+          "torque_ftlb": 90
+        }
+      ],
+      "Q3 QUATTRO": [
+        {
+          "trim": "2.0T QUATTRO",
+          "torque_ftlb": 100
+        }
+      ],
+      "Q5": [
+        {
+          "trim": "2.0 QUATTRO",
+          "torque_ftlb": 100
+        },
+        {
+          "trim": "E PLUG-IN HYBRID QUATTRO",
+          "torque_ftlb": 100
+        }
+      ],
+      "Q5 SPORTBACK": [
+        {
+          "trim": "2.0 QUATTRO",
+          "torque_ftlb": 100
+        },
+        {
+          "trim": "2.0 QUATTRO SPORT PACKAGE",
+          "torque_ftlb": 100
+        }
+      ],
+      "Q7": [
+        {
+          "trim": "HYBRID",
+          "torque_ftlb": 120
+        },
+        {
+          "trim": "PREMIUM",
+          "torque_ftlb": 120
+        },
+        {
+          "trim": "PREMIUM PLUS",
+          "torque_ftlb": 120
+        },
+        {
+          "trim": "PRESTIGE",
+          "torque_ftlb": 120
+        }
+      ],
+      "Q8": [
+        {
+          "trim": "HYBRID",
+          "torque_ftlb": 120
+        },
+        {
+          "trim": "PREMIUM",
+          "torque_ftlb": 120
+        },
+        {
+          "trim": "PREMIUM PLUS",
+          "torque_ftlb": 120
+        },
+        {
+          "trim": "PRESTIGE",
+          "torque_ftlb": 120
+        }
+      ],
+      "R8": [
+        {
+          "trim": "V10 QUATTRO W/ CERAMIC BRAKES",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "V10 RWD",
+          "torque_ftlb": 90
+        }
+      ],
+      "RS Q8": [
+        {
+          "trim": "SUV",
+          "torque_ftlb": 120
+        },
+        {
+          "trim": "SUV W/ CERAMIC BRAKES",
+          "torque_ftlb": 120
+        }
+      ],
+      "RS5": [
+        {
+          "trim": "COUPE",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "SPORTBACK",
+          "torque_ftlb": 90
+        }
+      ],
+      "RS6": [
+        {
+          "trim": "AVANT",
+          "torque_ftlb": 90
+        }
+      ],
+      "RS7": [
+        {
+          "trim": "SEDAN",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "SEDAN W/ CERAMIC BRAKES",
+          "torque_ftlb": 90
+        }
+      ],
+      "S4": [
+        {
+          "trim": "3.0T",
+          "torque_ftlb": 90
+        }
+      ],
+      "S5": [
+        {
+          "trim": "CONVERTIBLE",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "COUPE",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "SPORTBACK",
+          "torque_ftlb": 90
+        }
+      ],
+      "S6": [
+        {
+          "trim": "2.9T",
+          "torque_ftlb": 90
+        }
+      ],
+      "S7": [
+        {
+          "trim": "2.9T",
+          "torque_ftlb": 90
+        }
+      ],
+      "S8": [
+        {
+          "trim": "4.0",
+          "torque_ftlb": 90
+        }
+      ],
+      "SQ5": [
+        {
+          "trim": "3.0T QUATTRO",
+          "torque_ftlb": 100
+        },
+        {
+          "trim": "3.0T QUATTRO S SPORT PACKAGE",
+          "torque_ftlb": 100
+        }
+      ],
+      "SQ5 SPORTBACK": [
+        {
+          "trim": "3.0 QUATTRO",
+          "torque_ftlb": 100
+        },
+        {
+          "trim": "3.0 QUATTRO SPORT PACKAGE",
+          "torque_ftlb": 100
+        }
+      ],
+      "SQ7": [
+        {
+          "trim": "4.0T",
+          "torque_ftlb": 120
+        }
+      ],
+      "SQ8": [
+        {
+          "trim": "4.0T",
+          "torque_ftlb": 120
+        }
+      ],
+      "TT QUATTRO": [
+        {
+          "trim": "CONVERTIBLE",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "COUPE",
+          "torque_ftlb": 90
+        }
+      ],
+      "TT RS": [
+        {
+          "trim": "COUPE",
+          "torque_ftlb": 90
+        }
+      ],
+      "TTS": [
+        {
+          "trim": "COUPE",
+          "torque_ftlb": 90
+        }
+      ],
+      "E-TRON": [
+        {
+          "trim": "PREMIUM",
+          "torque_ftlb": 120
+        },
+        {
+          "trim": "PREMIUM PLUS",
+          "torque_ftlb": 120
+        },
+        {
+          "trim": "PRESTIGE",
+          "torque_ftlb": 120
+        }
+      ],
+      "E-TRON SPORTBACK": [
+        {
+          "trim": "PREMIUM",
+          "torque_ftlb": 120
+        },
+        {
+          "trim": "PREMIUM PLUS",
+          "torque_ftlb": 120
+        },
+        {
+          "trim": "PRESTIGE",
+          "torque_ftlb": 120
+        }
+      ]
+    },
     "BENTLEY": {
       "BENTAYGA": [
         {
@@ -7783,6 +12011,10 @@
         {
           "trim": "COUPE",
           "torque_ftlb": 105
+        },
+        {
+          "trim": "COUPE W/ CERAMIC BRAKES",
+          "torque_ftlb": 105
         }
       ],
       "M440I XDRIVE": [
@@ -7884,6 +12116,10 @@
         }
       ],
       "X3": [
+        {
+          "trim": "30I",
+          "torque_ftlb": 105
+        },
         {
           "trim": "30I",
           "torque_ftlb": 105
@@ -8261,6 +12497,496 @@
         {
           "trim": "TYPE-S AWD",
           "torque_ftlb": 95
+        }
+      ]
+    },
+    "ALFA ROMEO": {
+      "GIULIA": [
+        {
+          "trim": "SPRINT AWD",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "SPRINT RWD",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "TI AWD",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "TI RWD",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "VELOCE AWD",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "VELOCE RWD",
+          "torque_ftlb": 90
+        }
+      ],
+      "GIULIA QUADRIFOGLIO": [
+        {
+          "trim": "SEDAN",
+          "torque_ftlb": 90
+        }
+      ],
+      "STELVIO": [
+        {
+          "trim": "SPRINT AWD",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "SPRINT RWD",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "TI AWD",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "VELOCE AWD",
+          "torque_ftlb": 90
+        }
+      ],
+      "STELVIO QUADRIFOGLIO": [
+        {
+          "trim": "BASE",
+          "torque_ftlb": 90
+        }
+      ]
+    },
+    "ASTON MARTIN": {
+      "DB11": [
+        {
+          "trim": "COUPE",
+          "torque_ftlb": 135
+        },
+        {
+          "trim": "VOLANTE",
+          "torque_ftlb": 135
+        }
+      ],
+      "DBS SUPERLEGGERA": [
+        {
+          "trim": "COUPE",
+          "torque_ftlb": 115
+        },
+        {
+          "trim": "VOLANTE",
+          "torque_ftlb": 115
+        }
+      ],
+      "DBX": [
+        {
+          "trim": "SUV",
+          "torque_ftlb": 130
+        }
+      ],
+      "VANTAGE": [
+        {
+          "trim": "COUPE V8",
+          "torque_ftlb": 115
+        },
+        {
+          "trim": "COUPE V8 W/ CERAMIC BRAKES",
+          "torque_ftlb": 115
+        },
+        {
+          "trim": "F1 EDITION",
+          "torque_ftlb": 115
+        },
+        {
+          "trim": "ROADSTER V8",
+          "torque_ftlb": 115
+        }
+      ]
+    },
+    "AUDI": {
+      "A3": [
+        {
+          "trim": "SEDAN",
+          "torque_ftlb": 100
+        }
+      ],
+      "A3 QUATTRO": [
+        {
+          "trim": "SEDAN",
+          "torque_ftlb": 100
+        }
+      ],
+      "A4 QUATTRO": [
+        {
+          "trim": "SEDAN",
+          "torque_ftlb": 90
+        }
+      ],
+      "A4 ALLROAD": [
+        {
+          "trim": "2.0 QUATTRO",
+          "torque_ftlb": 90
+        }
+      ],
+      "A5 QUATTRO": [
+        {
+          "trim": "CONVERTIBLE",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "COUPE",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "A5 QUATTRO",
+          "torque_ftlb": 90
+        }
+      ],
+      "A6 QUATTRO": [
+        {
+          "trim": "2.0T",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "3.0T",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "HYBRID",
+          "torque_ftlb": 90
+        }
+      ],
+      "A6 ALLROAD": [
+        {
+          "trim": "3.0T QUATTRO",
+          "torque_ftlb": 90
+        }
+      ],
+      "A7 QUATTRO": [
+        {
+          "trim": "55 TFSI E HYBRID",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "PREMIUM 3.0T",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "PREMIUM PLUS 3.0T",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "PRESTIGE 3.0T",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "S-LINE 3.0T",
+          "torque_ftlb": 90
+        }
+      ],
+      "A8L": [
+        {
+          "trim": "3.0 QUATTRO",
+          "torque_ftlb": 90
+        }
+      ],
+      "Q3 QUATTRO": [
+        {
+          "trim": "2.0T QUATTRO",
+          "torque_ftlb": 100
+        }
+      ],
+      "Q5": [
+        {
+          "trim": "2.0 QUATTRO",
+          "torque_ftlb": 100
+        },
+        {
+          "trim": "E PLUG-IN HYBRID QUATTRO",
+          "torque_ftlb": 100
+        }
+      ],
+      "Q5 SPORTBACK": [
+        {
+          "trim": "2.0 QUATTRO",
+          "torque_ftlb": 100
+        },
+        {
+          "trim": "2.0 QUATTRO SPORT PACKAGE",
+          "torque_ftlb": 100
+        }
+      ],
+      "Q7": [
+        {
+          "trim": "HYBRID",
+          "torque_ftlb": 120
+        },
+        {
+          "trim": "HYBRID W/O TPMS",
+          "torque_ftlb": 120
+        },
+        {
+          "trim": "PREMIUM",
+          "torque_ftlb": 120
+        },
+        {
+          "trim": "PREMIUM PLUS",
+          "torque_ftlb": 120
+        },
+        {
+          "trim": "PREMIUM PLUS W/O TPMS",
+          "torque_ftlb": 120
+        },
+        {
+          "trim": "PREMIUM W/O TPMS",
+          "torque_ftlb": 120
+        },
+        {
+          "trim": "PRESTIGE",
+          "torque_ftlb": 120
+        },
+        {
+          "trim": "PRESTIGE W/O TPMS",
+          "torque_ftlb": 120
+        }
+      ],
+      "Q8": [
+        {
+          "trim": "HYBRID",
+          "torque_ftlb": 120
+        },
+        {
+          "trim": "PREMIUM",
+          "torque_ftlb": 120
+        },
+        {
+          "trim": "PREMIUM PLUS",
+          "torque_ftlb": 120
+        },
+        {
+          "trim": "PRESTIGE",
+          "torque_ftlb": 120
+        }
+      ],
+      "R8": [
+        {
+          "trim": "V10 QUATTRO W/ CERAMIC BRAKES",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "V10 RWD",
+          "torque_ftlb": 90
+        }
+      ],
+      "RS Q8": [
+        {
+          "trim": "SUV",
+          "torque_ftlb": 120
+        },
+        {
+          "trim": "SUV W/ CERAMIC BRAKES",
+          "torque_ftlb": 120
+        }
+      ],
+      "RS3": [
+        {
+          "trim": "SEDAN",
+          "torque_ftlb": 100
+        }
+      ],
+      "RS5": [
+        {
+          "trim": "COUPE",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "SPORTBACK",
+          "torque_ftlb": 90
+        }
+      ],
+      "RS6": [
+        {
+          "trim": "AVANT",
+          "torque_ftlb": 90
+        }
+      ],
+      "RS7": [
+        {
+          "trim": "SEDAN",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "SEDAN W/ CERAMIC BRAKES",
+          "torque_ftlb": 90
+        }
+      ],
+      "S3": [
+        {
+          "trim": "BASE",
+          "torque_ftlb": 100
+        },
+        {
+          "trim": "S SPORT PACKAGE",
+          "torque_ftlb": 100
+        }
+      ],
+      "S4": [
+        {
+          "trim": "3.0T",
+          "torque_ftlb": 90
+        }
+      ],
+      "S5": [
+        {
+          "trim": "CONVERTIBLE",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "COUPE",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "SPORTBACK",
+          "torque_ftlb": 90
+        }
+      ],
+      "S6": [
+        {
+          "trim": "2.9T",
+          "torque_ftlb": 90
+        }
+      ],
+      "S7": [
+        {
+          "trim": "2.9T",
+          "torque_ftlb": 90
+        }
+      ],
+      "S8": [
+        {
+          "trim": "4.0",
+          "torque_ftlb": 90
+        }
+      ],
+      "SQ5": [
+        {
+          "trim": "3.0T QUATTRO",
+          "torque_ftlb": 100
+        },
+        {
+          "trim": "3.0T QUATTRO S SPORT PACKAGE",
+          "torque_ftlb": 100
+        }
+      ],
+      "SQ5 SPORTBACK": [
+        {
+          "trim": "3.0T QUATTRO",
+          "torque_ftlb": 100
+        },
+        {
+          "trim": "3.0T QUATTRO S SPORT PACKAGE",
+          "torque_ftlb": 100
+        }
+      ],
+      "SQ7": [
+        {
+          "trim": "4.0T",
+          "torque_ftlb": 120
+        }
+      ],
+      "SQ8": [
+        {
+          "trim": "4.0T",
+          "torque_ftlb": 120
+        }
+      ],
+      "TT QUATTRO": [
+        {
+          "trim": "CONVERTIBLE",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "COUPE",
+          "torque_ftlb": 90
+        }
+      ],
+      "TT RS": [
+        {
+          "trim": "COUPE",
+          "torque_ftlb": 90
+        }
+      ],
+      "TTS": [
+        {
+          "trim": "COUPE",
+          "torque_ftlb": 90
+        }
+      ],
+      "E-TRON": [
+        {
+          "trim": "CHRONOS EDITION",
+          "torque_ftlb": 120
+        },
+        {
+          "trim": "PREMIUM",
+          "torque_ftlb": 120
+        },
+        {
+          "trim": "PREMIUM PLUS",
+          "torque_ftlb": 120
+        }
+      ],
+      "E-TRON GT": [
+        {
+          "trim": "PREMIUM PLUS",
+          "torque_ftlb": 120
+        },
+        {
+          "trim": "PRESTIGE",
+          "torque_ftlb": 120
+        },
+        {
+          "trim": "RS",
+          "torque_ftlb": 120
+        },
+        {
+          "trim": "RS W/ CARBON CERAMIC BRAKE",
+          "torque_ftlb": 120
+        }
+      ],
+      "E-TRON S": [
+        {
+          "trim": "PREMIUM PLUS",
+          "torque_ftlb": 120
+        },
+        {
+          "trim": "PRESTIGE",
+          "torque_ftlb": 120
+        }
+      ],
+      "E-TRON SPORTBACK": [
+        {
+          "trim": "PREMIUM",
+          "torque_ftlb": 120
+        },
+        {
+          "trim": "PREMIUM PLUS",
+          "torque_ftlb": 120
+        },
+        {
+          "trim": "PRESTIGE",
+          "torque_ftlb": 120
+        }
+      ],
+      "E-TRON SPORTBACK S": [
+        {
+          "trim": "PREMIUM PLUS",
+          "torque_ftlb": 120
+        },
+        {
+          "trim": "PRESTIGE",
+          "torque_ftlb": 120
         }
       ]
     },
@@ -9092,6 +13818,440 @@
         }
       ]
     },
+    "ALFA ROMEO": {
+      "GIULIA": [
+        {
+          "trim": "ESTREMA AWD",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "ESTREMA RWD",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "SPRINT AWD",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "SPRINT RWD",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "TI AWD",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "TI RWD",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "VELOCE AWD",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "VELOCE RWD",
+          "torque_ftlb": 90
+        }
+      ],
+      "GIULIA QUADRIFOGLIO": [
+        {
+          "trim": "SEDAN",
+          "torque_ftlb": 90
+        }
+      ],
+      "STELVIO": [
+        {
+          "trim": "ESTREMA AWD",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "SPRINT AWD",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "SPRINT RWD",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "TI AWD",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "VELOCE AWD",
+          "torque_ftlb": 90
+        }
+      ],
+      "STELVIO QUADRIFOGLIO": [
+        {
+          "trim": "BASE",
+          "torque_ftlb": 90
+        }
+      ]
+    },
+    "ASTON MARTIN": {
+      "DB11": [
+        {
+          "trim": "COUPE",
+          "torque_ftlb": 135
+        },
+        {
+          "trim": "VOLANTE",
+          "torque_ftlb": 135
+        }
+      ],
+      "DBX": [
+        {
+          "trim": "707 SUV",
+          "torque_ftlb": 130
+        }
+      ],
+      "VANTAGE": [
+        {
+          "trim": "COUPE V8",
+          "torque_ftlb": 115
+        },
+        {
+          "trim": "COUPE V8 W/ CERAMIC BRAKES",
+          "torque_ftlb": 115
+        },
+        {
+          "trim": "ROADSTER V8",
+          "torque_ftlb": 115
+        }
+      ],
+      "VANTAGE F1": [
+        {
+          "trim": "COUPE",
+          "torque_ftlb": 110
+        }
+      ]
+    },
+    "AUDI": {
+      "A3": [
+        {
+          "trim": "SEDAN",
+          "torque_ftlb": 100
+        }
+      ],
+      "A3 QUATTRO": [
+        {
+          "trim": "SEDAN",
+          "torque_ftlb": 90
+        }
+      ],
+      "A4 QUATTRO": [
+        {
+          "trim": "SEDAN",
+          "torque_ftlb": 90
+        }
+      ],
+      "A4 ALLROAD": [
+        {
+          "trim": "2.0 QUATTRO",
+          "torque_ftlb": 90
+        }
+      ],
+      "A6 QUATTRO": [
+        {
+          "trim": "2.0T",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "3.0T",
+          "torque_ftlb": 90
+        }
+      ],
+      "A6 ALLROAD": [
+        {
+          "trim": "3.0T QUATTRO",
+          "torque_ftlb": 90
+        }
+      ],
+      "A7 QUATTRO": [
+        {
+          "trim": "55 TFSI E HYBRID",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "PREMIUM 3.0T",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "PREMIUM PLUS 3.0T",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "PRESTIGE 3.0T",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "S-LINE 3.0T",
+          "torque_ftlb": 90
+        }
+      ],
+      "A8L": [
+        {
+          "trim": "3.0 QUATTRO",
+          "torque_ftlb": 90
+        }
+      ],
+      "Q3 QUATTRO": [
+        {
+          "trim": "2.0T QUATTRO",
+          "torque_ftlb": 100
+        }
+      ],
+      "Q5": [
+        {
+          "trim": "2.0 QUATTRO",
+          "torque_ftlb": 100
+        },
+        {
+          "trim": "PREMIUM HYBIRD",
+          "torque_ftlb": 100
+        },
+        {
+          "trim": "E PLUG-IN HYBRID QUATTRO",
+          "torque_ftlb": 100
+        }
+      ],
+      "Q5 SPORTBACK": [
+        {
+          "trim": "2.0 QUATTRO",
+          "torque_ftlb": 100
+        },
+        {
+          "trim": "2.0 QUATTRO SPORT PACKAGE",
+          "torque_ftlb": 100
+        }
+      ],
+      "Q7": [
+        {
+          "trim": "PREMIUM",
+          "torque_ftlb": 120
+        },
+        {
+          "trim": "PREMIUM PLUS",
+          "torque_ftlb": 120
+        },
+        {
+          "trim": "PREMIUM PLUS W/O TPMS",
+          "torque_ftlb": 120
+        },
+        {
+          "trim": "PREMIUM W/O TPMS",
+          "torque_ftlb": 120
+        },
+        {
+          "trim": "PRESTIGE",
+          "torque_ftlb": 120
+        },
+        {
+          "trim": "PRESTIGE W/O TPMS",
+          "torque_ftlb": 120
+        }
+      ],
+      "Q8": [
+        {
+          "trim": "PREMIUM",
+          "torque_ftlb": 120
+        },
+        {
+          "trim": "PREMIUM PLUS",
+          "torque_ftlb": 120
+        },
+        {
+          "trim": "PRESTIGE",
+          "torque_ftlb": 120
+        }
+      ],
+      "R8": [
+        {
+          "trim": "V10 QUATTRO W/ CERAMIC BRAKES",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "V10 RWD",
+          "torque_ftlb": 90
+        }
+      ],
+      "RS Q8": [
+        {
+          "trim": "SUV",
+          "torque_ftlb": 120
+        },
+        {
+          "trim": "SUV W/ CERAMIC BRAKES",
+          "torque_ftlb": 120
+        }
+      ],
+      "RS3": [
+        {
+          "trim": "SEDAN",
+          "torque_ftlb": 100
+        }
+      ],
+      "RS6": [
+        {
+          "trim": "AVANT",
+          "torque_ftlb": 90
+        }
+      ],
+      "RS7": [
+        {
+          "trim": "SEDAN",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "SEDAN W/ CERAMIC BRAKES",
+          "torque_ftlb": 90
+        }
+      ],
+      "S3": [
+        {
+          "trim": "BASE",
+          "torque_ftlb": 100
+        }
+      ],
+      "S4": [
+        {
+          "trim": "3.0T",
+          "torque_ftlb": 90
+        }
+      ],
+      "S6": [
+        {
+          "trim": "2.9T",
+          "torque_ftlb": 90
+        }
+      ],
+      "S7": [
+        {
+          "trim": "2.9T",
+          "torque_ftlb": 90
+        }
+      ],
+      "S8": [
+        {
+          "trim": "4.0",
+          "torque_ftlb": 90
+        }
+      ],
+      "SQ5": [
+        {
+          "trim": "3.0T QUATTRO",
+          "torque_ftlb": 100
+        },
+        {
+          "trim": "3.0T QUATTRO S SPORT PACKAGE",
+          "torque_ftlb": 100
+        }
+      ],
+      "SQ5 SPORTBACK": [
+        {
+          "trim": "3.0T QUATTRO",
+          "torque_ftlb": 100
+        },
+        {
+          "trim": "3.0T QUATTRO S SPORT PACKAGE",
+          "torque_ftlb": 100
+        }
+      ],
+      "SQ7": [
+        {
+          "trim": "4.0T",
+          "torque_ftlb": 120
+        }
+      ],
+      "SQ8": [
+        {
+          "trim": "4.0T",
+          "torque_ftlb": 120
+        }
+      ],
+      "TT QUATTRO": [
+        {
+          "trim": "CONVERTIBLE",
+          "torque_ftlb": 90
+        },
+        {
+          "trim": "COUPE",
+          "torque_ftlb": 90
+        }
+      ],
+      "TTS": [
+        {
+          "trim": "COUPE",
+          "torque_ftlb": 90
+        }
+      ],
+      "E-TRON": [
+        {
+          "trim": "CHRONOS EDITION",
+          "torque_ftlb": 120
+        },
+        {
+          "trim": "PREMIUM",
+          "torque_ftlb": 120
+        },
+        {
+          "trim": "PREMIUM PLUS",
+          "torque_ftlb": 120
+        }
+      ],
+      "E-TRON GT": [
+        {
+          "trim": "PREMIUM PLUS",
+          "torque_ftlb": 120
+        },
+        {
+          "trim": "PRESTIGE",
+          "torque_ftlb": 120
+        },
+        {
+          "trim": "RS",
+          "torque_ftlb": 120
+        },
+        {
+          "trim": "RS W/ CARBON CERAMIC BRAKE",
+          "torque_ftlb": 120
+        }
+      ],
+      "E-TRON S": [
+        {
+          "trim": "PREMIUM PLUS",
+          "torque_ftlb": 120
+        },
+        {
+          "trim": "PRESTIGE",
+          "torque_ftlb": 120
+        }
+      ],
+      "E-TRON SPORTBACK": [
+        {
+          "trim": "PREMIUM",
+          "torque_ftlb": 120
+        },
+        {
+          "trim": "PREMIUM PLUS",
+          "torque_ftlb": 120
+        },
+        {
+          "trim": "PRESTIGE",
+          "torque_ftlb": 120
+        }
+      ],
+      "E-TRON SPORTBACK S": [
+        {
+          "trim": "PREMIUM PLUS",
+          "torque_ftlb": 120
+        },
+        {
+          "trim": "PRESTIGE",
+          "torque_ftlb": 120
+        }
+      ]
+    },
     "BMW": {
       "228I GRAN COUPE": [
         {
@@ -9581,6 +14741,10 @@
         {
           "trim": "40I SDRIVE",
           "torque_ftlb": 105
+        },
+        {
+          "trim": "40I SDRIVE",
+          "torque_ftlb": 105
         }
       ],
       "X5 M": [
@@ -9745,7 +14909,159 @@
       ]
     }
   },
+  "1984": {
+    "ALFA ROMEO": {
+      "GTV-6": [
+        {
+          "trim": "2 DOOR / 2.5",
+          "torque_ftlb": 75
+        }
+      ],
+      "SPIDER": [
+        {
+          "trim": "2 DOOR / VELOCE",
+          "torque_ftlb": 75
+        }
+      ]
+    },
+    "AUDI": {
+      "4000": [
+        {
+          "trim": "BASE/S / 185/60R14",
+          "torque_ftlb": 90
+        }
+      ],
+      "5000": [
+        {
+          "trim": "SEDAN / TURBO/QUAT",
+          "torque_ftlb": 90
+        }
+      ],
+      "4000 CS": [
+        {
+          "trim": "QUATTRO / 195/60R14",
+          "torque_ftlb": 90
+        }
+      ],
+      "COUPE": [
+        {
+          "trim": "ALL / QUATTRO",
+          "torque_ftlb": 90
+        }
+      ],
+      "QUATTRO": [
+        {
+          "trim": "ALL / QUATTRO",
+          "torque_ftlb": 90
+        }
+      ]
+    },
+    "BMW": {
+      "318I": [
+        {
+          "trim": "ALL / E30",
+          "torque_ftlb": 80
+        }
+      ],
+      "325I/IS/E": [
+        {
+          "trim": "2/4 DR / E30",
+          "torque_ftlb": 80
+        }
+      ],
+      "528 - ALL": [
+        {
+          "trim": "14-INCH / CPE/SDN",
+          "torque_ftlb": 80
+        }
+      ],
+      "533I /E28": [
+        {
+          "trim": "14-INCH / CPE/SDN",
+          "torque_ftlb": 80
+        }
+      ]
+    },
+    "BUICK": {
+      "ELECTRA": [
+        {
+          "trim": "14-INCH / BASE/ULTRA",
+          "torque_ftlb": 100
+        }
+      ],
+      "GRAND NATIONAL": [
+        {
+          "trim": "ALL / COUPE",
+          "torque_ftlb": 100
+        }
+      ],
+      "REGAL": [
+        {
+          "trim": "ALL / GS",
+          "torque_ftlb": 100
+        }
+      ],
+      "REGAL T-TYPE": [
+        {
+          "trim": "ALL / COUPE",
+          "torque_ftlb": 100
+        }
+      ],
+      "SKYHAWK": [
+        {
+          "trim": "13-INCH / CPE/SDN",
+          "torque_ftlb": 100
+        }
+      ]
+    }
+  },
   "1985": {
+    "ALFA ROMEO": {
+      "GTV-6": [
+        {
+          "trim": "2 DOOR / 2.5",
+          "torque_ftlb": 75
+        }
+      ],
+      "SPIDER": [
+        {
+          "trim": "2 DOOR / VELOCE",
+          "torque_ftlb": 75
+        }
+      ]
+    },
+    "AUDI": {
+      "4000": [
+        {
+          "trim": "BASE/S / 185/60R14",
+          "torque_ftlb": 90
+        }
+      ],
+      "5000": [
+        {
+          "trim": "SEDAN / TURBO/QUAT",
+          "torque_ftlb": 90
+        }
+      ],
+      "4000 CS": [
+        {
+          "trim": "QUATTRO / 195/60R14",
+          "torque_ftlb": 90
+        }
+      ],
+      "COUPE": [
+        {
+          "trim": "ALL / QUATTRO",
+          "torque_ftlb": 90
+        }
+      ],
+      "QUATTRO": [
+        {
+          "trim": "ALL / QUATTRO",
+          "torque_ftlb": 90
+        }
+      ]
+    },
     "BENTLEY": {
       "CORNICHE": [
         {
@@ -9761,15 +15077,27 @@
           "torque_ftlb": 80
         }
       ],
-      "524TD": [
+      "325I/IS/E": [
         {
-          "trim": "/E28\t14-INCH / ALL",
+          "trim": "2/4 DR / E30",
+          "torque_ftlb": 80
+        }
+      ],
+      "524TD /E28": [
+        {
+          "trim": "14-INCH / ALL",
           "torque_ftlb": 80
         }
       ],
       "528 - ALL": [
         {
           "trim": "14-INCH / CPE/SDN",
+          "torque_ftlb": 80
+        }
+      ],
+      "535/I/IS": [
+        {
+          "trim": "15-INCH / ALL/E28",
           "torque_ftlb": 80
         }
       ]
@@ -9813,121 +15141,25 @@
       ]
     }
   },
-  "1973": {
-    "BMW": {
-      "2002": [
+  "1981": {
+    "AUDI": {
+      "COUPE": [
         {
-          "trim": "/E12\t2 DOOR / 165/80R13",
-          "torque_ftlb": 80
-        }
-      ],
-      "2800": [
-        {
-          "trim": "/E3\tALL / A/CS/CSA",
-          "torque_ftlb": 80
+          "trim": "ALL / QUATTRO",
+          "torque_ftlb": 90
         }
       ]
-    }
-  },
-  "1974": {
+    },
     "BMW": {
-      "2002": [
+      "320I": [
         {
-          "trim": "/E12\t2 DOOR / 165/80R13",
-          "torque_ftlb": 80
-        }
-      ]
-    }
-  },
-  "1975": {
-    "BMW": {
-      "2002": [
-        {
-          "trim": "/E12\t2 DOOR / 165/80R13",
-          "torque_ftlb": 80
-        }
-      ],
-      "530I": [
-        {
-          "trim": "/E12\t2/4 DR / ALL",
-          "torque_ftlb": 80
-        }
-      ]
-    }
-  },
-  "1976": {
-    "BMW": {
-      "2002": [
-        {
-          "trim": "/E12\t2 DOOR / 165/80R13",
-          "torque_ftlb": 80
-        }
-      ],
-      "530I": [
-        {
-          "trim": "/E12\t2/4 DR / ALL",
-          "torque_ftlb": 80
-        }
-      ]
-    }
-  },
-  "1969": {
-    "BMW": {
-      "2800": [
-        {
-          "trim": "/E3\tALL / A/CS/CSA",
-          "torque_ftlb": 80
-        }
-      ]
-    }
-  },
-  "1970": {
-    "BMW": {
-      "2800": [
-        {
-          "trim": "/E3\tALL / A/CS/CSA",
-          "torque_ftlb": 80
-        }
-      ]
-    }
-  },
-  "1971": {
-    "BMW": {
-      "2800": [
-        {
-          "trim": "/E3\tALL / A/CS/CSA",
-          "torque_ftlb": 80
-        }
-      ]
-    }
-  },
-  "1972": {
-    "BMW": {
-      "2800": [
-        {
-          "trim": "/E3\tALL / A/CS/CSA",
-          "torque_ftlb": 80
-        }
-      ]
-    }
-  },
-  "1984": {
-    "BMW": {
-      "318I": [
-        {
-          "trim": "ALL / E30",
+          "trim": "ALL / E21",
           "torque_ftlb": 80
         }
       ],
       "528 - ALL": [
         {
           "trim": "14-INCH / CPE/SDN",
-          "torque_ftlb": 80
-        }
-      ],
-      "533I": [
-        {
-          "trim": "/E28\t14-INCH / CPE/SDN",
           "torque_ftlb": 80
         }
       ]
@@ -9938,29 +15170,251 @@
           "trim": "14-INCH / BASE/ULTRA",
           "torque_ftlb": 100
         }
-      ],
-      "GRAND NATIONAL": [
+      ]
+    }
+  },
+  "1982": {
+    "AUDI": {
+      "COUPE": [
         {
-          "trim": "ALL / COUPE",
-          "torque_ftlb": 100
+          "trim": "ALL / QUATTRO",
+          "torque_ftlb": 90
+        }
+      ]
+    },
+    "BMW": {
+      "320I": [
+        {
+          "trim": "ALL / E21",
+          "torque_ftlb": 80
         }
       ],
-      "REGAL": [
+      "528 - ALL": [
         {
-          "trim": "ALL / GS",
+          "trim": "14-INCH / CPE/SDN",
+          "torque_ftlb": 80
+        }
+      ]
+    },
+    "BUICK": {
+      "ELECTRA": [
+        {
+          "trim": "14-INCH / BASE/ULTRA",
           "torque_ftlb": 100
         }
-      ],
-      "REGAL T-TYPE": [
+      ]
+    }
+  },
+  "1983": {
+    "AUDI": {
+      "COUPE": [
         {
-          "trim": "ALL / COUPE",
-          "torque_ftlb": 100
+          "trim": "ALL / QUATTRO",
+          "torque_ftlb": 90
+        }
+      ]
+    },
+    "BMW": {
+      "320I": [
+        {
+          "trim": "ALL / E21",
+          "torque_ftlb": 80
         }
       ],
-      "SKYHAWK": [
+      "528 - ALL": [
         {
-          "trim": "13-INCH / CPE/SDN",
+          "trim": "14-INCH / CPE/SDN",
+          "torque_ftlb": 80
+        }
+      ],
+      "533I /E28": [
+        {
+          "trim": "14-INCH / CPE/SDN",
+          "torque_ftlb": 80
+        }
+      ]
+    },
+    "BUICK": {
+      "ELECTRA": [
+        {
+          "trim": "14-INCH / BASE/ULTRA",
           "torque_ftlb": 100
+        }
+      ]
+    }
+  },
+  "1973": {
+    "BMW": {
+      "2002 /E12": [
+        {
+          "trim": "2 DOOR / 165/80R13",
+          "torque_ftlb": 80
+        }
+      ],
+      "2500/A /E3": [
+        {
+          "trim": "4 DOOR / SEDAN",
+          "torque_ftlb": 80
+        }
+      ],
+      "2800 /E3": [
+        {
+          "trim": "ALL / A/CS/CSA",
+          "torque_ftlb": 80
+        }
+      ],
+      "3.0 CS/CSI": [
+        {
+          "trim": "ALL / E9",
+          "torque_ftlb": 80
+        }
+      ],
+      "3.0S/SI": [
+        {
+          "trim": "ALL / E3",
+          "torque_ftlb": 80
+        }
+      ],
+      "BAVARIA/E3": [
+        {
+          "trim": "2/4DR / 3.0 SEDAN",
+          "torque_ftlb": 80
+        }
+      ]
+    }
+  },
+  "1974": {
+    "BMW": {
+      "2002 /E12": [
+        {
+          "trim": "2 DOOR / 165/80R13",
+          "torque_ftlb": 80
+        }
+      ],
+      "3.0 CS/CSI": [
+        {
+          "trim": "ALL / E9",
+          "torque_ftlb": 80
+        }
+      ],
+      "3.0S/SI": [
+        {
+          "trim": "ALL / E3",
+          "torque_ftlb": 80
+        }
+      ]
+    }
+  },
+  "1975": {
+    "BMW": {
+      "2002 /E12": [
+        {
+          "trim": "2 DOOR / 165/80R13",
+          "torque_ftlb": 80
+        }
+      ],
+      "3.0 CS/CSI": [
+        {
+          "trim": "ALL / E9",
+          "torque_ftlb": 80
+        }
+      ],
+      "3.0S/SI": [
+        {
+          "trim": "ALL / E3",
+          "torque_ftlb": 80
+        }
+      ],
+      "530I /E12": [
+        {
+          "trim": "2/4 DR / ALL",
+          "torque_ftlb": 80
+        }
+      ]
+    }
+  },
+  "1976": {
+    "BMW": {
+      "2002 /E12": [
+        {
+          "trim": "2 DOOR / 165/80R13",
+          "torque_ftlb": 80
+        }
+      ],
+      "3.0S/SI": [
+        {
+          "trim": "ALL / E3",
+          "torque_ftlb": 80
+        }
+      ],
+      "530I /E12": [
+        {
+          "trim": "2/4 DR / ALL",
+          "torque_ftlb": 80
+        }
+      ]
+    }
+  },
+  "1971": {
+    "BMW": {
+      "2500/A /E3": [
+        {
+          "trim": "4 DOOR / SEDAN",
+          "torque_ftlb": 80
+        }
+      ],
+      "2800 /E3": [
+        {
+          "trim": "ALL / A/CS/CSA",
+          "torque_ftlb": 80
+        }
+      ],
+      "BAVARIA/E3": [
+        {
+          "trim": "2/4DR / 3.0 SEDAN",
+          "torque_ftlb": 80
+        }
+      ]
+    }
+  },
+  "1972": {
+    "BMW": {
+      "2500/A /E3": [
+        {
+          "trim": "4 DOOR / SEDAN",
+          "torque_ftlb": 80
+        }
+      ],
+      "2800 /E3": [
+        {
+          "trim": "ALL / A/CS/CSA",
+          "torque_ftlb": 80
+        }
+      ],
+      "BAVARIA/E3": [
+        {
+          "trim": "2/4DR / 3.0 SEDAN",
+          "torque_ftlb": 80
+        }
+      ]
+    }
+  },
+  "1969": {
+    "BMW": {
+      "2800 /E3": [
+        {
+          "trim": "ALL / A/CS/CSA",
+          "torque_ftlb": 80
+        }
+      ]
+    }
+  },
+  "1970": {
+    "BMW": {
+      "2800 /E3": [
+        {
+          "trim": "ALL / A/CS/CSA",
+          "torque_ftlb": 80
         }
       ]
     }
@@ -9973,9 +15427,9 @@
           "torque_ftlb": 80
         }
       ],
-      "530I": [
+      "530I /E12": [
         {
-          "trim": "/E12\t2/4 DR / ALL",
+          "trim": "2/4 DR / ALL",
           "torque_ftlb": 80
         }
       ]
@@ -9989,9 +15443,9 @@
           "torque_ftlb": 80
         }
       ],
-      "530I": [
+      "530I /E12": [
         {
-          "trim": "/E12\t2/4 DR / ALL",
+          "trim": "2/4 DR / ALL",
           "torque_ftlb": 80
         }
       ]
@@ -10024,84 +15478,6 @@
       "528 - ALL": [
         {
           "trim": "14-INCH / CPE/SDN",
-          "torque_ftlb": 80
-        }
-      ]
-    },
-    "BUICK": {
-      "ELECTRA": [
-        {
-          "trim": "14-INCH / BASE/ULTRA",
-          "torque_ftlb": 100
-        }
-      ]
-    }
-  },
-  "1981": {
-    "BMW": {
-      "320I": [
-        {
-          "trim": "ALL / E21",
-          "torque_ftlb": 80
-        }
-      ],
-      "528 - ALL": [
-        {
-          "trim": "14-INCH / CPE/SDN",
-          "torque_ftlb": 80
-        }
-      ]
-    },
-    "BUICK": {
-      "ELECTRA": [
-        {
-          "trim": "14-INCH / BASE/ULTRA",
-          "torque_ftlb": 100
-        }
-      ]
-    }
-  },
-  "1982": {
-    "BMW": {
-      "320I": [
-        {
-          "trim": "ALL / E21",
-          "torque_ftlb": 80
-        }
-      ],
-      "528 - ALL": [
-        {
-          "trim": "14-INCH / CPE/SDN",
-          "torque_ftlb": 80
-        }
-      ]
-    },
-    "BUICK": {
-      "ELECTRA": [
-        {
-          "trim": "14-INCH / BASE/ULTRA",
-          "torque_ftlb": 100
-        }
-      ]
-    }
-  },
-  "1983": {
-    "BMW": {
-      "320I": [
-        {
-          "trim": "ALL / E21",
-          "torque_ftlb": 80
-        }
-      ],
-      "528 - ALL": [
-        {
-          "trim": "14-INCH / CPE/SDN",
-          "torque_ftlb": 80
-        }
-      ],
-      "533I": [
-        {
-          "trim": "/E28\t14-INCH / CPE/SDN",
           "torque_ftlb": 80
         }
       ]
